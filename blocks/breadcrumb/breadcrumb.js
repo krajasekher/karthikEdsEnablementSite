@@ -10,8 +10,8 @@ export default function decorate($block) {
   $block.append($ul);
 
   // Build the trail from the URL path instead of hardcoding it.
-  const path = window.location.pathname;               // e.g. "/guides/setup/intro"
-  const segments = path.split('/').filter((s) => s);   // ["guides","setup","intro"]
+  const path = window.location.pathname; // e.g. "/guides/setup/intro"
+  const segments = path.split('/').filter((s) => s); // ["guides","setup","intro"]
 
   const trail = [{ text: 'Home', link: '/' }];
 
@@ -21,7 +21,7 @@ export default function decorate($block) {
     trail.push({
       // Prettify the slug ("banner-test" -> "Banner Test"); use the page title for the last crumb.
       text: isLast ? title : segment.replace(/-/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase()),
-      link: isLast ? undefined : link,   // current page isn't a link
+      link: isLast ? undefined : link, // current page isn't a link
     });
   });
 
