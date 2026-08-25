@@ -1,0 +1,374 @@
+.photo-gallery {
+  padding: 20px;
+}
+
+/* Photo grid */
+.photo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 20px;
+}
+
+.photo-item {
+  position: relative;
+  aspect-ratio: 4/3;
+  cursor: pointer;
+  overflow: hidden;
+  border-radius: 4px;
+}
+
+.photo-item img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.photo-item:hover img {
+  transform: scale(1.05);
+}
+
+.hover-circle {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 44px;
+  height: 44px;
+  background-color: rgb(0 0 0 / 50%);
+  border-radius: 50%;
+  transform: translate(-50%, -50%) scale(0);
+  transition: transform 0.3s ease;
+  pointer-events: none;
+}
+
+.hover-circle::before {
+  content: '+';
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--background-color, white);
+  font-size: 28px;
+  line-height: 1;
+}
+
+.photo-item:hover .hover-circle {
+  transform: translate(-50%, -50%) scale(1);
+}
+
+/* Modal overlay */
+.image-modal-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgb(0 0 0 / 90%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+}
+
+.image-modal-content {
+  position: relative;
+  display: flex;
+  align-items: center;
+  background: var(--background-color, white);
+  padding: 20px;
+  border-radius: 4px;
+  max-width: 90vw;
+  transition: transform 0.3s ease;
+}
+
+.modal-main {
+  flex: 1;
+  max-width: 80vw;
+  position: relative;
+}
+
+/* Image container */
+.image-container {
+  position: relative;
+  width: 100%;
+  cursor: pointer;
+}
+
+.image-container img {
+  width: 100%;
+  max-height: calc(70vh - 100px);
+  object-fit: contain;
+  display: block;
+}
+
+/* Nav buttons — CSS arrows */
+.nav-button {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgb(0 0 0 / 40%);
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  width: 36px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  z-index: 2;
+  color: var(--background-color, white);
+  font-size: 20px;
+  border-radius: 50%;
+}
+
+.nav-button.prev {
+  left: 8px;
+}
+
+.nav-button.next {
+  right: 8px;
+}
+
+.nav-button.prev::after {
+  content: '‹';
+}
+
+.nav-button.next::after {
+  content: '›';
+}
+
+.image-container:hover .nav-button {
+  opacity: 0.8;
+}
+
+.image-container:hover .nav-button:hover {
+  opacity: 1;
+}
+
+/* Expand button */
+.expand-button {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  width: 28px;
+  height: 28px;
+  background: rgb(0 0 0 / 40%);
+  border: none;
+  cursor: pointer;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  z-index: 3;
+  color: var(--background-color, white);
+  font-size: 14px;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.expand-button::after {
+  content: '⤢';
+}
+
+.expand-button.contracted::after {
+  content: '⤡';
+}
+
+.image-container:hover .expand-button {
+  opacity: 0.8;
+}
+
+/* Thumbnails */
+.thumbnails-container {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 40px;
+  overflow: hidden;
+  height: 60px;
+  z-index: 2;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.image-modal-content:hover .thumbnails-container {
+  opacity: 1;
+}
+
+.thumb-nav {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 4px;
+  z-index: 2;
+  color: var(--text-color, #131313);
+  font-size: 18px;
+}
+
+.thumb-nav.prev {
+  left: 5px;
+}
+
+.thumb-nav.next {
+  right: 5px;
+}
+
+.thumb-nav.prev::after {
+  content: '‹';
+}
+
+.thumb-nav.next::after {
+  content: '›';
+}
+
+.thumbnails-wrapper {
+  display: flex;
+  gap: 10px;
+  overflow-x: auto;
+  max-width: 100%;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.thumbnails-wrapper::-webkit-scrollbar {
+  display: none;
+}
+
+.thumbnail {
+  width: 60px;
+  height: 40px;
+  cursor: pointer;
+  border: 2px solid transparent;
+  transition: border-color 0.3s ease;
+  flex-shrink: 0;
+}
+
+.thumbnail:hover {
+  border-color: rgb(0 0 0 / 30%);
+}
+
+.thumbnail.active {
+  border-color: var(--link-color, #3b63fb);
+}
+
+.thumbnail img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Modal controls */
+.modal-controls {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 0;
+  gap: 10px;
+}
+
+.slideshow-controls {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.play-button,
+.slide-nav {
+  border: none;
+  cursor: pointer;
+  padding: 4px 8px;
+  background: none;
+  color: var(--text-color, #131313);
+  opacity: 0.7;
+  transition: opacity 0.3s ease;
+  font-size: 16px;
+}
+
+.play-button:hover,
+.slide-nav:hover {
+  opacity: 1;
+}
+
+.play-button::after {
+  content: '▶';
+}
+
+.play-button.playing::after {
+  content: '⏸';
+}
+
+.slide-nav.prev::after {
+  content: '‹';
+}
+
+.slide-nav.next::after {
+  content: '›';
+}
+
+.image-counter {
+  font-style: italic;
+  color: var(--dark-color, #505050);
+  font-size: var(--body-font-size-xs);
+}
+
+.modal-title {
+  flex: 1;
+  text-align: center;
+  font-size: var(--body-font-size-xs);
+  font-family: var(--heading-font-family);
+  font-weight: 600;
+  color: var(--text-color, #131313);
+  margin: 0 10px;
+}
+
+.close-button {
+  border: none;
+  background: none;
+  cursor: pointer;
+  color: var(--text-color, #131313);
+  font-size: 20px;
+  opacity: 0.7;
+  padding: 4px 8px;
+  transition: opacity 0.3s ease;
+}
+
+.close-button:hover {
+  opacity: 1;
+}
+
+.close-button::after {
+  content: '✕';
+}
+
+/* Expanded modal */
+.image-modal-content.expanded {
+  max-width: 95vw;
+  transform: scale(1.15);
+}
+
+.modal-main.expanded {
+  max-width: 100%;
+}
+
+.modal-main.expanded .image-container img {
+  max-height: calc(80vh - 100px);
+}
+
+/* Mobile */
+@media (width <= 600px) {
+  .thumbnails-container {
+    display: none;
+  }
+
+  .modal-title {
+    font-size: 10px;
+  }
+
+  .photo-grid {
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  }
+}
