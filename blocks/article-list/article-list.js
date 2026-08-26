@@ -67,7 +67,7 @@ export default async function decorate(block) {
     articles.forEach((article) => grid.append(createCard(article)));
     block.append(grid);
   } catch (err) {
-    block.innerHTML = `<p class="article-list-error">Could not load articles.</p>`;
+    block.innerHTML = '<p class="article-list-error">Could not load articles.</p>';
     // eslint-disable-next-line no-console
     console.error('article-list block error:', err);
   }
