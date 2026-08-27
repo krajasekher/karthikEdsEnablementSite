@@ -41,14 +41,51 @@
       min-height: calc(100vh - var(--nav-height));
       display: flex;
       align-items: center;
+      justify-content: center;
+      text-align: center;
+      background: var(--background-color, #fff);
+    }
+
+    main.error .section {
+      max-width: 600px;
+      padding: 2rem 1.5rem;
     }
 
     main.error .error-number {
-      width: 100%;
+      width: min(280px, 60vw);
+      margin: 0 auto 1rem;
+      display: block;
     }
 
     main.error .error-number text {
-      font-family: monospace;
+      font-family: var(--body-font-family, monospace);
+      font-weight: 700;
+      fill: var(--link-color, #035fe6);
+    }
+
+    main.error .error-message {
+      font-size: clamp(1.4rem, 4vw, 2rem);
+      margin: 0 0 0.75rem;
+      color: var(--heading-color, #000);
+    }
+
+    main.error .error-description {
+      color: var(--text-color, #444);
+      font-size: 1rem;
+      line-height: 1.6;
+      margin: 0 0 1.75rem;
+    }
+
+    main.error .button-container {
+      display: flex;
+      gap: 0.75rem;
+      justify-content: center;
+      flex-wrap: wrap;
+      margin: 0;
+    }
+
+    main.error .button-container a.button {
+      min-width: 130px;
     }
   </style>
   <link rel="stylesheet" href="/styles/lazy-styles.css">
@@ -58,12 +95,16 @@
   <header></header>
   <main class="error">
     <div class="section">
-      <svg viewBox="1 0 38 18" class="error-number">
+      <svg viewBox="1 0 38 18" class="error-number" aria-hidden="true">
         <text x="0" y="17">404</text>
       </svg>
       <h2 class="error-message">Page Not Found</h2>
+      <p class="error-description">
+        Oops! The page you're looking for doesn't exist or may have been moved.
+        Try heading back home or use the navigation above to find what you need.
+      </p>
       <p class="button-container">
-        <a href="/" class="button secondary error-button-home">Go home</a>
+        <a href="/" class="button primary error-button-home">Go home</a>
       </p>
     </div>
   </main>
