@@ -1,0 +1,55 @@
+{
+  "variantName": "hero-minimal-dark-withimg",
+  "baseBlock": "hero",
+  "canonicalModel": "standalone",
+  "version": "1.0.0",
+  "created": "2026-08-31T05:13:30.907Z",
+  "sourceContext": {
+    "originUrl": "https://wknd-trendsetters.site/blog/ace-pro-court-polo",
+    "discoveredDuring": "site-scope-analysis"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "dark",
+    "density": "minimal",
+    "hasBackgroundImage": false,
+    "hasGrid": false,
+    "imagePattern": "large",
+    "structure": "heading + image"
+  },
+  "knownSignatures": [
+    "{\"canonicalModel\":\"standalone\",\"type\":\"hero\",\"visualChars\":{\"colorScheme\":\"dark\",\"density\":\"minimal\",\"hasBackgroundImage\":false,\"hasGrid\":false,\"imagePattern\":\"large\",\"structure\":\"heading + image\"}}"
+  ],
+  "usage": {
+    "pagesUsing": [
+      {
+        "url": "https://wknd-trendsetters.site/blog/ace-pro-court-polo",
+        "screenshot": ".pages/wknd-trendsetters_site_blog_ace-pro-court-polo--f4d90163/blocks/hero-37f927de.jpg"
+      },
+      {
+        "url": "https://wknd-trendsetters.site/blog/fashion-blog-post",
+        "screenshot": ".pages/wknd-trendsetters_site_blog_fashion-blog-post--d799affb/blocks/hero-37f927de.jpg"
+      },
+      {
+        "url": "https://wknd-trendsetters.site/blog/fashion-trends-young-culture",
+        "screenshot": ".pages/wknd-trendsetters_site_blog_fashion-trends-young-culture--df14d5aa/blocks/hero-37f927de.jpg"
+      },
+      {
+        "url": "https://wknd-trendsetters.site/blog/fashion-trends-young-style",
+        "screenshot": ".pages/wknd-trendsetters_site_blog_fashion-trends-young-style--85d6178c/blocks/hero-37f927de.jpg"
+      },
+      {
+        "url": "https://wknd-trendsetters.site/blog/flip-flop-summer-style",
+        "screenshot": ".pages/wknd-trendsetters_site_blog_flip-flop-summer-style--2c4ce901/blocks/hero-37f927de.jpg"
+      },
+      {
+        "url": "https://wknd-trendsetters.site/blog/latest-trends-young-casual-fashion",
+        "screenshot": ".pages/wknd-trendsetters_site_blog_latest-trends-young-casual-fashion--68825ee3/blocks/hero-37f927de.jpg"
+      },
+      {
+        "url": "https://wknd-trendsetters.site/blog/street-style-trends",
+        "screenshot": ".pages/wknd-trendsetters_site_blog_street-style-trends--2dba1005/blocks/hero-37f927de.jpg"
+      }
+    ],
+    "reuseCount": 7
+  }
+}

@@ -1,0 +1,114 @@
+[
+  {
+    "url": "https://wknd-trendsetters.site/",
+    "method": "crawl",
+    "status": 200,
+    "retries": 0,
+    "finalUrl": "https://wknd-trendsetters.site/"
+  },
+  {
+    "url": "https://wknd-trendsetters.site/fashion-trends-young-adults-casual-sport",
+    "method": "crawl",
+    "status": 200,
+    "retries": 0,
+    "finalUrl": "https://wknd-trendsetters.site/fashion-trends-young-adults-casual-sport"
+  },
+  {
+    "url": "https://wknd-trendsetters.site/fashion-trends-young-adults",
+    "method": "crawl",
+    "status": 200,
+    "retries": 0,
+    "finalUrl": "https://wknd-trendsetters.site/fashion-trends-young-adults"
+  },
+  {
+    "url": "https://wknd-trendsetters.site/blog",
+    "method": "crawl",
+    "status": 200,
+    "retries": 0,
+    "finalUrl": "https://wknd-trendsetters.site/blog"
+  },
+  {
+    "url": "https://wknd-trendsetters.site/case-studies",
+    "method": "crawl",
+    "status": 200,
+    "retries": 0,
+    "finalUrl": "https://wknd-trendsetters.site/case-studies"
+  },
+  {
+    "url": "https://wknd-trendsetters.site/fashion-trends-of-the-season",
+    "method": "crawl",
+    "status": 200,
+    "retries": 0,
+    "finalUrl": "https://wknd-trendsetters.site/fashion-trends-of-the-season"
+  },
+  {
+    "url": "https://wknd-trendsetters.site/faq",
+    "method": "crawl",
+    "status": 200,
+    "retries": 0,
+    "finalUrl": "https://wknd-trendsetters.site/faq"
+  },
+  {
+    "url": "https://wknd-trendsetters.site/fashion-insights",
+    "method": "crawl",
+    "status": 200,
+    "retries": 0,
+    "finalUrl": "https://wknd-trendsetters.site/fashion-insights"
+  },
+  {
+    "url": "https://wknd-trendsetters.site/blog/latest-trends-young-casual-fashion",
+    "method": "crawl",
+    "status": 200,
+    "retries": 0,
+    "finalUrl": "https://wknd-trendsetters.site/blog/latest-trends-young-casual-fashion"
+  },
+  {
+    "url": "https://wknd-trendsetters.site/blog/fashion-trends-young-culture",
+    "method": "crawl",
+    "status": 200,
+    "retries": 0,
+    "finalUrl": "https://wknd-trendsetters.site/blog/fashion-trends-young-culture"
+  },
+  {
+    "url": "https://wknd-trendsetters.site/blog/fashion-trends-young-style",
+    "method": "crawl",
+    "status": 200,
+    "retries": 0,
+    "finalUrl": "https://wknd-trendsetters.site/blog/fashion-trends-young-style"
+  },
+  {
+    "url": "https://wknd-trendsetters.site/blog/fashion-blog-post",
+    "method": "crawl",
+    "status": 200,
+    "retries": 0,
+    "finalUrl": "https://wknd-trendsetters.site/blog/fashion-blog-post"
+  },
+  {
+    "url": "https://wknd-trendsetters.site/blog/ace-pro-court-polo",
+    "method": "crawl",
+    "status": 200,
+    "retries": 0,
+    "finalUrl": "https://wknd-trendsetters.site/blog/ace-pro-court-polo"
+  },
+  {
+    "url": "https://wknd-trendsetters.site/blog/flip-flop-summer-style",
+    "method": "crawl",
+    "status": 200,
+    "retries": 0,
+    "finalUrl": "https://wknd-trendsetters.site/blog/flip-flop-summer-style"
+  },
+  {
+    "url": "https://wknd-trendsetters.site/blog/street-style-trends",
+    "method": "crawl",
+    "status": 200,
+    "retries": 0,
+    "finalUrl": "https://wknd-trendsetters.site/blog/street-style-trends"
+  },
+  {
+    "url": "https://wknd-trendsetters.site/cdn-cgi/l/email-protection",
+    "method": "crawl",
+    "status": 404,
+    "retries": 0,
+    "finalUrl": "https://wknd-trendsetters.site/cdn-cgi/l/email-protection"
+  }
+]

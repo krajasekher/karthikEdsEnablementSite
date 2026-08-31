@@ -1,0 +1,35 @@
+{
+  "variantName": "1 image block-minimal-dark-withimg",
+  "baseBlock": "unknown",
+  "canonicalModel": "standalone",
+  "version": "1.0.0",
+  "created": "2026-08-31T05:13:30.907Z",
+  "sourceContext": {
+    "originUrl": "https://wknd-trendsetters.site/blog/ace-pro-court-polo",
+    "discoveredDuring": "site-scope-analysis"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "dark",
+    "density": "minimal",
+    "hasBackgroundImage": false,
+    "hasGrid": false,
+    "imagePattern": "large",
+    "structure": "image"
+  },
+  "knownSignatures": [
+    "{\"canonicalModel\":\"standalone\",\"type\":\"unknown\",\"visualChars\":{\"colorScheme\":\"dark\",\"density\":\"minimal\",\"hasBackgroundImage\":false,\"hasGrid\":false,\"imagePattern\":\"large\",\"structure\":\"image\"}}"
+  ],
+  "usage": {
+    "pagesUsing": [
+      {
+        "url": "https://wknd-trendsetters.site/blog/ace-pro-court-polo",
+        "screenshot": ".pages/wknd-trendsetters_site_blog_ace-pro-court-polo--f4d90163/blocks/unknown-67b7af31.jpg"
+      },
+      {
+        "url": "https://wknd-trendsetters.site/blog/flip-flop-summer-style",
+        "screenshot": ".pages/wknd-trendsetters_site_blog_flip-flop-summer-style--2c4ce901/blocks/unknown-67b7af50.jpg"
+      }
+    ],
+    "reuseCount": 2
+  }
+}

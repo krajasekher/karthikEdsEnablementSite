@@ -1,0 +1,608 @@
+{
+  "https://wknd-trendsetters.site/": {
+    "signature": "sB(2x1B,2x1,sB(s(sB,sB),4x2),s(2x1,4x1),sB(s(sB,sB),4x1),2x1,3x1B(sB,sB))",
+    "nodeMap": {
+      "r": "body",
+      "rc1": "#main-content > header.section.secondary-section",
+      "rc2": "#main-content > section.section:nth-of-type(1)",
+      "rc3": "#main-content > section.section.secondary-section:nth-of-type(2)",
+      "rc3c1": "#main-content > section.section.secondary-section:nth-of-type(2) > div.container > div.utility-text-align-center.utility-margin-bottom-8rem",
+      "rc3c1c1": "#main-content > section.section.secondary-section:nth-of-type(2) > div.container > div.utility-text-align-center.utility-margin-bottom-8rem > div:nth-of-type(1)",
+      "rc3c1c2": "#main-content > section.section.secondary-section:nth-of-type(2) > div.container > div.utility-text-align-center.utility-margin-bottom-8rem > div:nth-of-type(2)",
+      "rc3c2": "#main-content > section.section.secondary-section:nth-of-type(2) > div.container > div.grid-layout.desktop-4-column.tablet-2-column-1.mobile-portrait-1-column.grid-gap-sm",
+      "rc4": "#main-content > section.section:nth-of-type(3)",
+      "rc4c1": "#main-content > section.section:nth-of-type(3) > div.container > div.tabs-wrapper > div.tabs-content",
+      "rc4c2": "#main-content > section.section:nth-of-type(3) > div.container > div.tabs-wrapper > div.grid-layout.desktop-4-column.tablet-2-column-1.mobile-portrait-1-column.tab-menu",
+      "rc5": "#main-content > section.section.secondary-section:nth-of-type(4)",
+      "rc5c1": "#main-content > section.section.secondary-section:nth-of-type(4) > div.container > div.utility-text-align-center",
+      "rc5c1c1": "#main-content > section.section.secondary-section:nth-of-type(4) > div.container > div.utility-text-align-center > div:nth-of-type(1)",
+      "rc5c1c2": "#main-content > section.section.secondary-section:nth-of-type(4) > div.container > div.utility-text-align-center > div:nth-of-type(2)",
+      "rc5c2": "#main-content > section.section.secondary-section:nth-of-type(4) > div.container > div.grid-layout.desktop-4-column.tablet-2-column-1.mobile-portrait-1-column.grid-gap-md",
+      "rc6": "#main-content > section.section:nth-of-type(5)",
+      "rc7": "#main-content > section.section.inverse-section",
+      "rc7c1": "#main-content > section.section.inverse-section > div.container > div.grid-layout.desktop-1-column > div.utility-position-relative.utility-radius-card.utility-overflow-clip > div:nth-of-type(1)",
+      "rc7c2": "#main-content > section.section.inverse-section > div.container > div.grid-layout.desktop-1-column > div.utility-position-relative.utility-radius-card.utility-overflow-clip > div.overlay.utility-z-index-1"
+    },
+    "sections": [
+      {
+        "id": "rc1",
+        "selector": "#main-content > header.section.secondary-section",
+        "layout": "2x1",
+        "hasBg": true,
+        "hint": "block"
+      },
+      {
+        "id": "rc2",
+        "selector": "#main-content > section.section:nth-of-type(1)",
+        "layout": "2x1",
+        "hasBg": false,
+        "hint": "block"
+      },
+      {
+        "id": "rc3",
+        "selector": "#main-content > section.section.secondary-section:nth-of-type(2)",
+        "layout": null,
+        "hasBg": true,
+        "hint": "block"
+      },
+      {
+        "id": "rc4",
+        "selector": "#main-content > section.section:nth-of-type(3)",
+        "layout": null,
+        "hasBg": false,
+        "hint": "block"
+      },
+      {
+        "id": "rc5",
+        "selector": "#main-content > section.section.secondary-section:nth-of-type(4)",
+        "layout": null,
+        "hasBg": true,
+        "hint": "block"
+      },
+      {
+        "id": "rc6",
+        "selector": "#main-content > section.section:nth-of-type(5)",
+        "layout": "2x1",
+        "hasBg": false,
+        "hint": "block"
+      },
+      {
+        "id": "rc7",
+        "selector": "#main-content > section.section.inverse-section",
+        "layout": "3x1",
+        "hasBg": true,
+        "hint": "block"
+      }
+    ]
+  },
+  "https://wknd-trendsetters.site/blog": {
+    "signature": "sB(sB,2x1,sB(s(sB,sB),4x2),sB)",
+    "nodeMap": {
+      "r": "body",
+      "rc1": "#main-content > header.section.secondary-section",
+      "rc2": "#main-content > section.section:nth-of-type(1)",
+      "rc3": "#articles",
+      "rc3c1": "#articles > div.container > div.utility-text-align-center",
+      "rc3c1c1": "#articles > div.container > div.utility-text-align-center > div:nth-of-type(1)",
+      "rc3c1c2": "#articles > div.container > div.utility-text-align-center > div:nth-of-type(2)",
+      "rc3c2": "#articles > div.container > div.grid-layout.desktop-4-column.tablet-2-column-1.mobile-portrait-1-column.grid-gap-md",
+      "rc4": "#main-content > section.section.accent-section"
+    },
+    "sections": [
+      {
+        "id": "rc1",
+        "selector": "#main-content > header.section.secondary-section",
+        "layout": null,
+        "hasBg": true,
+        "hint": "default-content"
+      },
+      {
+        "id": "rc2",
+        "selector": "#main-content > section.section:nth-of-type(1)",
+        "layout": "2x1",
+        "hasBg": false,
+        "hint": "block"
+      },
+      {
+        "id": "rc3",
+        "selector": "#articles",
+        "layout": null,
+        "hasBg": true,
+        "hint": "block"
+      },
+      {
+        "id": "rc4",
+        "selector": "#main-content > section.section.accent-section",
+        "layout": null,
+        "hasBg": true,
+        "hint": "default-content"
+      }
+    ]
+  },
+  "https://wknd-trendsetters.site/blog/ace-pro-court-polo": {
+    "signature": "sB(2x1,s)",
+    "nodeMap": {
+      "r": "body",
+      "rc1": "#main-content > section.section:nth-of-type(1)",
+      "rc2": "#main-content > section.section:nth-of-type(2)"
+    },
+    "sections": [
+      {
+        "id": "rc1",
+        "selector": "#main-content > section.section:nth-of-type(1)",
+        "layout": "2x1",
+        "hasBg": false,
+        "hint": "block"
+      },
+      {
+        "id": "rc2",
+        "selector": "#main-content > section.section:nth-of-type(2)",
+        "layout": null,
+        "hasBg": false,
+        "hint": "default-content"
+      }
+    ]
+  },
+  "https://wknd-trendsetters.site/blog/fashion-blog-post": {
+    "signature": "sB(2x1,s)",
+    "nodeMap": {
+      "r": "body",
+      "rc1": "#main-content > section.section:nth-of-type(1)",
+      "rc2": "#main-content > section.section:nth-of-type(2)"
+    },
+    "sections": [
+      {
+        "id": "rc1",
+        "selector": "#main-content > section.section:nth-of-type(1)",
+        "layout": "2x1",
+        "hasBg": false,
+        "hint": "block"
+      },
+      {
+        "id": "rc2",
+        "selector": "#main-content > section.section:nth-of-type(2)",
+        "layout": null,
+        "hasBg": false,
+        "hint": "default-content"
+      }
+    ]
+  },
+  "https://wknd-trendsetters.site/blog/fashion-trends-young-culture": {
+    "signature": "sB(2x1,s)",
+    "nodeMap": {
+      "r": "body",
+      "rc1": "#main-content > section.section:nth-of-type(1)",
+      "rc2": "#main-content > section.section:nth-of-type(2)"
+    },
+    "sections": [
+      {
+        "id": "rc1",
+        "selector": "#main-content > section.section:nth-of-type(1)",
+        "layout": "2x1",
+        "hasBg": false,
+        "hint": "block"
+      },
+      {
+        "id": "rc2",
+        "selector": "#main-content > section.section:nth-of-type(2)",
+        "layout": null,
+        "hasBg": false,
+        "hint": "default-content"
+      }
+    ]
+  },
+  "https://wknd-trendsetters.site/blog/fashion-trends-young-style": {
+    "signature": "sB(2x1,s)",
+    "nodeMap": {
+      "r": "body",
+      "rc1": "#main-content > section.section:nth-of-type(1)",
+      "rc2": "#main-content > section.section:nth-of-type(2)"
+    },
+    "sections": [
+      {
+        "id": "rc1",
+        "selector": "#main-content > section.section:nth-of-type(1)",
+        "layout": "2x1",
+        "hasBg": false,
+        "hint": "block"
+      },
+      {
+        "id": "rc2",
+        "selector": "#main-content > section.section:nth-of-type(2)",
+        "layout": null,
+        "hasBg": false,
+        "hint": "default-content"
+      }
+    ]
+  },
+  "https://wknd-trendsetters.site/blog/flip-flop-summer-style": {
+    "signature": "sB(2x1,s)",
+    "nodeMap": {
+      "r": "body",
+      "rc1": "#main-content > section.section:nth-of-type(1)",
+      "rc2": "#main-content > section.section:nth-of-type(2)"
+    },
+    "sections": [
+      {
+        "id": "rc1",
+        "selector": "#main-content > section.section:nth-of-type(1)",
+        "layout": "2x1",
+        "hasBg": false,
+        "hint": "block"
+      },
+      {
+        "id": "rc2",
+        "selector": "#main-content > section.section:nth-of-type(2)",
+        "layout": null,
+        "hasBg": false,
+        "hint": "default-content"
+      }
+    ]
+  },
+  "https://wknd-trendsetters.site/blog/latest-trends-young-casual-fashion": {
+    "signature": "sB(2x1,s)",
+    "nodeMap": {
+      "r": "body",
+      "rc1": "#main-content > section.section:nth-of-type(1)",
+      "rc2": "#main-content > section.section:nth-of-type(2)"
+    },
+    "sections": [
+      {
+        "id": "rc1",
+        "selector": "#main-content > section.section:nth-of-type(1)",
+        "layout": "2x1",
+        "hasBg": false,
+        "hint": "block"
+      },
+      {
+        "id": "rc2",
+        "selector": "#main-content > section.section:nth-of-type(2)",
+        "layout": null,
+        "hasBg": false,
+        "hint": "default-content"
+      }
+    ]
+  },
+  "https://wknd-trendsetters.site/blog/street-style-trends": {
+    "signature": "sB(2x1,s)",
+    "nodeMap": {
+      "r": "body",
+      "rc1": "#main-content > section.section:nth-of-type(1)",
+      "rc2": "#main-content > section.section:nth-of-type(2)"
+    },
+    "sections": [
+      {
+        "id": "rc1",
+        "selector": "#main-content > section.section:nth-of-type(1)",
+        "layout": "2x1",
+        "hasBg": false,
+        "hint": "block"
+      },
+      {
+        "id": "rc2",
+        "selector": "#main-content > section.section:nth-of-type(2)",
+        "layout": null,
+        "hasBg": false,
+        "hint": "default-content"
+      }
+    ]
+  },
+  "https://wknd-trendsetters.site/case-studies": {
+    "signature": "sB(sB,2x1,sB(s(sB,sB),4x2),s(2x1,4x1),3x1B(sB,sB))",
+    "nodeMap": {
+      "r": "body",
+      "rc1": "#main-content > header.section.secondary-section",
+      "rc2": "#main-content > section.section:nth-of-type(1)",
+      "rc3": "#main-content > section.section.secondary-section",
+      "rc3c1": "#main-content > section.section.secondary-section > div.container > div.utility-text-align-center.utility-margin-bottom-8rem",
+      "rc3c1c1": "#main-content > section.section.secondary-section > div.container > div.utility-text-align-center.utility-margin-bottom-8rem > div:nth-of-type(1)",
+      "rc3c1c2": "#main-content > section.section.secondary-section > div.container > div.utility-text-align-center.utility-margin-bottom-8rem > div:nth-of-type(2)",
+      "rc3c2": "#main-content > section.section.secondary-section > div.container > div.grid-layout.desktop-4-column.tablet-2-column-1.mobile-portrait-1-column.grid-gap-sm",
+      "rc4": "#cases",
+      "rc4c1": "#cases > div.container > div.tabs-wrapper > div.tabs-content",
+      "rc4c2": "#cases > div.container > div.tabs-wrapper > div.grid-layout.desktop-4-column.tablet-2-column-1.mobile-portrait-1-column.tab-menu",
+      "rc5": "#main-content > section.section.inverse-section",
+      "rc5c1": "#main-content > section.section.inverse-section > div.container > div.grid-layout.desktop-1-column > div.utility-position-relative.utility-radius-card.utility-overflow-clip > div:nth-of-type(1)",
+      "rc5c2": "#main-content > section.section.inverse-section > div.container > div.grid-layout.desktop-1-column > div.utility-position-relative.utility-radius-card.utility-overflow-clip > div.overlay.utility-z-index-1"
+    },
+    "sections": [
+      {
+        "id": "rc1",
+        "selector": "#main-content > header.section.secondary-section",
+        "layout": null,
+        "hasBg": true,
+        "hint": "default-content"
+      },
+      {
+        "id": "rc2",
+        "selector": "#main-content > section.section:nth-of-type(1)",
+        "layout": "2x1",
+        "hasBg": false,
+        "hint": "block"
+      },
+      {
+        "id": "rc3",
+        "selector": "#main-content > section.section.secondary-section",
+        "layout": null,
+        "hasBg": true,
+        "hint": "block"
+      },
+      {
+        "id": "rc4",
+        "selector": "#cases",
+        "layout": null,
+        "hasBg": false,
+        "hint": "block"
+      },
+      {
+        "id": "rc5",
+        "selector": "#main-content > section.section.inverse-section",
+        "layout": "3x1",
+        "hasBg": true,
+        "hint": "block"
+      }
+    ]
+  },
+  "https://wknd-trendsetters.site/faq": {
+    "signature": "sB(2x1B,s,2x1B,sB)",
+    "nodeMap": {
+      "r": "body",
+      "rc1": "#main-content > header.section.secondary-section",
+      "rc2": "#main-content > section.section:nth-of-type(1)",
+      "rc3": "#main-content > section.section.secondary-section",
+      "rc4": "#main-content > section.section.accent-section"
+    },
+    "sections": [
+      {
+        "id": "rc1",
+        "selector": "#main-content > header.section.secondary-section",
+        "layout": "2x1",
+        "hasBg": true,
+        "hint": "block"
+      },
+      {
+        "id": "rc2",
+        "selector": "#main-content > section.section:nth-of-type(1)",
+        "layout": null,
+        "hasBg": false,
+        "hint": "default-content"
+      },
+      {
+        "id": "rc3",
+        "selector": "#main-content > section.section.secondary-section",
+        "layout": "2x1",
+        "hasBg": true,
+        "hint": "block"
+      },
+      {
+        "id": "rc4",
+        "selector": "#main-content > section.section.accent-section",
+        "layout": null,
+        "hasBg": true,
+        "hint": "default-content"
+      }
+    ]
+  },
+  "https://wknd-trendsetters.site/fashion-insights": {
+    "signature": "sB(sB,2x1,sB(s(sB,sB),4x1),s(s(sB,sB),3x2),sB)",
+    "nodeMap": {
+      "r": "body",
+      "rc1": "#main-content > header.section.secondary-section",
+      "rc2": "#main-content > section.section:nth-of-type(1)",
+      "rc3": "#articles",
+      "rc3c1": "#articles > div.container > div.utility-text-align-center",
+      "rc3c1c1": "#articles > div.container > div.utility-text-align-center > div:nth-of-type(1)",
+      "rc3c1c2": "#articles > div.container > div.utility-text-align-center > div:nth-of-type(2)",
+      "rc3c2": "#articles > div.container > div.grid-layout.desktop-4-column.tablet-2-column-1.mobile-portrait-1-column.grid-gap-md",
+      "rc4": "#main-content > section.section:nth-of-type(3)",
+      "rc4c1": "#main-content > section.section:nth-of-type(3) > div.container > div.utility-text-align-center.utility-margin-bottom-8rem",
+      "rc4c1c1": "#main-content > section.section:nth-of-type(3) > div.container > div.utility-text-align-center.utility-margin-bottom-8rem > div:nth-of-type(1)",
+      "rc4c1c2": "#main-content > section.section:nth-of-type(3) > div.container > div.utility-text-align-center.utility-margin-bottom-8rem > div:nth-of-type(2)",
+      "rc4c2": "#main-content > section.section:nth-of-type(3) > div.container > div.grid-layout.desktop-3-column.tablet-2-column-1.mobile-portrait-1-column.grid-gap-sm",
+      "rc5": "#main-content > section.section.accent-section"
+    },
+    "sections": [
+      {
+        "id": "rc1",
+        "selector": "#main-content > header.section.secondary-section",
+        "layout": null,
+        "hasBg": true,
+        "hint": "default-content"
+      },
+      {
+        "id": "rc2",
+        "selector": "#main-content > section.section:nth-of-type(1)",
+        "layout": "2x1",
+        "hasBg": false,
+        "hint": "block"
+      },
+      {
+        "id": "rc3",
+        "selector": "#articles",
+        "layout": null,
+        "hasBg": true,
+        "hint": "block"
+      },
+      {
+        "id": "rc4",
+        "selector": "#main-content > section.section:nth-of-type(3)",
+        "layout": null,
+        "hasBg": false,
+        "hint": "block"
+      },
+      {
+        "id": "rc5",
+        "selector": "#main-content > section.section.accent-section",
+        "layout": null,
+        "hasBg": true,
+        "hint": "default-content"
+      }
+    ]
+  },
+  "https://wknd-trendsetters.site/fashion-trends-of-the-season": {
+    "signature": "sB(2x1B,s(s(sB,sB),2x1),sB(sB,3x1),s(s(sB,sB),3x2),sB)",
+    "nodeMap": {
+      "r": "body",
+      "rc1": "#main-content > header.section.secondary-section",
+      "rc2": "#trends",
+      "rc2c1": "#trends > div.container > div.utility-text-align-center",
+      "rc2c1c1": "#trends > div.container > div.utility-text-align-center > div:nth-of-type(1)",
+      "rc2c1c2": "#trends > div.container > div.utility-text-align-center > div:nth-of-type(2)",
+      "rc2c2": "#trends > div.container > div.grid-layout.tablet-1-column.grid-gap-lg",
+      "rc3": "#main-content > section.section.secondary-section",
+      "rc3c1": "#main-content > section.section.secondary-section > div.container > div.utility-text-align-center",
+      "rc3c2": "#main-content > section.section.secondary-section > div.container > div.grid-layout.desktop-3-column.tablet-1-column.grid-gap-lg",
+      "rc4": "#main-content > section.section:nth-of-type(3)",
+      "rc4c1": "#main-content > section.section:nth-of-type(3) > div.container > div.utility-text-align-center.utility-margin-bottom-8rem",
+      "rc4c1c1": "#main-content > section.section:nth-of-type(3) > div.container > div.utility-text-align-center.utility-margin-bottom-8rem > div:nth-of-type(1)",
+      "rc4c1c2": "#main-content > section.section:nth-of-type(3) > div.container > div.utility-text-align-center.utility-margin-bottom-8rem > div:nth-of-type(2)",
+      "rc4c2": "#main-content > section.section:nth-of-type(3) > div.container > div.grid-layout.desktop-3-column.tablet-2-column-1.mobile-portrait-1-column.grid-gap-sm",
+      "rc5": "#main-content > section.section.accent-section"
+    },
+    "sections": [
+      {
+        "id": "rc1",
+        "selector": "#main-content > header.section.secondary-section",
+        "layout": "2x1",
+        "hasBg": true,
+        "hint": "block"
+      },
+      {
+        "id": "rc2",
+        "selector": "#trends",
+        "layout": null,
+        "hasBg": false,
+        "hint": "block"
+      },
+      {
+        "id": "rc3",
+        "selector": "#main-content > section.section.secondary-section",
+        "layout": null,
+        "hasBg": true,
+        "hint": "block"
+      },
+      {
+        "id": "rc4",
+        "selector": "#main-content > section.section:nth-of-type(3)",
+        "layout": null,
+        "hasBg": false,
+        "hint": "block"
+      },
+      {
+        "id": "rc5",
+        "selector": "#main-content > section.section.accent-section",
+        "layout": null,
+        "hasBg": true,
+        "hint": "default-content"
+      }
+    ]
+  },
+  "https://wknd-trendsetters.site/fashion-trends-young-adults": {
+    "signature": "sB(2x1B,3x1,sB(sB,sB),s(sB,4x1),sB(s(sB,sB),4x1),sB)",
+    "nodeMap": {
+      "r": "body",
+      "rc1": "#main-content > header.section.secondary-section",
+      "rc2": "#main-content > section.section:nth-of-type(1)",
+      "rc3": "#main-content > section.section.secondary-section:nth-of-type(2)",
+      "rc3c1": "#main-content > section.section.secondary-section:nth-of-type(2) > div.container > div.utility-text-align-center > div:nth-of-type(1)",
+      "rc3c2": "#main-content > section.section.secondary-section:nth-of-type(2) > div.container > div.utility-text-align-center > div:nth-of-type(2)",
+      "rc4": "#trends",
+      "rc4c1": "#trends > div.container > div.utility-text-align-center",
+      "rc4c2": "#trends > div.container > div.grid-layout.desktop-4-column.tablet-2-column-1.mobile-portrait-1-column.grid-gap-md",
+      "rc5": "#main-content > section.section.secondary-section:nth-of-type(4)",
+      "rc5c1": "#main-content > section.section.secondary-section:nth-of-type(4) > div.container > div.utility-text-align-center.utility-margin-bottom-8rem",
+      "rc5c1c1": "#main-content > section.section.secondary-section:nth-of-type(4) > div.container > div.utility-text-align-center.utility-margin-bottom-8rem > div:nth-of-type(1)",
+      "rc5c1c2": "#main-content > section.section.secondary-section:nth-of-type(4) > div.container > div.utility-text-align-center.utility-margin-bottom-8rem > div:nth-of-type(2)",
+      "rc5c2": "#main-content > section.section.secondary-section:nth-of-type(4) > div.container > div.grid-layout.desktop-4-column.tablet-2-column-1.mobile-portrait-1-column.grid-gap-sm",
+      "rc6": "#main-content > section.section.accent-section"
+    },
+    "sections": [
+      {
+        "id": "rc1",
+        "selector": "#main-content > header.section.secondary-section",
+        "layout": "2x1",
+        "hasBg": true,
+        "hint": "block"
+      },
+      {
+        "id": "rc2",
+        "selector": "#main-content > section.section:nth-of-type(1)",
+        "layout": "3x1",
+        "hasBg": false,
+        "hint": "block"
+      },
+      {
+        "id": "rc3",
+        "selector": "#main-content > section.section.secondary-section:nth-of-type(2)",
+        "layout": null,
+        "hasBg": true,
+        "hint": "default-content"
+      },
+      {
+        "id": "rc4",
+        "selector": "#trends",
+        "layout": null,
+        "hasBg": false,
+        "hint": "block"
+      },
+      {
+        "id": "rc5",
+        "selector": "#main-content > section.section.secondary-section:nth-of-type(4)",
+        "layout": null,
+        "hasBg": true,
+        "hint": "block"
+      },
+      {
+        "id": "rc6",
+        "selector": "#main-content > section.section.accent-section",
+        "layout": null,
+        "hasBg": true,
+        "hint": "default-content"
+      }
+    ]
+  },
+  "https://wknd-trendsetters.site/fashion-trends-young-adults-casual-sport": {
+    "signature": "sB(2x1B,s(s(sB,sB),4x2),2x1B,sB)",
+    "nodeMap": {
+      "r": "body",
+      "rc1": "#main-content > header.section.secondary-section",
+      "rc2": "#trends",
+      "rc2c1": "#trends > div.container > div.utility-text-align-center",
+      "rc2c1c1": "#trends > div.container > div.utility-text-align-center > div:nth-of-type(1)",
+      "rc2c1c2": "#trends > div.container > div.utility-text-align-center > div:nth-of-type(2)",
+      "rc2c2": "#trends > div.container > div.grid-layout.desktop-4-column.tablet-2-column-1.mobile-portrait-1-column.grid-gap-md",
+      "rc3": "#main-content > section.section.secondary-section",
+      "rc4": "#main-content > section.section.accent-section"
+    },
+    "sections": [
+      {
+        "id": "rc1",
+        "selector": "#main-content > header.section.secondary-section",
+        "layout": "2x1",
+        "hasBg": true,
+        "hint": "block"
+      },
+      {
+        "id": "rc2",
+        "selector": "#trends",
+        "layout": null,
+        "hasBg": false,
+        "hint": "block"
+      },
+      {
+        "id": "rc3",
+        "selector": "#main-content > section.section.secondary-section",
+        "layout": "2x1",
+        "hasBg": true,
+        "hint": "block"
+      },
+      {
+        "id": "rc4",
+        "selector": "#main-content > section.section.accent-section",
+        "layout": null,
+        "hasBg": true,
+        "hint": "default-content"
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "variantName": "cards-minimal-dark-withimg",
+  "baseBlock": "cards",
+  "canonicalModel": "standalone",
+  "version": "1.0.0",
+  "created": "2026-08-31T05:13:30.908Z",
+  "sourceContext": {
+    "originUrl": "https://wknd-trendsetters.site/fashion-trends-young-adults-casual-sport",
+    "discoveredDuring": "site-scope-analysis"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "dark",
+    "density": "minimal",
+    "hasBackgroundImage": false,
+    "hasGrid": false,
+    "imagePattern": "large",
+    "structure": "heading + text + image"
+  },
+  "knownSignatures": [
+    "{\"canonicalModel\":\"standalone\",\"type\":\"cards\",\"visualChars\":{\"colorScheme\":\"dark\",\"density\":\"minimal\",\"hasBackgroundImage\":false,\"hasGrid\":false,\"imagePattern\":\"large\",\"structure\":\"heading + text + image\"}}"
+  ],
+  "usage": {
+    "pagesUsing": [
+      {
+        "url": "https://wknd-trendsetters.site/fashion-trends-young-adults-casual-sport",
+        "screenshot": ".pages/wknd-trendsetters_site_fashion-trends-young-adults-casual-sport--b40dc265/blocks/cards-5e07a5f2.jpg"
+      }
+    ],
+    "reuseCount": 1
+  }
+}

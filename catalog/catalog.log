@@ -1,0 +1,549 @@
+2026-08-31 05:08:25 | INFO | Setting up catalog project for: https://wknd-trendsetters.site
+2026-08-31 05:08:25 | INFO | Project root: /backups/krajasekher/karthikEdsEnablementSite/repo
+2026-08-31 05:08:25 | INFO | Creating catalog folder: /backups/krajasekher/karthikEdsEnablementSite/repo/catalog
+2026-08-31 05:08:25 | INFO | Plugin root: /home/node/.excat-marketplaces/excat-marketplace/excat
+2026-08-31 05:08:25 | INFO | Config file created: /backups/krajasekher/karthikEdsEnablementSite/repo/catalog/.catalog-config.json
+2026-08-31 05:08:25 | INFO | Log file initialized: /backups/krajasekher/karthikEdsEnablementSite/repo/catalog/catalog.log
+2026-08-31 05:08:25 | INFO | Session initialized: DISCOVERY
+2026-08-31 05:08:25 | INFO | Catalog project setup complete
+2026-08-31 05:08:25 | INFO | Catalog folder: /backups/krajasekher/karthikEdsEnablementSite/repo/catalog
+2026-08-31 05:08:25 | INFO | Config file: /backups/krajasekher/karthikEdsEnablementSite/repo/catalog/.catalog-config.json
+2026-08-31 05:08:25 | INFO | Log file: /backups/krajasekher/karthikEdsEnablementSite/repo/catalog/catalog.log
+2026-08-31 05:08:25 | INFO | Session: /backups/krajasekher/karthikEdsEnablementSite/repo/catalog/.catalog_session (DISCOVERY)
+2026-08-31 05:08:55 | INFO | Checking root page for sitemap-like links...
+2026-08-31 05:08:55 | INFO | Trying sitemap candidates...
+2026-08-31 05:08:55 | INFO | Trying sitemap candidate: https://wknd-trendsetters.site/sitemap.xml
+2026-08-31 05:08:55 | WARNING | Got 200 but not a valid sitemap. Preview: <!DOCTYPE html><html lang="en" data-astro-cid-37fxchfa> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="description" content="Discover the l...
+2026-08-31 05:08:55 | INFO | Trying sitemap candidate: https://wknd-trendsetters.site/sitemap.xml.gz
+2026-08-31 05:08:56 | WARNING | Got 200 but not a valid sitemap. Preview: <!DOCTYPE html><html lang="en" data-astro-cid-37fxchfa> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="description" content="Discover the l...
+2026-08-31 05:08:56 | INFO | Trying sitemap candidate: https://wknd-trendsetters.site/sitemap_index.xml
+2026-08-31 05:08:56 | WARNING | Got 200 but not a valid sitemap. Preview: <!DOCTYPE html><html lang="en" data-astro-cid-37fxchfa> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="description" content="Discover the l...
+2026-08-31 05:08:56 | INFO | Trying sitemap candidate: https://wknd-trendsetters.site/sitemap-index.xml
+2026-08-31 05:08:56 | WARNING | Got 200 but not a valid sitemap. Preview: <!DOCTYPE html><html lang="en" data-astro-cid-37fxchfa> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="description" content="Discover the l...
+2026-08-31 05:08:56 | INFO | Trying sitemap candidate: https://wknd-trendsetters.site/sitemap.txt
+2026-08-31 05:08:56 | WARNING | Got 200 but not a valid sitemap. Preview: <!DOCTYPE html><html lang="en" data-astro-cid-37fxchfa> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="description" content="Discover the l...
+2026-08-31 05:08:56 | INFO | Checking robots.txt for sitemap references...
+2026-08-31 05:08:56 | INFO | Found 1 sitemap(s) in robots.txt
+2026-08-31 05:08:56 | INFO | Processing 1 unique sitemap(s) from robots.txt...
+2026-08-31 05:08:56 | INFO | [1/1] Fetching sitemap: https://wknd-trendsetters.site/sitemap.xml
+2026-08-31 05:08:56 | WARNING | Got 200 but not a valid sitemap. Preview: <!DOCTYPE html><html lang="en" data-astro-cid-37fxchfa> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="description" content="Discover the l...
+2026-08-31 05:08:56 | INFO | Retrying sitemap discovery with alternate root: https://www.wknd-trendsetters.site
+2026-08-31 05:08:56 | INFO | Checking root page for sitemap-like links...
+2026-08-31 05:08:56 | INFO | Trying sitemap candidates...
+2026-08-31 05:08:56 | INFO | Trying sitemap candidate: https://www.wknd-trendsetters.site/sitemap.xml
+2026-08-31 05:08:56 | WARNING | Got 200 but not a valid sitemap. Preview: <!DOCTYPE html><html lang="en" data-astro-cid-37fxchfa> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="description" content="Discover the l...
+2026-08-31 05:08:56 | INFO | Trying sitemap candidate: https://www.wknd-trendsetters.site/sitemap.xml.gz
+2026-08-31 05:08:56 | WARNING | Got 200 but not a valid sitemap. Preview: <!DOCTYPE html><html lang="en" data-astro-cid-37fxchfa> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="description" content="Discover the l...
+2026-08-31 05:08:56 | INFO | Trying sitemap candidate: https://www.wknd-trendsetters.site/sitemap_index.xml
+2026-08-31 05:08:56 | WARNING | Got 200 but not a valid sitemap. Preview: <!DOCTYPE html><html lang="en" data-astro-cid-37fxchfa> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="description" content="Discover the l...
+2026-08-31 05:08:56 | INFO | Trying sitemap candidate: https://www.wknd-trendsetters.site/sitemap-index.xml
+2026-08-31 05:08:56 | WARNING | Got 200 but not a valid sitemap. Preview: <!DOCTYPE html><html lang="en" data-astro-cid-37fxchfa> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="description" content="Discover the l...
+2026-08-31 05:08:56 | INFO | Trying sitemap candidate: https://www.wknd-trendsetters.site/sitemap.txt
+2026-08-31 05:08:56 | WARNING | Got 200 but not a valid sitemap. Preview: <!DOCTYPE html><html lang="en" data-astro-cid-37fxchfa> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="description" content="Discover the l...
+2026-08-31 05:08:56 | INFO | Checking robots.txt for sitemap references...
+2026-08-31 05:08:56 | INFO | Found 1 sitemap(s) in robots.txt
+2026-08-31 05:08:56 | INFO | Processing 1 unique sitemap(s) from robots.txt...
+2026-08-31 05:08:56 | INFO | [1/1] Fetching sitemap: https://wknd-trendsetters.site/sitemap.xml
+2026-08-31 05:08:56 | WARNING | Got 200 but not a valid sitemap. Preview: <!DOCTYPE html><html lang="en" data-astro-cid-37fxchfa> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="description" content="Discover the l...
+2026-08-31 05:08:56 | INFO | Fetching sitemap for site root: https://wknd-trendsetters.site
+2026-08-31 05:08:56 | ERROR | No sitemap found
+2026-08-31 05:08:56 | INFO | Tried standard locations and robots.txt references.
+2026-08-31 05:08:56 | WARNING | No sitemap found for https://wknd-trendsetters.site - will need to use crawler fallback
+2026-08-31 05:09:20 | INFO | Site crawler starting
+2026-08-31 05:09:20 | INFO | Starting crawl: https://wknd-trendsetters.site
+2026-08-31 05:09:20 | INFO | Max pages: 4000, Delay: 500ms, Timeout: 15000ms
+2026-08-31 05:09:20 | INFO | Max retries per URL: 2
+2026-08-31 05:09:20 | INFO | Robots.txt disallow rules found: 0
+2026-08-31 05:09:20 | INFO | ✓ 1/4000 | Queue: 11 | ✅ https://wknd-trendsetters.site/...
+2026-08-31 05:09:21 | INFO | ✓ 2/4000 | Queue: 10 | ✅ https://wknd-trendsetters.site/fashion-trends-youn...
+2026-08-31 05:09:21 | INFO | ✓ 3/4000 | Queue: 9 | ✅ https://wknd-trendsetters.site/fashion-trends-youn...
+2026-08-31 05:09:22 | INFO | ✓ 4/4000 | Queue: 11 | ✅ https://wknd-trendsetters.site/blog...
+2026-08-31 05:09:22 | INFO | ✓ 5/4000 | Queue: 10 | ✅ https://wknd-trendsetters.site/case-studies...
+2026-08-31 05:09:23 | INFO | ✓ 6/4000 | Queue: 9 | ✅ https://wknd-trendsetters.site/fashion-trends-of-t...
+2026-08-31 05:09:24 | INFO | ✓ 7/4000 | Queue: 9 | ✅ https://wknd-trendsetters.site/faq...
+2026-08-31 05:09:24 | INFO | ✓ 8/4000 | Queue: 8 | ✅ https://wknd-trendsetters.site/fashion-insights...
+2026-08-31 05:09:25 | INFO | ✓ 9/4000 | Queue: 7 | ✅ https://wknd-trendsetters.site/blog/latest-trends-...
+2026-08-31 05:09:26 | INFO | ✓ 10/4000 | Queue: 6 | ✅ https://wknd-trendsetters.site/blog/fashion-trends...
+2026-08-31 05:09:26 | INFO | ✓ 11/4000 | Queue: 5 | ✅ https://wknd-trendsetters.site/blog/fashion-trends...
+2026-08-31 05:09:27 | INFO | ✓ 12/4000 | Queue: 4 | ✅ https://wknd-trendsetters.site/blog/fashion-blog-p...
+2026-08-31 05:09:27 | INFO | ✓ 13/4000 | Queue: 3 | ✅ https://wknd-trendsetters.site/blog/ace-pro-court-...
+2026-08-31 05:09:28 | INFO | ✓ 14/4000 | Queue: 2 | ✅ https://wknd-trendsetters.site/blog/flip-flop-summ...
+2026-08-31 05:09:29 | INFO | ✓ 15/4000 | Queue: 1 | ✅ https://wknd-trendsetters.site/blog/street-style-t...
+2026-08-31 05:09:29 | INFO | ✓ 16/4000 | Queue: 0 | ⚠️ https://wknd-trendsetters.site/cdn-cgi/l/email-pro...
+2026-08-31 05:09:30 | INFO | Checkpoint saved: 16 visited, 0 queued
+2026-08-31 05:09:30 | INFO | CRAWL COMPLETE
+2026-08-31 05:09:30 | INFO | Total URLs discovered: 16
+2026-08-31 05:09:30 | INFO | Status breakdown:
+2026-08-31 05:09:30 | INFO | ✅ 200 (Success): 15
+2026-08-31 05:09:30 | INFO | ⚠️ 404 (Client Error): 1
+2026-08-31 05:09:49 | INFO | Agent 1 - Crawl successful, processed URLs
+2026-08-31 05:10:41 | INFO | Creating sample URLs...
+2026-08-31 05:10:41 | INFO | Total URLs in grouped data: 15
+2026-08-31 05:10:41 | INFO | Total URLs (15) <= 1000, using ALL URLs
+2026-08-31 05:10:41 | INFO | Created urls-sample.json with 15 URLs
+2026-08-31 05:10:41 | INFO | Validating urls-sample.json against schema...
+✅ VALIDATION PASSED: urls-sample.json matches schema
+2026-08-31 05:10:41 | INFO | Schema validation passed
+2026-08-31 05:10:41 | INFO | Sample creation complete - urls-sample.json with 15 URLs
+2026-08-31 05:11:02 | INFO | Checklist not found, looking for URLs source file...
+2026-08-31 05:11:02 | INFO | Validating urls-sample.json against urls-sample.schema.json...
+✅ VALIDATION PASSED: urls-sample.json matches schema
+2026-08-31 05:11:03 | INFO | Creating checklist from: /backups/krajasekher/karthikEdsEnablementSite/repo/catalog/urls-sample.json
+2026-08-31 05:11:03 | INFO | Created urls-checklist.json with 15 URLs
+2026-08-31 05:11:03 | INFO | Session state: ANALYZING
+2026-08-31 05:11:03 | INFO | ================================================================================
+2026-08-31 05:11:03 | INFO | BATCH ANALYSIS STARTED
+2026-08-31 05:11:03 | INFO | Catalog: /backups/krajasekher/karthikEdsEnablementSite/repo/catalog
+2026-08-31 05:11:03 | INFO | Delay: 1500ms between requests
+2026-08-31 05:11:03 | INFO | Workers: 5
+2026-08-31 05:11:03 | INFO | Identity profiles: 13 available (workers cycle through them deterministically)
+2026-08-31 05:11:03 | INFO | Scheduling: shared queue; each worker pulls the next pending URL as soon as it finishes.
+2026-08-31 05:11:03 | INFO | Adaptive backoff: enabled (bot/WAF detection reduces active workers before aborting)
+2026-08-31 05:11:03 | INFO | ================================================================================
+2026-08-31 05:11:03 | INFO | Found 15 URLs to process (5 workers)
+2026-08-31 05:11:03 | INFO | AGENT_RELAY: Share ETA and PROGRESS/HEARTBEAT lines with the user at least every 60 seconds.
+2026-08-31 05:11:03 | INFO | Created .pages directory: /backups/krajasekher/karthikEdsEnablementSite/repo/catalog/.pages
+2026-08-31 05:11:03 | INFO | Pages to analyze: 15
+2026-08-31 05:11:03 | INFO | Processing speed baseline: ~50 pages/minute (5 workers)
+2026-08-31 05:11:03 | INFO | Estimated analysis time: ~1 min
+2026-08-31 05:11:03 | INFO | Worker 0 started (profile 0: Windows)
+2026-08-31 05:11:03 | INFO | Launching stealth browser...
+2026-08-31 05:11:03 | INFO | [1/15] Processing: https://wknd-trendsetters.site/
+2026-08-31 05:11:03 | INFO | Generated slug: wknd-trendsetters_site--32ff5b5e
+2026-08-31 05:11:03 | INFO | Starting analysis: https://wknd-trendsetters.site/ -> /backups/krajasekher/karthikEdsEnablementSite/repo/catalog/.pages/wknd-trendsetters_site--32ff5b5e
+2026-08-31 05:11:03 | INFO | Loading: https://wknd-trendsetters.site/
+2026-08-31 05:11:04 | INFO | Worker 1 started (profile 1: Windows)
+2026-08-31 05:11:04 | INFO | Launching stealth browser...
+2026-08-31 05:11:04 | INFO | [2/15] Processing: https://wknd-trendsetters.site/blog
+2026-08-31 05:11:04 | INFO | Generated slug: wknd-trendsetters_site_blog--c5abf4d2
+2026-08-31 05:11:04 | INFO | Starting analysis: https://wknd-trendsetters.site/blog -> /backups/krajasekher/karthikEdsEnablementSite/repo/catalog/.pages/wknd-trendsetters_site_blog--c5abf4d2
+2026-08-31 05:11:05 | INFO | Loading: https://wknd-trendsetters.site/blog
+2026-08-31 05:11:05 | INFO | Phase 0A: Triggering lazy-loaded content...
+2026-08-31 05:11:06 | INFO | Worker 2 started (profile 2: Windows)
+2026-08-31 05:11:06 | INFO | Launching stealth browser...
+2026-08-31 05:11:06 | INFO | [3/15] Processing: https://wknd-trendsetters.site/blog/latest-trends-young-casual-fashion
+2026-08-31 05:11:06 | INFO | Generated slug: wknd-trendsetters_site_blog_latest-trends-young-casual-fashion--68825ee3
+2026-08-31 05:11:06 | INFO | Starting analysis: https://wknd-trendsetters.site/blog/latest-trends-young-casual-fashion -> /backups/krajasekher/karthikEdsEnablementSite/repo/catalog/.pages/wknd-trendsetters_site_blog_latest-trends-young-casual-fashion--68825ee3
+2026-08-31 05:11:06 | INFO | Loading: https://wknd-trendsetters.site/blog/latest-trends-young-casual-fashion
+2026-08-31 05:11:07 | INFO | Phase 0A: Triggering lazy-loaded content...
+2026-08-31 05:11:07 | INFO | Worker 3 started (profile 3: Windows)
+2026-08-31 05:11:07 | INFO | Launching stealth browser...
+2026-08-31 05:11:08 | INFO | [4/15] Processing: https://wknd-trendsetters.site/blog/fashion-trends-young-culture
+2026-08-31 05:11:08 | INFO | Generated slug: wknd-trendsetters_site_blog_fashion-trends-young-culture--df14d5aa
+2026-08-31 05:11:08 | INFO | Starting analysis: https://wknd-trendsetters.site/blog/fashion-trends-young-culture -> /backups/krajasekher/karthikEdsEnablementSite/repo/catalog/.pages/wknd-trendsetters_site_blog_fashion-trends-young-culture--df14d5aa
+2026-08-31 05:11:08 | INFO | Lazy-load scroll complete
+2026-08-31 05:11:08 | INFO | Phase 0B: Cleaning up overlays...
+2026-08-31 05:11:08 | INFO | Loading: https://wknd-trendsetters.site/blog/fashion-trends-young-culture
+2026-08-31 05:11:08 | INFO | Phase 0A: Triggering lazy-loaded content...
+2026-08-31 05:11:08 | INFO | Removed 0 elements: none
+📐 Detecting header/footer for this page...
+2026-08-31 05:11:09 | INFO | Lazy-load scroll complete
+2026-08-31 05:11:09 | INFO | Phase 0B: Cleaning up overlays...
+2026-08-31 05:11:09 | INFO | Worker 4 started (profile 4: macOS)
+2026-08-31 05:11:09 | INFO | Launching stealth browser...
+   ✅ Saved global header: div.navbar
+   ✅ Saved global footer: footer.footer.inverse-footer
+2026-08-31 05:11:09 | INFO | Header: advanced complexity, 5 features
+2026-08-31 05:11:09 | INFO | Footer: simple complexity, 0 features
+2026-08-31 05:11:09 | INFO | Phase 2: Identifying main content area...
+2026-08-31 05:11:09 | INFO | Main content: #main-content
+2026-08-31 05:11:09 | INFO | [5/15] Processing: https://wknd-trendsetters.site/blog/fashion-trends-young-style
+2026-08-31 05:11:09 | INFO | Generated slug: wknd-trendsetters_site_blog_fashion-trends-young-style--85d6178c
+2026-08-31 05:11:09 | INFO | Starting analysis: https://wknd-trendsetters.site/blog/fashion-trends-young-style -> /backups/krajasekher/karthikEdsEnablementSite/repo/catalog/.pages/wknd-trendsetters_site_blog_fashion-trends-young-style--85d6178c
+2026-08-31 05:11:09 | INFO | Phase 3: Detecting blocks...
+2026-08-31 05:11:09 | WARNING | Blocks - 100% of blocks are unknown - site uses non-EDS patterns
+2026-08-31 05:11:09 | INFO | Phase 4: Capturing block screenshots...
+2026-08-31 05:11:09 | INFO | Loading: https://wknd-trendsetters.site/blog/fashion-trends-young-style
+2026-08-31 05:11:09 | INFO | Removed 0 elements: none
+📐 Detecting header/footer for this page...
+2026-08-31 05:11:09 | INFO | Template - Reused saved header selector on current page
+2026-08-31 05:11:09 | INFO | Template - Reused saved footer selector on current page
+2026-08-31 05:11:09 | INFO | Header: advanced complexity, 5 features
+2026-08-31 05:11:09 | INFO | Footer: simple complexity, 0 features
+2026-08-31 05:11:09 | INFO | Phase 2: Identifying main content area...
+2026-08-31 05:11:09 | INFO | Main content: #main-content
+2026-08-31 05:11:09 | INFO | Phase 3: Detecting blocks...
+2026-08-31 05:11:10 | WARNING | Blocks - 75% of blocks are unknown - site uses non-EDS patterns
+2026-08-31 05:11:10 | INFO | Phase 4: Capturing block screenshots...
+2026-08-31 05:11:10 | INFO | Phase 0A: Triggering lazy-loaded content...
+2026-08-31 05:11:10 | INFO | Lazy-load scroll complete
+2026-08-31 05:11:10 | INFO | Phase 0B: Cleaning up overlays...
+2026-08-31 05:11:11 | INFO | Removed 0 elements: none
+📐 Detecting header/footer for this page...
+2026-08-31 05:11:11 | INFO | Template - Reused saved header selector on current page
+2026-08-31 05:11:11 | INFO | Template - Reused saved footer selector on current page
+2026-08-31 05:11:11 | INFO | Header: advanced complexity, 5 features
+2026-08-31 05:11:11 | INFO | Footer: simple complexity, 0 features
+2026-08-31 05:11:11 | INFO | Phase 2: Identifying main content area...
+2026-08-31 05:11:11 | INFO | Main content: #main-content
+2026-08-31 05:11:11 | INFO | Captured 4 block screenshots
+2026-08-31 05:11:11 | INFO | Detected 4 blocks
+2026-08-31 05:11:11 | INFO | Generating fingerprints for template discovery...
+2026-08-31 05:11:11 | INFO | Phase 3: Detecting blocks...
+2026-08-31 05:11:11 | INFO | Phase 4: Capturing block screenshots...
+2026-08-31 05:11:11 | INFO | Phase 0A: Triggering lazy-loaded content...
+2026-08-31 05:11:11 | INFO | Lazy-load scroll complete
+2026-08-31 05:11:11 | INFO | Phase 0B: Cleaning up overlays...
+2026-08-31 05:11:12 | INFO | Captured 1 block screenshots
+2026-08-31 05:11:12 | INFO | Detected 1 blocks
+2026-08-31 05:11:12 | INFO | Generating fingerprints for template discovery...
+2026-08-31 05:11:12 | INFO | Captured 1 block screenshots
+2026-08-31 05:11:12 | INFO | Detected 1 blocks
+2026-08-31 05:11:12 | INFO | Generating fingerprints for template discovery...
+2026-08-31 05:11:12 | INFO | Removed 0 elements: none
+📐 Detecting header/footer for this page...
+2026-08-31 05:11:12 | INFO | Template - Reused saved header selector on current page
+2026-08-31 05:11:12 | INFO | Template - Reused saved footer selector on current page
+2026-08-31 05:11:12 | INFO | Header: advanced complexity, 5 features
+2026-08-31 05:11:12 | INFO | Footer: simple complexity, 0 features
+2026-08-31 05:11:12 | INFO | Phase 2: Identifying main content area...
+2026-08-31 05:11:12 | INFO | Main content: #main-content
+2026-08-31 05:11:13 | INFO | Phase 3: Detecting blocks...
+2026-08-31 05:11:13 | INFO | Phase 4: Capturing block screenshots...
+2026-08-31 05:11:13 | INFO | Lazy-load scroll complete
+2026-08-31 05:11:13 | INFO | Phase 0B: Cleaning up overlays...
+2026-08-31 05:11:13 | INFO | Captured 1 block screenshots
+2026-08-31 05:11:13 | INFO | Detected 1 blocks
+2026-08-31 05:11:13 | INFO | Generating fingerprints for template discovery...
+2026-08-31 05:11:13 | INFO |    Top-section: 17 rows via title
+2026-08-31 05:11:13 | INFO |    Body start: y=401 (start row 16 via below-title)
+2026-08-31 05:11:13 | INFO | URL Pattern: /blog
+2026-08-31 05:11:13 | INFO | Skeleton: signature="sB(sB,2x1,sB(s(sB,sB),4x2),sB)", 4 sections
+2026-08-31 05:11:13 | INFO | Page catalog complete: /backups/krajasekher/karthikEdsEnablementSite/repo/catalog/.pages/wknd-trendsetters_site_blog--c5abf4d2/page-catalog.json
+2026-08-31 05:11:13 | INFO | SUCCESS: https://wknd-trendsetters.site/blog
+2026-08-31 05:11:14 | INFO | Created header-global metadata (selector: div.navbar)
+2026-08-31 05:11:14 | INFO | Created footer-global metadata (selector: footer.footer.inverse-footer)
+2026-08-31 05:11:14 | INFO | Removed 0 elements: none
+📐 Detecting header/footer for this page...
+2026-08-31 05:11:14 | INFO | Template - Reused saved header selector on current page
+2026-08-31 05:11:14 | INFO | Template - Reused saved footer selector on current page
+2026-08-31 05:11:14 | INFO | Header: advanced complexity, 5 features
+2026-08-31 05:11:14 | INFO | Footer: simple complexity, 0 features
+2026-08-31 05:11:14 | INFO | Phase 2: Identifying main content area...
+2026-08-31 05:11:14 | INFO | Main content: #main-content
+2026-08-31 05:11:14 | INFO | Phase 3: Detecting blocks...
+2026-08-31 05:11:14 | INFO | Phase 4: Capturing block screenshots...
+2026-08-31 05:11:14 | INFO |    Top-section: 21 rows via title
+2026-08-31 05:11:14 | INFO |    Body start: y=504 (start row 20 via below-title)
+2026-08-31 05:11:14 | INFO | URL Pattern: /blog/latest-trends-young-casual-fashion
+2026-08-31 05:11:14 | INFO | Skeleton: signature="sB(2x1,s)", 2 sections
+2026-08-31 05:11:14 | INFO | Page catalog complete: /backups/krajasekher/karthikEdsEnablementSite/repo/catalog/.pages/wknd-trendsetters_site_blog_latest-trends-young-casual-fashion--68825ee3/page-catalog.json
+2026-08-31 05:11:14 | INFO | SUCCESS: https://wknd-trendsetters.site/blog/latest-trends-young-casual-fashion
+2026-08-31 05:11:14 | INFO |    Top-section: 15 rows via title
+2026-08-31 05:11:14 | INFO |    Body start: y=375 (start row 15 via below-title)
+2026-08-31 05:11:14 | INFO | URL Pattern: /
+2026-08-31 05:11:14 | INFO | Skeleton: signature="sB(2x1B,2x1,sB(s(sB,sB),4x2),s(2x1,4x1),sB(s(sB,sB),4x1),2x1,3x1B(sB,sB))", 7 sections
+2026-08-31 05:11:14 | INFO | Page catalog complete: /backups/krajasekher/karthikEdsEnablementSite/repo/catalog/.pages/wknd-trendsetters_site--32ff5b5e/page-catalog.json
+2026-08-31 05:11:14 | INFO | SUCCESS: https://wknd-trendsetters.site/
+2026-08-31 05:11:15 | INFO | Captured 1 block screenshots
+2026-08-31 05:11:15 | INFO | Detected 1 blocks
+2026-08-31 05:11:15 | INFO | Generating fingerprints for template discovery...
+2026-08-31 05:11:15 | INFO | [6/15] Processing: https://wknd-trendsetters.site/blog/fashion-blog-post
+2026-08-31 05:11:15 | INFO | Generated slug: wknd-trendsetters_site_blog_fashion-blog-post--d799affb
+2026-08-31 05:11:15 | INFO | Starting analysis: https://wknd-trendsetters.site/blog/fashion-blog-post -> /backups/krajasekher/karthikEdsEnablementSite/repo/catalog/.pages/wknd-trendsetters_site_blog_fashion-blog-post--d799affb
+2026-08-31 05:11:15 | INFO | Loading: https://wknd-trendsetters.site/blog/fashion-blog-post
+2026-08-31 05:11:16 | INFO | [7/15] Processing: https://wknd-trendsetters.site/blog/ace-pro-court-polo
+2026-08-31 05:11:16 | INFO | Generated slug: wknd-trendsetters_site_blog_ace-pro-court-polo--f4d90163
+2026-08-31 05:11:16 | INFO | Starting analysis: https://wknd-trendsetters.site/blog/ace-pro-court-polo -> /backups/krajasekher/karthikEdsEnablementSite/repo/catalog/.pages/wknd-trendsetters_site_blog_ace-pro-court-polo--f4d90163
+2026-08-31 05:11:16 | INFO |    Top-section: 21 rows via title
+2026-08-31 05:11:16 | INFO |    Body start: y=504 (start row 20 via below-title)
+2026-08-31 05:11:16 | INFO | URL Pattern: /blog/fashion-trends-young-culture
+2026-08-31 05:11:16 | INFO | Skeleton: signature="sB(2x1,s)", 2 sections
+2026-08-31 05:11:16 | INFO | Page catalog complete: /backups/krajasekher/karthikEdsEnablementSite/repo/catalog/.pages/wknd-trendsetters_site_blog_fashion-trends-young-culture--df14d5aa/page-catalog.json
+2026-08-31 05:11:16 | INFO | Loading: https://wknd-trendsetters.site/blog/ace-pro-court-polo
+2026-08-31 05:11:16 | INFO | SUCCESS: https://wknd-trendsetters.site/blog/fashion-trends-young-culture
+2026-08-31 05:11:16 | INFO | [8/15] Processing: https://wknd-trendsetters.site/blog/flip-flop-summer-style
+2026-08-31 05:11:16 | INFO | Generated slug: wknd-trendsetters_site_blog_flip-flop-summer-style--2c4ce901
+2026-08-31 05:11:16 | INFO | Starting analysis: https://wknd-trendsetters.site/blog/flip-flop-summer-style -> /backups/krajasekher/karthikEdsEnablementSite/repo/catalog/.pages/wknd-trendsetters_site_blog_flip-flop-summer-style--2c4ce901
+2026-08-31 05:11:16 | INFO | Loading: https://wknd-trendsetters.site/blog/flip-flop-summer-style
+2026-08-31 05:11:17 | INFO |    Top-section: 21 rows via title
+2026-08-31 05:11:17 | INFO |    Body start: y=504 (start row 20 via below-title)
+2026-08-31 05:11:17 | INFO | URL Pattern: /blog/fashion-trends-young-style
+2026-08-31 05:11:17 | INFO | Skeleton: signature="sB(2x1,s)", 2 sections
+2026-08-31 05:11:17 | INFO | Page catalog complete: /backups/krajasekher/karthikEdsEnablementSite/repo/catalog/.pages/wknd-trendsetters_site_blog_fashion-trends-young-style--85d6178c/page-catalog.json
+2026-08-31 05:11:17 | INFO | SUCCESS: https://wknd-trendsetters.site/blog/fashion-trends-young-style
+2026-08-31 05:11:17 | INFO | PROGRESS: 5/15 analyzed (33% checklist complete) | 5 ok, 0 failed, 0 skipped | ~1 min remaining
+2026-08-31 05:11:17 | INFO | Phase 0A: Triggering lazy-loaded content...
+2026-08-31 05:11:17 | INFO | [9/15] Processing: https://wknd-trendsetters.site/blog/street-style-trends
+2026-08-31 05:11:17 | INFO | Generated slug: wknd-trendsetters_site_blog_street-style-trends--2dba1005
+2026-08-31 05:11:17 | INFO | Starting analysis: https://wknd-trendsetters.site/blog/street-style-trends -> /backups/krajasekher/karthikEdsEnablementSite/repo/catalog/.pages/wknd-trendsetters_site_blog_street-style-trends--2dba1005
+2026-08-31 05:11:18 | INFO | Loading: https://wknd-trendsetters.site/blog/street-style-trends
+2026-08-31 05:11:18 | INFO | Phase 0A: Triggering lazy-loaded content...
+2026-08-31 05:11:18 | INFO | Phase 0A: Triggering lazy-loaded content...
+2026-08-31 05:11:19 | INFO | [10/15] Processing: https://wknd-trendsetters.site/fashion-trends-young-adults-casual-sport
+2026-08-31 05:11:19 | INFO | Generated slug: wknd-trendsetters_site_fashion-trends-young-adults-casual-sport--b40dc265
+2026-08-31 05:11:19 | INFO | Starting analysis: https://wknd-trendsetters.site/fashion-trends-young-adults-casual-sport -> /backups/krajasekher/karthikEdsEnablementSite/repo/catalog/.pages/wknd-trendsetters_site_fashion-trends-young-adults-casual-sport--b40dc265
+2026-08-31 05:11:19 | INFO | Loading: https://wknd-trendsetters.site/fashion-trends-young-adults-casual-sport
+2026-08-31 05:11:19 | INFO | Lazy-load scroll complete
+2026-08-31 05:11:19 | INFO | Phase 0B: Cleaning up overlays...
+2026-08-31 05:11:20 | INFO | Phase 0A: Triggering lazy-loaded content...
+2026-08-31 05:11:20 | INFO | Removed 0 elements: none
+📐 Detecting header/footer for this page...
+2026-08-31 05:11:20 | INFO | Template - Reused saved header selector on current page
+2026-08-31 05:11:20 | INFO | Template - Reused saved footer selector on current page
+2026-08-31 05:11:20 | INFO | Header: advanced complexity, 5 features
+2026-08-31 05:11:20 | INFO | Footer: simple complexity, 0 features
+2026-08-31 05:11:20 | INFO | Phase 2: Identifying main content area...
+2026-08-31 05:11:20 | INFO | Main content: #main-content
+2026-08-31 05:11:20 | INFO | Phase 3: Detecting blocks...
+2026-08-31 05:11:20 | INFO | Phase 4: Capturing block screenshots...
+2026-08-31 05:11:20 | INFO | Lazy-load scroll complete
+2026-08-31 05:11:20 | INFO | Phase 0B: Cleaning up overlays...
+2026-08-31 05:11:20 | INFO | Lazy-load scroll complete
+2026-08-31 05:11:20 | INFO | Phase 0B: Cleaning up overlays...
+2026-08-31 05:11:21 | INFO | Captured 1 block screenshots
+2026-08-31 05:11:21 | INFO | Detected 1 blocks
+2026-08-31 05:11:21 | INFO | Generating fingerprints for template discovery...
+2026-08-31 05:11:21 | INFO | Removed 0 elements: none
+📐 Detecting header/footer for this page...
+2026-08-31 05:11:21 | INFO | Phase 0A: Triggering lazy-loaded content...
+2026-08-31 05:11:21 | INFO | Template - Reused saved header selector on current page
+2026-08-31 05:11:21 | INFO | Template - Reused saved footer selector on current page
+2026-08-31 05:11:21 | INFO | Header: advanced complexity, 5 features
+2026-08-31 05:11:21 | INFO | Footer: simple complexity, 0 features
+2026-08-31 05:11:21 | INFO | Phase 2: Identifying main content area...
+2026-08-31 05:11:21 | INFO | Main content: #main-content
+2026-08-31 05:11:21 | INFO | Removed 0 elements: none
+📐 Detecting header/footer for this page...
+2026-08-31 05:11:21 | INFO | Phase 3: Detecting blocks...
+2026-08-31 05:11:21 | INFO | Template - Reused saved header selector on current page
+2026-08-31 05:11:21 | WARNING | Blocks - 67% of blocks are unknown - site uses non-EDS patterns
+2026-08-31 05:11:21 | INFO | Phase 4: Capturing block screenshots...
+2026-08-31 05:11:21 | INFO | Template - Reused saved footer selector on current page
+2026-08-31 05:11:21 | INFO | Header: advanced complexity, 5 features
+2026-08-31 05:11:21 | INFO | Footer: simple complexity, 0 features
+2026-08-31 05:11:21 | INFO | Phase 2: Identifying main content area...
+2026-08-31 05:11:21 | INFO | Main content: #main-content
+2026-08-31 05:11:21 | INFO | Lazy-load scroll complete
+2026-08-31 05:11:21 | INFO | Phase 0B: Cleaning up overlays...
+2026-08-31 05:11:21 | INFO | Phase 3: Detecting blocks...
+2026-08-31 05:11:21 | WARNING | Blocks - 67% of blocks are unknown - site uses non-EDS patterns
+2026-08-31 05:11:21 | INFO | Phase 4: Capturing block screenshots...
+2026-08-31 05:11:22 | INFO | Removed 0 elements: none
+📐 Detecting header/footer for this page...
+2026-08-31 05:11:22 | INFO | Template - Reused saved header selector on current page
+2026-08-31 05:11:22 | INFO | Template - Reused saved footer selector on current page
+2026-08-31 05:11:22 | INFO | Header: advanced complexity, 5 features
+2026-08-31 05:11:22 | INFO | Footer: simple complexity, 0 features
+2026-08-31 05:11:22 | INFO | Phase 2: Identifying main content area...
+2026-08-31 05:11:22 | INFO | Main content: #main-content
+2026-08-31 05:11:22 | INFO | Phase 3: Detecting blocks...
+2026-08-31 05:11:22 | INFO | Captured 3 block screenshots
+2026-08-31 05:11:22 | INFO | Detected 3 blocks
+2026-08-31 05:11:22 | INFO | Generating fingerprints for template discovery...
+2026-08-31 05:11:22 | INFO | Phase 4: Capturing block screenshots...
+2026-08-31 05:11:23 | INFO | Captured 3 block screenshots
+2026-08-31 05:11:23 | INFO | Detected 3 blocks
+2026-08-31 05:11:23 | INFO | Generating fingerprints for template discovery...
+2026-08-31 05:11:23 | INFO | Lazy-load scroll complete
+2026-08-31 05:11:23 | INFO | Phase 0B: Cleaning up overlays...
+2026-08-31 05:11:23 | INFO |    Top-section: 21 rows via title
+2026-08-31 05:11:23 | INFO |    Body start: y=504 (start row 20 via below-title)
+2026-08-31 05:11:23 | INFO | URL Pattern: /blog/fashion-blog-post
+2026-08-31 05:11:23 | INFO | Skeleton: signature="sB(2x1,s)", 2 sections
+2026-08-31 05:11:23 | INFO | Page catalog complete: /backups/krajasekher/karthikEdsEnablementSite/repo/catalog/.pages/wknd-trendsetters_site_blog_fashion-blog-post--d799affb/page-catalog.json
+2026-08-31 05:11:23 | INFO | SUCCESS: https://wknd-trendsetters.site/blog/fashion-blog-post
+2026-08-31 05:11:23 | INFO | Captured 1 block screenshots
+2026-08-31 05:11:23 | INFO | Detected 1 blocks
+2026-08-31 05:11:23 | INFO | Generating fingerprints for template discovery...
+2026-08-31 05:11:23 | INFO | Removed 0 elements: none
+📐 Detecting header/footer for this page...
+2026-08-31 05:11:23 | INFO | Template - Reused saved header selector on current page
+2026-08-31 05:11:23 | INFO | Template - Reused saved footer selector on current page
+2026-08-31 05:11:23 | INFO | Header: advanced complexity, 5 features
+2026-08-31 05:11:23 | INFO | Footer: simple complexity, 0 features
+2026-08-31 05:11:23 | INFO | Phase 2: Identifying main content area...
+2026-08-31 05:11:23 | INFO | Main content: #main-content
+2026-08-31 05:11:24 | INFO | Phase 3: Detecting blocks...
+2026-08-31 05:11:24 | INFO | Phase 4: Capturing block screenshots...
+2026-08-31 05:11:25 | INFO | [11/15] Processing: https://wknd-trendsetters.site/fashion-trends-young-adults
+2026-08-31 05:11:25 | INFO | Generated slug: wknd-trendsetters_site_fashion-trends-young-adults--6f041216
+2026-08-31 05:11:25 | INFO | Starting analysis: https://wknd-trendsetters.site/fashion-trends-young-adults -> /backups/krajasekher/karthikEdsEnablementSite/repo/catalog/.pages/wknd-trendsetters_site_fashion-trends-young-adults--6f041216
+2026-08-31 05:11:25 | INFO | Loading: https://wknd-trendsetters.site/fashion-trends-young-adults
+2026-08-31 05:11:25 | INFO |    Top-section: 21 rows via title
+2026-08-31 05:11:25 | INFO |    Body start: y=504 (start row 20 via below-title)
+2026-08-31 05:11:25 | INFO | URL Pattern: /blog/ace-pro-court-polo
+2026-08-31 05:11:25 | INFO | Skeleton: signature="sB(2x1,s)", 2 sections
+2026-08-31 05:11:26 | INFO | Page catalog complete: /backups/krajasekher/karthikEdsEnablementSite/repo/catalog/.pages/wknd-trendsetters_site_blog_ace-pro-court-polo--f4d90163/page-catalog.json
+2026-08-31 05:11:26 | INFO | SUCCESS: https://wknd-trendsetters.site/blog/ace-pro-court-polo
+2026-08-31 05:11:26 | INFO |    Top-section: 21 rows via title
+2026-08-31 05:11:26 | INFO |    Body start: y=504 (start row 20 via below-title)
+2026-08-31 05:11:26 | INFO | URL Pattern: /blog/flip-flop-summer-style
+2026-08-31 05:11:26 | INFO | Skeleton: signature="sB(2x1,s)", 2 sections
+2026-08-31 05:11:26 | INFO | Page catalog complete: /backups/krajasekher/karthikEdsEnablementSite/repo/catalog/.pages/wknd-trendsetters_site_blog_flip-flop-summer-style--2c4ce901/page-catalog.json
+2026-08-31 05:11:26 | INFO | SUCCESS: https://wknd-trendsetters.site/blog/flip-flop-summer-style
+2026-08-31 05:11:26 | INFO | Captured 11 block screenshots
+2026-08-31 05:11:26 | INFO | Detected 11 blocks
+2026-08-31 05:11:26 | INFO | Generating fingerprints for template discovery...
+2026-08-31 05:11:26 | INFO |    Top-section: 21 rows via title
+2026-08-31 05:11:26 | INFO |    Body start: y=504 (start row 20 via below-title)
+2026-08-31 05:11:26 | INFO | URL Pattern: /blog/street-style-trends
+2026-08-31 05:11:26 | INFO | Skeleton: signature="sB(2x1,s)", 2 sections
+2026-08-31 05:11:26 | INFO | Page catalog complete: /backups/krajasekher/karthikEdsEnablementSite/repo/catalog/.pages/wknd-trendsetters_site_blog_street-style-trends--2dba1005/page-catalog.json
+2026-08-31 05:11:26 | INFO | SUCCESS: https://wknd-trendsetters.site/blog/street-style-trends
+2026-08-31 05:11:27 | INFO | Phase 0A: Triggering lazy-loaded content...
+2026-08-31 05:11:27 | INFO | [12/15] Processing: https://wknd-trendsetters.site/case-studies
+2026-08-31 05:11:27 | INFO | Generated slug: wknd-trendsetters_site_case-studies--6e72cf32
+2026-08-31 05:11:27 | INFO | Starting analysis: https://wknd-trendsetters.site/case-studies -> /backups/krajasekher/karthikEdsEnablementSite/repo/catalog/.pages/wknd-trendsetters_site_case-studies--6e72cf32
+2026-08-31 05:11:27 | INFO | Loading: https://wknd-trendsetters.site/case-studies
+2026-08-31 05:11:27 | INFO | [13/15] Processing: https://wknd-trendsetters.site/fashion-trends-of-the-season
+2026-08-31 05:11:27 | INFO | Generated slug: wknd-trendsetters_site_fashion-trends-of-the-season--c3986399
+2026-08-31 05:11:27 | INFO | Starting analysis: https://wknd-trendsetters.site/fashion-trends-of-the-season -> /backups/krajasekher/karthikEdsEnablementSite/repo/catalog/.pages/wknd-trendsetters_site_fashion-trends-of-the-season--c3986399
+2026-08-31 05:11:27 | INFO | [14/15] Processing: https://wknd-trendsetters.site/faq
+2026-08-31 05:11:27 | INFO | Generated slug: wknd-trendsetters_site_faq--5706b7ac
+2026-08-31 05:11:27 | INFO | Starting analysis: https://wknd-trendsetters.site/faq -> /backups/krajasekher/karthikEdsEnablementSite/repo/catalog/.pages/wknd-trendsetters_site_faq--5706b7ac
+2026-08-31 05:11:27 | INFO | Loading: https://wknd-trendsetters.site/fashion-trends-of-the-season
+2026-08-31 05:11:28 | INFO | Loading: https://wknd-trendsetters.site/faq
+2026-08-31 05:11:28 | INFO |    Top-section: 20 rows via title+container
+2026-08-31 05:11:28 | INFO |    Body start: y=500 (start row 20 via below-title+container)
+2026-08-31 05:11:28 | INFO | URL Pattern: /fashion-trends-young-adults-casual-sport
+2026-08-31 05:11:28 | INFO | Skeleton: signature="sB(2x1B,s(s(sB,sB),4x2),2x1B,sB)", 4 sections
+2026-08-31 05:11:28 | INFO | Page catalog complete: /backups/krajasekher/karthikEdsEnablementSite/repo/catalog/.pages/wknd-trendsetters_site_fashion-trends-young-adults-casual-sport--b40dc265/page-catalog.json
+2026-08-31 05:11:28 | INFO | SUCCESS: https://wknd-trendsetters.site/fashion-trends-young-adults-casual-sport
+2026-08-31 05:11:28 | INFO | PROGRESS: 10/15 analyzed (67% checklist complete) | 10 ok, 0 failed, 0 skipped | ~1 min remaining
+2026-08-31 05:11:29 | INFO | Lazy-load scroll complete
+2026-08-31 05:11:29 | INFO | Phase 0B: Cleaning up overlays...
+2026-08-31 05:11:29 | INFO | Phase 0A: Triggering lazy-loaded content...
+2026-08-31 05:11:30 | INFO | Phase 0A: Triggering lazy-loaded content...
+2026-08-31 05:11:30 | INFO | Removed 0 elements: none
+📐 Detecting header/footer for this page...
+2026-08-31 05:11:30 | INFO | Template - Reused saved header selector on current page
+2026-08-31 05:11:30 | INFO | Template - Reused saved footer selector on current page
+2026-08-31 05:11:30 | INFO | Header: advanced complexity, 5 features
+2026-08-31 05:11:30 | INFO | Footer: simple complexity, 0 features
+2026-08-31 05:11:30 | INFO | Phase 2: Identifying main content area...
+2026-08-31 05:11:30 | INFO | Main content: #main-content
+2026-08-31 05:11:30 | INFO | Phase 0A: Triggering lazy-loaded content...
+2026-08-31 05:11:30 | INFO | Phase 3: Detecting blocks...
+2026-08-31 05:11:30 | WARNING | Blocks - 80% of blocks are unknown - site uses non-EDS patterns
+2026-08-31 05:11:30 | INFO | Phase 4: Capturing block screenshots...
+2026-08-31 05:11:30 | INFO | [15/15] Processing: https://wknd-trendsetters.site/fashion-insights
+2026-08-31 05:11:30 | INFO | Generated slug: wknd-trendsetters_site_fashion-insights--055129b6
+2026-08-31 05:11:30 | INFO | Starting analysis: https://wknd-trendsetters.site/fashion-insights -> /backups/krajasekher/karthikEdsEnablementSite/repo/catalog/.pages/wknd-trendsetters_site_fashion-insights--055129b6
+2026-08-31 05:11:30 | INFO | Loading: https://wknd-trendsetters.site/fashion-insights
+2026-08-31 05:11:31 | INFO | Lazy-load scroll complete
+2026-08-31 05:11:31 | INFO | Phase 0B: Cleaning up overlays...
+2026-08-31 05:11:31 | INFO | Lazy-load scroll complete
+2026-08-31 05:11:31 | INFO | Phase 0B: Cleaning up overlays...
+2026-08-31 05:11:31 | INFO | Captured 5 block screenshots
+2026-08-31 05:11:31 | INFO | Detected 5 blocks
+2026-08-31 05:11:31 | INFO | Generating fingerprints for template discovery...
+2026-08-31 05:11:32 | INFO | Lazy-load scroll complete
+2026-08-31 05:11:32 | INFO | Phase 0B: Cleaning up overlays...
+2026-08-31 05:11:32 | INFO | Removed 0 elements: none
+📐 Detecting header/footer for this page...
+2026-08-31 05:11:32 | INFO | Phase 0A: Triggering lazy-loaded content...
+2026-08-31 05:11:32 | INFO | Template - Reused saved header selector on current page
+2026-08-31 05:11:32 | INFO | Template - Reused saved footer selector on current page
+2026-08-31 05:11:32 | INFO | Header: advanced complexity, 5 features
+2026-08-31 05:11:32 | INFO | Footer: simple complexity, 0 features
+2026-08-31 05:11:32 | INFO | Phase 2: Identifying main content area...
+2026-08-31 05:11:32 | INFO | Main content: #main-content
+2026-08-31 05:11:32 | INFO | Removed 0 elements: none
+📐 Detecting header/footer for this page...
+2026-08-31 05:11:32 | INFO | Template - Reused saved header selector on current page
+2026-08-31 05:11:32 | INFO | Template - Reused saved footer selector on current page
+2026-08-31 05:11:32 | INFO | Header: advanced complexity, 5 features
+2026-08-31 05:11:32 | INFO | Footer: simple complexity, 0 features
+2026-08-31 05:11:32 | INFO | Phase 2: Identifying main content area...
+2026-08-31 05:11:32 | INFO | Main content: #main-content
+2026-08-31 05:11:32 | INFO | Phase 3: Detecting blocks...
+2026-08-31 05:11:32 | WARNING | Blocks - 60% of blocks are unknown - site uses non-EDS patterns
+2026-08-31 05:11:32 | INFO | Phase 4: Capturing block screenshots...
+2026-08-31 05:11:32 | INFO | Removed 0 elements: none
+📐 Detecting header/footer for this page...
+2026-08-31 05:11:32 | INFO | Phase 3: Detecting blocks...
+2026-08-31 05:11:32 | INFO | Template - Reused saved header selector on current page
+2026-08-31 05:11:32 | INFO | Phase 4: Capturing block screenshots...
+2026-08-31 05:11:32 | INFO | Template - Reused saved footer selector on current page
+2026-08-31 05:11:32 | INFO | Header: advanced complexity, 5 features
+2026-08-31 05:11:32 | INFO | Footer: simple complexity, 0 features
+2026-08-31 05:11:32 | INFO | Phase 2: Identifying main content area...
+2026-08-31 05:11:32 | INFO | Main content: #main-content
+2026-08-31 05:11:33 | INFO | Phase 3: Detecting blocks...
+2026-08-31 05:11:33 | WARNING | Blocks - 80% of blocks are unknown - site uses non-EDS patterns
+2026-08-31 05:11:33 | INFO | Phase 4: Capturing block screenshots...
+2026-08-31 05:11:34 | INFO | Captured 4 block screenshots
+2026-08-31 05:11:34 | INFO | Detected 4 blocks
+2026-08-31 05:11:34 | INFO | Generating fingerprints for template discovery...
+2026-08-31 05:11:34 | INFO | Lazy-load scroll complete
+2026-08-31 05:11:34 | INFO | Phase 0B: Cleaning up overlays...
+2026-08-31 05:11:34 | INFO | Captured 5 block screenshots
+2026-08-31 05:11:34 | INFO | Detected 5 blocks
+2026-08-31 05:11:34 | INFO | Generating fingerprints for template discovery...
+2026-08-31 05:11:34 | INFO |    Top-section: 18 rows via title
+2026-08-31 05:11:34 | INFO |    Body start: y=450 (start row 18 via below-title)
+2026-08-31 05:11:34 | INFO | URL Pattern: /fashion-trends-young-adults
+2026-08-31 05:11:34 | INFO | Skeleton: signature="sB(2x1B,3x1,sB(sB,sB),s(sB,4x1),sB(s(sB,sB),4x1),sB)", 6 sections
+2026-08-31 05:11:34 | INFO | Page catalog complete: /backups/krajasekher/karthikEdsEnablementSite/repo/catalog/.pages/wknd-trendsetters_site_fashion-trends-young-adults--6f041216/page-catalog.json
+2026-08-31 05:11:34 | INFO | SUCCESS: https://wknd-trendsetters.site/fashion-trends-young-adults
+2026-08-31 05:11:34 | INFO | Captured 5 block screenshots
+2026-08-31 05:11:34 | INFO | Detected 5 blocks
+2026-08-31 05:11:34 | INFO | Generating fingerprints for template discovery...
+2026-08-31 05:11:35 | INFO | Removed 0 elements: none
+📐 Detecting header/footer for this page...
+2026-08-31 05:11:35 | INFO | Template - Reused saved header selector on current page
+2026-08-31 05:11:35 | INFO | Template - Reused saved footer selector on current page
+2026-08-31 05:11:35 | INFO | Header: advanced complexity, 5 features
+2026-08-31 05:11:35 | INFO | Footer: simple complexity, 0 features
+2026-08-31 05:11:35 | INFO | Phase 2: Identifying main content area...
+2026-08-31 05:11:35 | INFO | Main content: #main-content
+2026-08-31 05:11:35 | INFO | Phase 3: Detecting blocks...
+2026-08-31 05:11:35 | WARNING | Blocks - 80% of blocks are unknown - site uses non-EDS patterns
+2026-08-31 05:11:35 | INFO | Phase 4: Capturing block screenshots...
+2026-08-31 05:11:36 | INFO | Worker 1 finished
+2026-08-31 05:11:36 | INFO |    Top-section: 22 rows via title
+2026-08-31 05:11:36 | INFO |    Body start: y=536 (start row 21 via below-title)
+2026-08-31 05:11:36 | INFO | URL Pattern: /faq
+2026-08-31 05:11:36 | INFO | Skeleton: signature="sB(2x1B,s,2x1B,sB)", 4 sections
+2026-08-31 05:11:36 | INFO | Page catalog complete: /backups/krajasekher/karthikEdsEnablementSite/repo/catalog/.pages/wknd-trendsetters_site_faq--5706b7ac/page-catalog.json
+2026-08-31 05:11:36 | INFO | SUCCESS: https://wknd-trendsetters.site/faq
+2026-08-31 05:11:37 | INFO | Captured 5 block screenshots
+2026-08-31 05:11:37 | INFO | Detected 5 blocks
+2026-08-31 05:11:37 | INFO | Generating fingerprints for template discovery...
+2026-08-31 05:11:37 | INFO |    Top-section: 15 rows via title
+2026-08-31 05:11:37 | INFO |    Body start: y=375 (start row 15 via below-title)
+2026-08-31 05:11:37 | INFO | URL Pattern: /case-studies
+2026-08-31 05:11:37 | INFO | Skeleton: signature="sB(sB,2x1,sB(s(sB,sB),4x2),s(2x1,4x1),3x1B(sB,sB))", 5 sections
+2026-08-31 05:11:37 | INFO | Page catalog complete: /backups/krajasekher/karthikEdsEnablementSite/repo/catalog/.pages/wknd-trendsetters_site_case-studies--6e72cf32/page-catalog.json
+2026-08-31 05:11:37 | INFO | SUCCESS: https://wknd-trendsetters.site/case-studies
+2026-08-31 05:11:37 | INFO |    Top-section: 18 rows via title
+2026-08-31 05:11:37 | INFO |    Body start: y=450 (start row 18 via below-title)
+2026-08-31 05:11:37 | INFO | URL Pattern: /fashion-trends-of-the-season
+2026-08-31 05:11:37 | INFO | Skeleton: signature="sB(2x1B,s(s(sB,sB),2x1),sB(sB,3x1),s(s(sB,sB),3x2),sB)", 5 sections
+2026-08-31 05:11:37 | INFO | Page catalog complete: /backups/krajasekher/karthikEdsEnablementSite/repo/catalog/.pages/wknd-trendsetters_site_fashion-trends-of-the-season--c3986399/page-catalog.json
+2026-08-31 05:11:37 | INFO | SUCCESS: https://wknd-trendsetters.site/fashion-trends-of-the-season
+2026-08-31 05:11:38 | INFO | Worker 3 finished
+2026-08-31 05:11:38 | INFO | Worker 2 finished
+2026-08-31 05:11:39 | INFO | Worker 0 finished
+2026-08-31 05:11:39 | INFO |    Top-section: 17 rows via title
+2026-08-31 05:11:39 | INFO |    Body start: y=401 (start row 16 via below-title)
+2026-08-31 05:11:39 | INFO | URL Pattern: /fashion-insights
+2026-08-31 05:11:39 | INFO | Skeleton: signature="sB(sB,2x1,sB(s(sB,sB),4x1),s(s(sB,sB),3x2),sB)", 5 sections
+2026-08-31 05:11:39 | INFO | Page catalog complete: /backups/krajasekher/karthikEdsEnablementSite/repo/catalog/.pages/wknd-trendsetters_site_fashion-insights--055129b6/page-catalog.json
+2026-08-31 05:11:39 | INFO | SUCCESS: https://wknd-trendsetters.site/fashion-insights
+2026-08-31 05:11:39 | INFO | PROGRESS: 15/15 analyzed (100% checklist complete) | 15 ok, 0 failed, 0 skipped | ~0 min remaining
+2026-08-31 05:11:39 | INFO | Worker 4 finished
+2026-08-31 05:11:39 | INFO | PROGRESS: 15/15 analyzed (100% checklist complete) | 15 ok, 0 failed, 0 skipped | ~0 min remaining
+2026-08-31 05:11:39 | INFO | ================================================================================
+2026-08-31 05:11:39 | INFO | BATCH ANALYSIS COMPLETED
+2026-08-31 05:11:39 | INFO | ================================================================================
+2026-08-31 05:11:39 | INFO | Total URLs: 15
+2026-08-31 05:11:39 | INFO | Attempt successes: 15
+2026-08-31 05:11:39 | INFO | Attempt failures: 0
+2026-08-31 05:11:39 | INFO | Skipped: 0
+2026-08-31 05:11:39 | INFO | Checklist final status: 15 analyzed, 0 failed, 0 marked
+2026-08-31 05:11:39 | INFO | Workers: 5
+2026-08-31 05:11:39 | INFO | ================================================================================
+2026-08-31 05:11:39 | INFO | Session state: ANALYZING → TEMPLATING
+2026-08-31T05:11:54.150Z | INFO | Consolidating fingerprints from page catalogs...
+2026-08-31T05:11:54.261Z | INFO | consolidate-fingerprints - Consolidated 15 fingerprints
+2026-08-31 05:13:30 | INFO | Agent 4 Started - Catalog blocks with similarity
+2026-08-31 05:13:30 | INFO | Agent 4 Progress - Starting all pass with 15 page(s) and 51 block occurrence(s)
+2026-08-31 05:13:30 | INFO | Agent 4 Progress - all: 15/15 page(s), 51/51 block occurrence(s), 21 unique signatures, 22 variants (20 new, 31 reused)
+2026-08-31 05:13:33 | INFO | Agent 4 Completed - Cataloged 22 block variants (20 new, 31 reused)
+2026-08-31 05:13:39 | INFO | Agent 2 Started - Generate summary.json
+2026-08-31 05:13:40 | INFO | Session state set to INACTIVE
+2026-08-31 05:13:40 | INFO | Agent 2 Completed - Summary generated successfully
+2026-08-31T05:13:46.035Z | INFO | Building visual-trees.json from page skeletons...
+2026-08-31T05:13:46.132Z | INFO | build-visual-trees - wrote 15 page(s) to /backups/krajasekher/karthikEdsEnablementSite/repo/migration-work/visual-trees.json

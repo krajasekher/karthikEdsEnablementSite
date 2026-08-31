@@ -1,0 +1,77 @@
+{
+  "analysis-urls-grouped": {
+    "captured": "2026-08-31T05:10:35.014Z",
+    "urlGroupings": 3,
+    "locales": {
+      "en": 15
+    },
+    "groups": {
+      "/": {
+        "confidence": "100%",
+        "urls": [
+          {
+            "url": "https://wknd-trendsetters.site/"
+          }
+        ]
+      },
+      "/blog": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://wknd-trendsetters.site/blog"
+          },
+          {
+            "url": "https://wknd-trendsetters.site/blog/latest-trends-young-casual-fashion"
+          },
+          {
+            "url": "https://wknd-trendsetters.site/blog/fashion-trends-young-culture"
+          },
+          {
+            "url": "https://wknd-trendsetters.site/blog/fashion-trends-young-style"
+          },
+          {
+            "url": "https://wknd-trendsetters.site/blog/fashion-blog-post"
+          },
+          {
+            "url": "https://wknd-trendsetters.site/blog/ace-pro-court-polo"
+          },
+          {
+            "url": "https://wknd-trendsetters.site/blog/flip-flop-summer-style"
+          },
+          {
+            "url": "https://wknd-trendsetters.site/blog/street-style-trends"
+          }
+        ]
+      },
+      "unknown": {
+        "confidence": "50%",
+        "urls": [
+          {
+            "url": "https://wknd-trendsetters.site/fashion-trends-young-adults-casual-sport",
+            "pattern": "blog"
+          },
+          {
+            "url": "https://wknd-trendsetters.site/fashion-trends-young-adults",
+            "pattern": "blog"
+          },
+          {
+            "url": "https://wknd-trendsetters.site/case-studies",
+            "pattern": "case-study"
+          },
+          {
+            "url": "https://wknd-trendsetters.site/fashion-trends-of-the-season",
+            "pattern": "blog"
+          },
+          {
+            "url": "https://wknd-trendsetters.site/faq",
+            "pattern": "faq"
+          },
+          {
+            "url": "https://wknd-trendsetters.site/fashion-insights",
+            "pattern": "blog"
+          }
+        ]
+      }
+    }
+  }
+}

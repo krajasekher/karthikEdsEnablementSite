@@ -1,0 +1,258 @@
+{
+  "analysis-block-catalog": {
+    "captured": "2026-08-31T05:13:33.804Z",
+    "totalBlockVariants": 22,
+    "totalBlocksProcessed": 51,
+    "newVariantsCreated": 20,
+    "variantsReused": 31,
+    "similarityThreshold": 0.7,
+    "completionStatus": {
+      "analyzed": 15,
+      "failed": 0
+    },
+    "blockVariants": {
+      "footer-global": {
+        "blockVariantId": "footer-global",
+        "baseBlock": "footer",
+        "canonicalModel": "configuration",
+        "pagesFound": 1,
+        "description": "Block variant: footer",
+        "screenshots": [
+          ".pages/_global/footer.jpg"
+        ]
+      },
+      "header-global": {
+        "blockVariantId": "header-global",
+        "baseBlock": "header",
+        "canonicalModel": "configuration",
+        "pagesFound": 1,
+        "description": "Block variant: header",
+        "screenshots": [
+          ".pages/_global/header.jpg"
+        ]
+      },
+      "1 heading + 1 image + 1 cta + 1 paragraph block-minimal-dark-withimg": {
+        "blockVariantId": "1 heading + 1 image + 1 cta + 1 paragraph block-minimal-dark-withimg",
+        "baseBlock": "unknown",
+        "canonicalModel": "standalone",
+        "pagesFound": 5,
+        "description": "heading + text + 1 CTAs + image",
+        "screenshots": [
+          ".pages/wknd-trendsetters_site--32ff5b5e/blocks/unknown-4c4f0c36.jpg",
+          ".pages/wknd-trendsetters_site_blog--c5abf4d2/blocks/unknown-37f927fd.jpg",
+          ".pages/wknd-trendsetters_site_case-studies--6e72cf32/blocks/unknown-4c4f0c36.jpg",
+          ".pages/wknd-trendsetters_site_fashion-insights--055129b6/blocks/unknown-37f927fd.jpg",
+          ".pages/wknd-trendsetters_site_fashion-trends-of-the-season--c3986399/blocks/unknown-7e24c59.jpg"
+        ]
+      },
+      "hero-minimal-light-withimg": {
+        "blockVariantId": "hero-minimal-light-withimg",
+        "baseBlock": "hero",
+        "canonicalModel": "standalone",
+        "pagesFound": 3,
+        "description": "heading + text + 2 CTAs + image",
+        "screenshots": [
+          ".pages/wknd-trendsetters_site_blog--c5abf4d2/blocks/hero-398435e.jpg",
+          ".pages/wknd-trendsetters_site_faq--5706b7ac/blocks/hero-398435e.jpg",
+          ".pages/wknd-trendsetters_site_fashion-insights--055129b6/blocks/hero-398435e.jpg"
+        ]
+      },
+      "7 headings + 6 images + 1 paragraph block-minimal-dark-withimg": {
+        "blockVariantId": "7 headings + 6 images + 1 paragraph block-minimal-dark-withimg",
+        "baseBlock": "unknown",
+        "canonicalModel": "standalone",
+        "pagesFound": 3,
+        "description": "heading + text + 6 images",
+        "screenshots": [
+          ".pages/wknd-trendsetters_site_blog--c5abf4d2/blocks/unknown-2bbb305a.jpg",
+          ".pages/wknd-trendsetters_site_fashion-insights--055129b6/blocks/unknown-6e509461.jpg",
+          ".pages/wknd-trendsetters_site_fashion-trends-of-the-season--c3986399/blocks/unknown-6e509461.jpg"
+        ]
+      },
+      "1 heading + 1 cta + 1 paragraph block-minimal-light": {
+        "blockVariantId": "1 heading + 1 cta + 1 paragraph block-minimal-light",
+        "baseBlock": "unknown",
+        "canonicalModel": "standalone",
+        "pagesFound": 6,
+        "description": "heading + text + 1 CTAs",
+        "screenshots": [
+          ".pages/wknd-trendsetters_site_blog--c5abf4d2/blocks/unknown-5ca9e7cc.jpg",
+          ".pages/wknd-trendsetters_site_faq--5706b7ac/blocks/unknown-5ca9e7cc.jpg",
+          ".pages/wknd-trendsetters_site_fashion-insights--055129b6/blocks/unknown-5ca9e7cc.jpg",
+          ".pages/wknd-trendsetters_site_fashion-trends-of-the-season--c3986399/blocks/unknown-5ca9e7cc.jpg",
+          ".pages/wknd-trendsetters_site_fashion-trends-young-adults--6f041216/blocks/unknown-5ca9e7cc.jpg",
+          ".pages/wknd-trendsetters_site_fashion-trends-young-adults-casual-sport--b40dc265/blocks/unknown-5ca9e7cc.jpg"
+        ]
+      },
+      "hero-minimal-dark-withimg": {
+        "blockVariantId": "hero-minimal-dark-withimg",
+        "baseBlock": "hero",
+        "canonicalModel": "standalone",
+        "pagesFound": 7,
+        "description": "heading + image",
+        "screenshots": [
+          ".pages/wknd-trendsetters_site_blog_ace-pro-court-polo--f4d90163/blocks/hero-37f927de.jpg",
+          ".pages/wknd-trendsetters_site_blog_fashion-blog-post--d799affb/blocks/hero-37f927de.jpg",
+          ".pages/wknd-trendsetters_site_blog_fashion-trends-young-culture--df14d5aa/blocks/hero-37f927de.jpg",
+          ".pages/wknd-trendsetters_site_blog_fashion-trends-young-style--85d6178c/blocks/hero-37f927de.jpg",
+          ".pages/wknd-trendsetters_site_blog_flip-flop-summer-style--2c4ce901/blocks/hero-37f927de.jpg",
+          ".pages/wknd-trendsetters_site_blog_latest-trends-young-casual-fashion--68825ee3/blocks/hero-37f927de.jpg",
+          ".pages/wknd-trendsetters_site_blog_street-style-trends--2dba1005/blocks/hero-37f927de.jpg"
+        ]
+      },
+      "1 image block-minimal-dark-withimg": {
+        "blockVariantId": "1 image block-minimal-dark-withimg",
+        "baseBlock": "unknown",
+        "canonicalModel": "standalone",
+        "pagesFound": 2,
+        "description": "image",
+        "screenshots": [
+          ".pages/wknd-trendsetters_site_blog_ace-pro-court-polo--f4d90163/blocks/unknown-67b7af31.jpg",
+          ".pages/wknd-trendsetters_site_blog_flip-flop-summer-style--2c4ce901/blocks/unknown-67b7af50.jpg"
+        ]
+      },
+      "hero-minimal-light": {
+        "blockVariantId": "hero-minimal-light",
+        "baseBlock": "hero",
+        "canonicalModel": "standalone",
+        "pagesFound": 1,
+        "description": "heading + text + 1 CTAs",
+        "screenshots": [
+          ".pages/wknd-trendsetters_site_case-studies--6e72cf32/blocks/hero-398435e.jpg"
+        ]
+      },
+      "1 heading + 1 image block-minimal-dark-withimg": {
+        "blockVariantId": "1 heading + 1 image block-minimal-dark-withimg",
+        "baseBlock": "unknown",
+        "canonicalModel": "standalone",
+        "pagesFound": 1,
+        "description": "heading + image",
+        "screenshots": [
+          ".pages/wknd-trendsetters_site_case-studies--6e72cf32/blocks/unknown-37f927fd.jpg"
+        ]
+      },
+      "1 heading + 8 images + 1 paragraph block-minimal-dark-withimg": {
+        "blockVariantId": "1 heading + 8 images + 1 paragraph block-minimal-dark-withimg",
+        "baseBlock": "unknown",
+        "canonicalModel": "standalone",
+        "pagesFound": 1,
+        "description": "heading + text + 8 images",
+        "screenshots": [
+          ".pages/wknd-trendsetters_site_case-studies--6e72cf32/blocks/unknown-2006d580.jpg"
+        ]
+      },
+      "tabs-minimal-dark-withimg": {
+        "blockVariantId": "tabs-minimal-dark-withimg",
+        "baseBlock": "tabs",
+        "canonicalModel": "standalone",
+        "pagesFound": 1,
+        "description": "text + 4 CTAs + 8 images",
+        "screenshots": [
+          ".pages/wknd-trendsetters_site_case-studies--6e72cf32/blocks/tabs-415a8900.jpg"
+        ]
+      },
+      "accordion-moderate-dark": {
+        "blockVariantId": "accordion-moderate-dark",
+        "baseBlock": "accordion",
+        "canonicalModel": "standalone",
+        "pagesFound": 1,
+        "description": "text",
+        "screenshots": [
+          ".pages/wknd-trendsetters_site_faq--5706b7ac/blocks/accordion-7c333a4e.jpg"
+        ]
+      },
+      "cards-minimal-dark": {
+        "blockVariantId": "cards-minimal-dark",
+        "baseBlock": "cards",
+        "canonicalModel": "standalone",
+        "pagesFound": 1,
+        "description": "heading + text",
+        "screenshots": [
+          ".pages/wknd-trendsetters_site_faq--5706b7ac/blocks/cards-14788aca.jpg"
+        ]
+      },
+      "5 headings + 4 images + 1 paragraph block-minimal-light-withimg": {
+        "blockVariantId": "5 headings + 4 images + 1 paragraph block-minimal-light-withimg",
+        "baseBlock": "unknown",
+        "canonicalModel": "standalone",
+        "pagesFound": 2,
+        "description": "heading + text + 4 images",
+        "screenshots": [
+          ".pages/wknd-trendsetters_site_fashion-insights--055129b6/blocks/unknown-3e400a0.jpg",
+          ".pages/wknd-trendsetters_site_fashion-trends-young-adults--6f041216/blocks/unknown-37f9285a.jpg"
+        ]
+      },
+      "hero-minimal-light-withimg-1": {
+        "blockVariantId": "hero-minimal-light-withimg-1",
+        "baseBlock": "hero",
+        "canonicalModel": "standalone",
+        "pagesFound": 2,
+        "description": "heading + text + 2 CTAs + 3 images",
+        "screenshots": [
+          ".pages/wknd-trendsetters_site_fashion-trends-of-the-season--c3986399/blocks/hero-398435e.jpg",
+          ".pages/wknd-trendsetters_site_fashion-trends-young-adults--6f041216/blocks/hero-398435e.jpg"
+        ]
+      },
+      "4 headings + 3 images + 3 paragraphs block-minimal-light-withimg": {
+        "blockVariantId": "4 headings + 3 images + 3 paragraphs block-minimal-light-withimg",
+        "baseBlock": "unknown",
+        "canonicalModel": "standalone",
+        "pagesFound": 1,
+        "description": "heading + text + 3 images",
+        "screenshots": [
+          ".pages/wknd-trendsetters_site_fashion-trends-of-the-season--c3986399/blocks/unknown-20351afa.jpg"
+        ]
+      },
+      "3 headings + 3 images + 3 paragraphs block-minimal-dark-withimg": {
+        "blockVariantId": "3 headings + 3 images + 3 paragraphs block-minimal-dark-withimg",
+        "baseBlock": "unknown",
+        "canonicalModel": "standalone",
+        "pagesFound": 1,
+        "description": "heading + text + 3 images",
+        "screenshots": [
+          ".pages/wknd-trendsetters_site_fashion-trends-young-adults--6f041216/blocks/unknown-37f927fd.jpg"
+        ]
+      },
+      "5 headings + 4 images block-minimal-dark-withimg": {
+        "blockVariantId": "5 headings + 4 images block-minimal-dark-withimg",
+        "baseBlock": "unknown",
+        "canonicalModel": "standalone",
+        "pagesFound": 1,
+        "description": "heading + 4 images",
+        "screenshots": [
+          ".pages/wknd-trendsetters_site_fashion-trends-young-adults--6f041216/blocks/unknown-7e24c59.jpg"
+        ]
+      },
+      "hero-minimal-light-withimg-2": {
+        "blockVariantId": "hero-minimal-light-withimg-2",
+        "baseBlock": "hero",
+        "canonicalModel": "standalone",
+        "pagesFound": 1,
+        "description": "heading + text + 1 CTAs + 2 images",
+        "screenshots": [
+          ".pages/wknd-trendsetters_site_fashion-trends-young-adults-casual-sport--b40dc265/blocks/hero-398435e.jpg"
+        ]
+      },
+      "cards-minimal-dark-withimg": {
+        "blockVariantId": "cards-minimal-dark-withimg",
+        "baseBlock": "cards",
+        "canonicalModel": "standalone",
+        "pagesFound": 1,
+        "description": "heading + text + image",
+        "screenshots": [
+          ".pages/wknd-trendsetters_site_fashion-trends-young-adults-casual-sport--b40dc265/blocks/cards-5e07a5f2.jpg"
+        ]
+      },
+      "1 heading + 1 image + 1 cta + 1 paragraph block-minimal-light-withimg": {
+        "blockVariantId": "1 heading + 1 image + 1 cta + 1 paragraph block-minimal-light-withimg",
+        "baseBlock": "unknown",
+        "canonicalModel": "standalone",
+        "pagesFound": 1,
+        "description": "heading + text + 1 CTAs + image",
+        "screenshots": [
+          ".pages/wknd-trendsetters_site_fashion-trends-young-adults-casual-sport--b40dc265/blocks/unknown-20351afa.jpg"
+        ]
+      }
+    }
+  }
+}

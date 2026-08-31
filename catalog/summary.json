@@ -1,0 +1,33 @@
+{
+  "analysis-summary": {
+    "status": "complete",
+    "metadata": {
+      "siteUrl": "https://wknd-trendsetters.site",
+      "siteName": "wknd-trendsetters.site",
+      "analysisDate": "2026-08-31"
+    },
+    "metrics": {
+      "urlDiscoveryMethod": "crawl",
+      "totalPages": 15,
+      "localeCount": 1,
+      "locales": [
+        {
+          "locale": "en",
+          "pages": 15
+        }
+      ],
+      "totalTemplates": 5,
+      "totalBlockTypes": 22,
+      "unknownBlockVariants": 11,
+      "edsBlockVariants": 11,
+      "pagesAnalyzed": 15,
+      "percentAnalyzed": 100,
+      "pagesPending": 0,
+      "pagesFailed": 0,
+      "blockDetectionCrashes": 0
+    },
+    "errors": {
+      "totalCount": 1
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "variantName": "hero-minimal-light",
+  "baseBlock": "hero",
+  "canonicalModel": "standalone",
+  "version": "1.0.0",
+  "created": "2026-08-31T05:13:30.907Z",
+  "sourceContext": {
+    "originUrl": "https://wknd-trendsetters.site/case-studies",
+    "discoveredDuring": "site-scope-analysis"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "minimal",
+    "hasBackgroundImage": false,
+    "hasGrid": false,
+    "imagePattern": "noimg",
+    "structure": "heading + text + 1 CTAs"
+  },
+  "knownSignatures": [
+    "{\"canonicalModel\":\"standalone\",\"type\":\"hero\",\"visualChars\":{\"colorScheme\":\"light\",\"density\":\"minimal\",\"hasBackgroundImage\":false,\"hasGrid\":false,\"imagePattern\":\"noimg\",\"structure\":\"heading + text + 1 CTAs\"}}"
+  ],
+  "usage": {
+    "pagesUsing": [
+      {
+        "url": "https://wknd-trendsetters.site/case-studies",
+        "screenshot": ".pages/wknd-trendsetters_site_case-studies--6e72cf32/blocks/hero-398435e.jpg"
+      }
+    ],
+    "reuseCount": 1
+  }
+}

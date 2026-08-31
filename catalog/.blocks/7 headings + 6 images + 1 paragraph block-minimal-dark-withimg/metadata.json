@@ -1,0 +1,39 @@
+{
+  "variantName": "7 headings + 6 images + 1 paragraph block-minimal-dark-withimg",
+  "baseBlock": "unknown",
+  "canonicalModel": "standalone",
+  "version": "1.0.0",
+  "created": "2026-08-31T05:13:30.906Z",
+  "sourceContext": {
+    "originUrl": "https://wknd-trendsetters.site/blog",
+    "discoveredDuring": "site-scope-analysis"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "dark",
+    "density": "minimal",
+    "hasBackgroundImage": false,
+    "hasGrid": false,
+    "imagePattern": "large",
+    "structure": "heading + text + 6 images"
+  },
+  "knownSignatures": [
+    "{\"canonicalModel\":\"standalone\",\"type\":\"unknown\",\"visualChars\":{\"colorScheme\":\"dark\",\"density\":\"minimal\",\"hasBackgroundImage\":false,\"hasGrid\":false,\"imagePattern\":\"large\",\"structure\":\"heading + text + 6 images\"}}"
+  ],
+  "usage": {
+    "pagesUsing": [
+      {
+        "url": "https://wknd-trendsetters.site/blog",
+        "screenshot": ".pages/wknd-trendsetters_site_blog--c5abf4d2/blocks/unknown-2bbb305a.jpg"
+      },
+      {
+        "url": "https://wknd-trendsetters.site/fashion-insights",
+        "screenshot": ".pages/wknd-trendsetters_site_fashion-insights--055129b6/blocks/unknown-6e509461.jpg"
+      },
+      {
+        "url": "https://wknd-trendsetters.site/fashion-trends-of-the-season",
+        "screenshot": ".pages/wknd-trendsetters_site_fashion-trends-of-the-season--c3986399/blocks/unknown-6e509461.jpg"
+      }
+    ],
+    "reuseCount": 3
+  }
+}
