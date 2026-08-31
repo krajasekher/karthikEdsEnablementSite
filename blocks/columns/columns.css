@@ -33,6 +33,29 @@
   color: var(--text-color);
 }
 
+/* images */
+.columns img {
+  width: 100%;
+}
+
+/* image group: single paragraph wrapping multiple pictures -> 2-col grid */
+.columns > div > .columns-img-col p {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+  margin: 0;
+}
+
+.columns > div > .columns-img-col img {
+  display: block;
+  border-radius: 20px;
+  object-fit: cover;
+}
+
+.columns > div > .columns-img-col p img {
+  aspect-ratio: 3 / 2;
+}
+
 /* CTA row: block 1 text cell -- last paragraph holding the two links */
 .columns > div > div > p:last-child:has(a) {
   display: flex;
@@ -62,6 +85,11 @@
   color: var(--background-color);
 }
 
+.columns > div > div > p:last-child:has(a) a:last-child {
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+
 .columns > div > div > p:last-child:has(a) a:first-child:hover {
   background-color: var(--dark-color);
   border-color: var(--dark-color);
@@ -69,39 +97,11 @@
   text-decoration: none;
 }
 
-.columns > div > div > p:last-child:has(a) a:last-child {
-  background-color: var(--background-color);
-  color: var(--text-color);
-}
-
 .columns > div > div > p:last-child:has(a) a:last-child:hover {
   background-color: var(--light-color);
   border-color: var(--dark-color);
   color: var(--dark-color);
   text-decoration: none;
-}
-
-/* images */
-.columns img {
-  width: 100%;
-}
-
-.columns > div > .columns-img-col img {
-  display: block;
-  border-radius: 20px;
-  object-fit: cover;
-}
-
-/* image group: single paragraph wrapping multiple pictures -> 2-col grid */
-.columns > div > .columns-img-col p {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 8px;
-  margin: 0;
-}
-
-.columns > div > .columns-img-col p img {
-  aspect-ratio: 3 / 2;
 }
 
 @media (width >= 900px) {
