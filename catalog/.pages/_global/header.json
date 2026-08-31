@@ -1,0 +1,21 @@
+{
+  "detected": true,
+  "selector": "div.navbar",
+  "bounds": {
+    "x": 0,
+    "y": 0,
+    "width": 1440,
+    "height": 83
+  },
+  "complexity": "advanced",
+  "effort": "very-high",
+  "estimatedHours": "16-32",
+  "features": [
+    "dropdowns",
+    "mega-menu",
+    "mobile-toggle",
+    "sticky",
+    "utility-bar"
+  ],
+  "linkCount": 17
+}

@@ -1,0 +1,83 @@
+{
+  "analysis-urls-all": {
+    "captured": "2026-08-31T05:09:49.565Z",
+    "totalUrls": 15,
+    "totalDocuments": 0,
+    "method": "crawl",
+    "sitemapURL": null,
+    "robotsTxtFound": true,
+    "robotsTxtRulesApplied": true,
+    "limitations": "",
+    "confidence": "85%",
+    "statusBreakdown": {
+      "success": 15,
+      "redirect": 0,
+      "clientError": 0,
+      "serverError": 0,
+      "errorTimeout": 0
+    },
+    "urls": [
+      {
+        "url": "https://wknd-trendsetters.site/",
+        "status": 200
+      },
+      {
+        "url": "https://wknd-trendsetters.site/fashion-trends-young-adults-casual-sport",
+        "status": 200
+      },
+      {
+        "url": "https://wknd-trendsetters.site/fashion-trends-young-adults",
+        "status": 200
+      },
+      {
+        "url": "https://wknd-trendsetters.site/blog",
+        "status": 200
+      },
+      {
+        "url": "https://wknd-trendsetters.site/case-studies",
+        "status": 200
+      },
+      {
+        "url": "https://wknd-trendsetters.site/fashion-trends-of-the-season",
+        "status": 200
+      },
+      {
+        "url": "https://wknd-trendsetters.site/faq",
+        "status": 200
+      },
+      {
+        "url": "https://wknd-trendsetters.site/fashion-insights",
+        "status": 200
+      },
+      {
+        "url": "https://wknd-trendsetters.site/blog/latest-trends-young-casual-fashion",
+        "status": 200
+      },
+      {
+        "url": "https://wknd-trendsetters.site/blog/fashion-trends-young-culture",
+        "status": 200
+      },
+      {
+        "url": "https://wknd-trendsetters.site/blog/fashion-trends-young-style",
+        "status": 200
+      },
+      {
+        "url": "https://wknd-trendsetters.site/blog/fashion-blog-post",
+        "status": 200
+      },
+      {
+        "url": "https://wknd-trendsetters.site/blog/ace-pro-court-polo",
+        "status": 200
+      },
+      {
+        "url": "https://wknd-trendsetters.site/blog/flip-flop-summer-style",
+        "status": 200
+      },
+      {
+        "url": "https://wknd-trendsetters.site/blog/street-style-trends",
+        "status": 200
+      }
+    ],
+    "documents": []
+  }
+}

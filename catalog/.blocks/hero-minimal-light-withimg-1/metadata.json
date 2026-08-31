@@ -1,0 +1,35 @@
+{
+  "variantName": "hero-minimal-light-withimg-1",
+  "baseBlock": "hero",
+  "canonicalModel": "standalone",
+  "version": "1.0.0",
+  "created": "2026-08-31T05:13:30.907Z",
+  "sourceContext": {
+    "originUrl": "https://wknd-trendsetters.site/fashion-trends-of-the-season",
+    "discoveredDuring": "site-scope-analysis"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "minimal",
+    "hasBackgroundImage": false,
+    "hasGrid": false,
+    "imagePattern": "large",
+    "structure": "heading + text + 2 CTAs + 3 images"
+  },
+  "knownSignatures": [
+    "{\"canonicalModel\":\"standalone\",\"type\":\"hero\",\"visualChars\":{\"colorScheme\":\"light\",\"density\":\"minimal\",\"hasBackgroundImage\":false,\"hasGrid\":false,\"imagePattern\":\"large\",\"structure\":\"heading + text + 2 CTAs + 3 images\"}}"
+  ],
+  "usage": {
+    "pagesUsing": [
+      {
+        "url": "https://wknd-trendsetters.site/fashion-trends-of-the-season",
+        "screenshot": ".pages/wknd-trendsetters_site_fashion-trends-of-the-season--c3986399/blocks/hero-398435e.jpg"
+      },
+      {
+        "url": "https://wknd-trendsetters.site/fashion-trends-young-adults",
+        "screenshot": ".pages/wknd-trendsetters_site_fashion-trends-young-adults--6f041216/blocks/hero-398435e.jpg"
+      }
+    ],
+    "reuseCount": 2
+  }
+}

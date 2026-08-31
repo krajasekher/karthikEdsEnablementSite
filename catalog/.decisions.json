@@ -1,0 +1,10 @@
+{
+  "approved_merges": [],
+  "renames": [
+    { "id": "template-2", "new_name": "landing-page", "description": "Rich landing/marketing page: hero banner followed by multiple stacked content and feature sections" },
+    { "id": "template--3", "new_name": "content-listing", "description": "Index/listing layout: hero header followed by card or list sections that link to detail pages" },
+    { "id": "template-1", "new_name": "blog-article", "description": "Article detail layout: hero header followed by body content sections" },
+    { "id": "template-3", "new_name": "faq-page", "description": "FAQ layout: hero header followed by an accordion section and supporting cards" },
+    { "id": "template--8", "new_name": "card-gallery", "description": "Gallery layout: hero header followed by a long sequence of card grid sections" }
+  ]
+}

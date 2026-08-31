@@ -1,0 +1,16 @@
+{
+  "detected": true,
+  "selector": "footer.footer.inverse-footer",
+  "bounds": {
+    "x": 0,
+    "y": 5300,
+    "width": 1440,
+    "height": 367
+  },
+  "complexity": "simple",
+  "effort": "low",
+  "estimatedHours": "1",
+  "features": [],
+  "columnCount": 1,
+  "linkCount": 21
+}

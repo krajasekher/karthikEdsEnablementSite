@@ -1,0 +1,336 @@
+{
+  "url": "https://wknd-trendsetters.site/blog/latest-trends-young-casual-fashion",
+  "timestamp": "2026-08-31T05:11:14.781Z",
+  "duration": "8.3s",
+  "cleanup": {
+    "elementsRemoved": 0,
+    "types": [],
+    "cookieConsentDismissed": false
+  },
+  "fingerprints": {
+    "urlPattern": "/blog/latest-trends-young-casual-fashion",
+    "topSectionBounds": {
+      "x": 0,
+      "y": 0,
+      "width": 1440,
+      "height": 504
+    },
+    "topSectionStrategy": "title",
+    "topSectionPlaceholders": [
+      {
+        "type": "text",
+        "x": 24,
+        "y": 0,
+        "width": 146,
+        "height": 18
+      },
+      {
+        "type": "image",
+        "x": 144,
+        "y": 128,
+        "width": 564,
+        "height": 376
+      },
+      {
+        "type": "text",
+        "x": 732,
+        "y": 185,
+        "width": 45,
+        "height": 20
+      },
+      {
+        "type": "text",
+        "x": 805,
+        "y": 185,
+        "width": 34,
+        "height": 20
+      },
+      {
+        "type": "image",
+        "x": 785,
+        "y": 190,
+        "width": 12,
+        "height": 12
+      },
+      {
+        "type": "text",
+        "x": 732,
+        "y": 244,
+        "width": 383,
+        "height": 82
+      },
+      {
+        "type": "text",
+        "x": 752,
+        "y": 348,
+        "width": 88,
+        "height": 18
+      },
+      {
+        "type": "text",
+        "x": 732,
+        "y": 378,
+        "width": 89,
+        "height": 18
+      },
+      {
+        "type": "text",
+        "x": 833,
+        "y": 378,
+        "width": 70,
+        "height": 18
+      },
+      {
+        "type": "text",
+        "x": 744,
+        "y": 420,
+        "width": 99,
+        "height": 15
+      }
+    ],
+    "topSectionTextElements": [
+      {
+        "tag": "a",
+        "fontSize": 14,
+        "fontWeight": 600,
+        "fontFamily": "instrument sans",
+        "color": "#f0f0f0",
+        "backgroundColor": "#000000",
+        "x": 24,
+        "y": 0,
+        "width": 178,
+        "height": 38,
+        "textLength": 20
+      },
+      {
+        "tag": "a",
+        "fontSize": 16,
+        "fontWeight": 500,
+        "fontFamily": "instrument sans",
+        "color": "#000000",
+        "backgroundColor": "#f0f0f0",
+        "x": 732,
+        "y": 187,
+        "width": 45,
+        "height": 26,
+        "textLength": 4
+      },
+      {
+        "tag": "a",
+        "fontSize": 16,
+        "fontWeight": 500,
+        "fontFamily": "instrument sans",
+        "color": "#606060",
+        "backgroundColor": "#f0f0f0",
+        "x": 805,
+        "y": 187,
+        "width": 34,
+        "height": 26,
+        "textLength": 4
+      },
+      {
+        "tag": "h1",
+        "fontSize": 40,
+        "fontWeight": 700,
+        "fontFamily": "syncopate",
+        "color": "#000000",
+        "backgroundColor": "#f0f0f0",
+        "x": 732,
+        "y": 245,
+        "width": 564,
+        "height": 88,
+        "textLength": 23
+      }
+    ],
+    "topSectionCropBottomY": 333,
+    "topSectionTitleRect": {
+      "x": 732,
+      "y": 245,
+      "width": 564,
+      "height": 88,
+      "text": "Tennis style, redefined",
+      "fontWeight": 700,
+      "color": "rgb(0, 0, 0)"
+    },
+    "bodyBounds": {
+      "x": 0,
+      "y": 504,
+      "width": 1440,
+      "height": 1549
+    },
+    "bodyStartY": 504,
+    "bodyPlaceholders": [
+      {
+        "type": "text",
+        "x": 360,
+        "y": 675,
+        "width": 679,
+        "height": 82
+      },
+      {
+        "type": "text",
+        "x": 360,
+        "y": 779,
+        "width": 714,
+        "height": 74
+      },
+      {
+        "type": "text",
+        "x": 360,
+        "y": 901,
+        "width": 465,
+        "height": 82
+      },
+      {
+        "type": "text",
+        "x": 360,
+        "y": 1005,
+        "width": 706,
+        "height": 74
+      },
+      {
+        "type": "text",
+        "x": 360,
+        "y": 1118,
+        "width": 485,
+        "height": 31
+      },
+      {
+        "type": "text",
+        "x": 384,
+        "y": 1165,
+        "width": 345,
+        "height": 20
+      },
+      {
+        "type": "text",
+        "x": 384,
+        "y": 1199,
+        "width": 369,
+        "height": 20
+      },
+      {
+        "type": "text",
+        "x": 384,
+        "y": 1233,
+        "width": 367,
+        "height": 20
+      },
+      {
+        "type": "text",
+        "x": 384,
+        "y": 1267,
+        "width": 333,
+        "height": 20
+      },
+      {
+        "type": "text",
+        "x": 384,
+        "y": 1301,
+        "width": 317,
+        "height": 20
+      },
+      {
+        "type": "text",
+        "x": 360,
+        "y": 1368,
+        "width": 570,
+        "height": 82
+      },
+      {
+        "type": "text",
+        "x": 360,
+        "y": 1472,
+        "width": 696,
+        "height": 47
+      },
+      {
+        "type": "text",
+        "x": 360,
+        "y": 1546,
+        "width": 693,
+        "height": 74
+      },
+      {
+        "type": "text",
+        "x": 360,
+        "y": 1668,
+        "width": 538,
+        "height": 38
+      },
+      {
+        "type": "text",
+        "x": 360,
+        "y": 1728,
+        "width": 706,
+        "height": 74
+      },
+      {
+        "type": "text",
+        "x": 388,
+        "y": 1842,
+        "width": 684,
+        "height": 47
+      }
+    ]
+  },
+  "skeleton": {
+    "signature": "sB(2x1,s)",
+    "nodeMap": {
+      "r": "body",
+      "rc1": "#main-content > section.section:nth-of-type(1)",
+      "rc2": "#main-content > section.section:nth-of-type(2)"
+    },
+    "sections": [
+      {
+        "id": "rc1",
+        "selector": "#main-content > section.section:nth-of-type(1)",
+        "layout": "2x1",
+        "hasBg": false,
+        "hint": "block"
+      },
+      {
+        "id": "rc2",
+        "selector": "#main-content > section.section:nth-of-type(2)",
+        "layout": null,
+        "hasBg": false,
+        "hint": "default-content"
+      }
+    ]
+  },
+  "blocks": [
+    {
+      "id": "hero-37f927de",
+      "type": "hero",
+      "confidence": "high",
+      "description": "1 heading + 1 image block",
+      "content": {
+        "headingCount": 1,
+        "paragraphCount": 0,
+        "imageCount": 1,
+        "buttonCount": 0,
+        "linkCount": 2,
+        "listCount": 0,
+        "childCount": 1,
+        "hasForm": false,
+        "hasVideo": false
+      },
+      "visualChars": {
+        "colorScheme": "dark",
+        "density": "minimal",
+        "hasBackgroundImage": false,
+        "hasGrid": false,
+        "imagePattern": "large",
+        "structure": "heading + image"
+      },
+      "selector": "#main-content > section:nth-child(1)",
+      "bounds": {
+        "x": 0,
+        "y": 83,
+        "width": 1440,
+        "height": 632
+      },
+      "screenshot": "blocks/hero-37f927de.jpg"
+    }
+  ]
+}
