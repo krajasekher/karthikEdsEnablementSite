@@ -1,0 +1,12 @@
+{
+  "type": "da",
+  "pluginRoot": "/home/node/.excat-marketplaces/excat-marketplace/excat",
+  "sites": {
+    "karthikedsenablementsite": {
+      "previewOrg": "krajasekher",
+      "previewSite": "karthikedsenablementsite",
+      "contentHostUrl": "https://content.da.live/krajasekher/karthikedsenablementsite/",
+      "libraryUrl": "https://main--sta-boilerplate--aemdemos.aem.page/tools/sidekick/library.json"
+    }
+  }
+}
