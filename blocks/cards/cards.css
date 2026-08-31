@@ -1,27 +1,101 @@
+/* Block: cards -- design migrated from wknd-trendsetters.site "Latest articles" grid */
+
 .cards > ul {
   list-style: none;
   margin: 0;
   padding: 0;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(257px, 1fr));
-  gap: 24px;
+  grid-template-columns: 1fr;
+  gap: 16px;
 }
 
-.cards > ul > li {
-  border: 1px solid #dadada;
+/* card */
+.cards > ul > li,
+.cards > ul > li.cards-card {
+  display: block;
+  border: 1px solid #e8e8e8;
+  border-radius: 20px;
+  overflow: hidden;
   background-color: var(--background-color);
+  color: var(--text-color);
+  box-shadow: none;
 }
 
-.cards .cards-card-body {
-  margin: 16px;
-}
-
+/* image */
 .cards .cards-card-image {
   line-height: 0;
+  aspect-ratio: 16 / 10;
+  overflow: hidden;
 }
 
-.cards > ul > li img {
+.cards .cards-card-image img {
+  display: block;
   width: 100%;
-  aspect-ratio: 4 / 3;
+  height: 100%;
   object-fit: cover;
+}
+
+/* body */
+.cards .cards-card-body {
+  margin: 0;
+  padding: 24px;
+}
+
+/* meta row: category pill + date */
+.cards .cards-card-meta {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin: 0 0 12px;
+}
+
+.cards .cards-card-category {
+  display: inline-flex;
+  align-items: center;
+  background-color: #f4fe8b;
+  color: var(--text-color);
+  padding: 4px 12px;
+  border-radius: 9999px;
+  font-family: var(--body-font-family);
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 1.6;
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  white-space: nowrap;
+}
+
+.cards .cards-card-date {
+  font-family: var(--body-font-family);
+  font-size: var(--body-font-size-xs);
+  font-weight: 400;
+  color: var(--link-color);
+}
+
+/* title */
+.cards .cards-card-body h3 {
+  margin: 0;
+  font-family: var(--heading-font-family);
+  font-size: var(--heading-font-size-l);
+  font-weight: 700;
+  line-height: 1.1;
+  letter-spacing: normal;
+  text-transform: uppercase;
+}
+
+.cards .cards-card-body h3 a:any-link {
+  color: var(--text-color);
+}
+
+/* responsive grid */
+@media (width >= 600px) {
+  .cards > ul {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (width >= 900px) {
+  .cards > ul {
+    grid-template-columns: repeat(4, 1fr);
+  }
 }

@@ -1,10 +1,9 @@
+/* Block: columns -- values extracted from wknd-trendsetters.site computed styles */
+
 .columns > div {
   display: flex;
   flex-direction: column;
-}
-
-.columns img {
-  width: 100%;
+  gap: 32px;
 }
 
 .columns > div > div {
@@ -15,19 +14,109 @@
   order: 0;
 }
 
+/* headings / text */
+.columns h1 {
+  margin: 0;
+  font-size: 40px;
+  font-weight: 700;
+  font-family: var(--heading-font-family);
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+  text-transform: uppercase;
+  color: var(--text-color);
+}
+
+.columns p {
+  margin: 24px 0 0;
+  font-size: var(--body-font-size-m);
+  line-height: 1.6;
+  color: var(--text-color);
+}
+
+/* images */
+.columns img {
+  width: 100%;
+}
+
+/* image group: single paragraph wrapping multiple pictures -> 2-col grid */
+.columns > div > .columns-img-col p {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+  margin: 0;
+}
+
 .columns > div > .columns-img-col img {
   display: block;
+  border-radius: 20px;
+  object-fit: cover;
+}
+
+.columns > div > .columns-img-col p img {
+  aspect-ratio: 3 / 2;
+}
+
+/* CTA row: block 1 text cell -- last paragraph holding the two links */
+.columns > div > div > p:last-child:has(a) {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin-top: 32px;
+}
+
+.columns > div > div > p:last-child:has(a) a:any-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  padding: 12px 24px;
+  border: 2px solid var(--text-color);
+  border-radius: 9999px;
+  font-size: var(--body-font-size-xs);
+  font-weight: 600;
+  line-height: 1.25;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+/* primary = first link (solid), secondary = second link (outline) */
+.columns > div > div > p:last-child:has(a) a:first-child {
+  background-color: var(--text-color);
+  color: var(--background-color);
+}
+
+.columns > div > div > p:last-child:has(a) a:last-child {
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+
+.columns > div > div > p:last-child:has(a) a:first-child:hover {
+  background-color: var(--dark-color);
+  border-color: var(--dark-color);
+  color: var(--light-color);
+  text-decoration: none;
+}
+
+.columns > div > div > p:last-child:has(a) a:last-child:hover {
+  background-color: var(--light-color);
+  border-color: var(--dark-color);
+  color: var(--dark-color);
+  text-decoration: none;
 }
 
 @media (width >= 900px) {
   .columns > div {
     align-items: center;
     flex-direction: unset;
-    gap: 24px;
+    gap: 64px;
   }
 
   .columns > div > div {
-    flex: 1;
+    flex: 1 1 0;
     order: unset;
+  }
+
+  .columns h1 {
+    font-size: 56px;
   }
 }

@@ -30,6 +30,7 @@ export default async function decorate(block) {
     button.setAttribute('aria-selected', !i);
     button.setAttribute('role', 'tab');
     button.setAttribute('type', 'button');
+
     button.addEventListener('click', () => {
       block.querySelectorAll('[role=tabpanel]').forEach((panel) => {
         panel.setAttribute('aria-hidden', true);
@@ -42,6 +43,22 @@ export default async function decorate(block) {
     });
     tablist.append(button);
     tab.remove();
+
+    // structure the remaining panel content: image column + text column
+    const content = tabpanel.firstElementChild;
+    if (content) {
+      content.classList.add('tabs-testimonial-panel-content');
+      const paragraphs = [...content.children];
+      const imageP = paragraphs.find((p) => p.querySelector('picture, img'));
+      if (imageP) imageP.classList.add('tabs-testimonial-panel-image');
+      const textEls = paragraphs.filter((p) => p !== imageP);
+      if (textEls.length) {
+        const textCol = document.createElement('div');
+        textCol.className = 'tabs-testimonial-panel-text';
+        textEls.forEach((el) => textCol.append(el));
+        content.append(textCol);
+      }
+    }
   });
 
   block.prepend(tablist);
