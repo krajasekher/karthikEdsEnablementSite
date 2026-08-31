@@ -1,0 +1,51 @@
+{
+  "variantName": "1 heading + 1 cta + 1 paragraph block-minimal-light",
+  "baseBlock": "unknown",
+  "canonicalModel": "standalone",
+  "version": "1.0.0",
+  "created": "2026-08-31T05:13:30.906Z",
+  "sourceContext": {
+    "originUrl": "https://wknd-trendsetters.site/blog",
+    "discoveredDuring": "site-scope-analysis"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "minimal",
+    "hasBackgroundImage": false,
+    "hasGrid": false,
+    "imagePattern": "noimg",
+    "structure": "heading + text + 1 CTAs"
+  },
+  "knownSignatures": [
+    "{\"canonicalModel\":\"standalone\",\"type\":\"unknown\",\"visualChars\":{\"colorScheme\":\"light\",\"density\":\"minimal\",\"hasBackgroundImage\":false,\"hasGrid\":false,\"imagePattern\":\"noimg\",\"structure\":\"heading + text + 1 CTAs\"}}"
+  ],
+  "usage": {
+    "pagesUsing": [
+      {
+        "url": "https://wknd-trendsetters.site/blog",
+        "screenshot": ".pages/wknd-trendsetters_site_blog--c5abf4d2/blocks/unknown-5ca9e7cc.jpg"
+      },
+      {
+        "url": "https://wknd-trendsetters.site/faq",
+        "screenshot": ".pages/wknd-trendsetters_site_faq--5706b7ac/blocks/unknown-5ca9e7cc.jpg"
+      },
+      {
+        "url": "https://wknd-trendsetters.site/fashion-insights",
+        "screenshot": ".pages/wknd-trendsetters_site_fashion-insights--055129b6/blocks/unknown-5ca9e7cc.jpg"
+      },
+      {
+        "url": "https://wknd-trendsetters.site/fashion-trends-of-the-season",
+        "screenshot": ".pages/wknd-trendsetters_site_fashion-trends-of-the-season--c3986399/blocks/unknown-5ca9e7cc.jpg"
+      },
+      {
+        "url": "https://wknd-trendsetters.site/fashion-trends-young-adults",
+        "screenshot": ".pages/wknd-trendsetters_site_fashion-trends-young-adults--6f041216/blocks/unknown-5ca9e7cc.jpg"
+      },
+      {
+        "url": "https://wknd-trendsetters.site/fashion-trends-young-adults-casual-sport",
+        "screenshot": ".pages/wknd-trendsetters_site_fashion-trends-young-adults-casual-sport--b40dc265/blocks/unknown-5ca9e7cc.jpg"
+      }
+    ],
+    "reuseCount": 6
+  }
+}

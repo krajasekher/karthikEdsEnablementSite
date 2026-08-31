@@ -1,0 +1,6700 @@
+{
+  "pages": [
+    {
+      "url": "https://wknd-trendsetters.site/",
+      "blocks": [
+        {
+          "id": "unknown-4c4f0c36",
+          "type": "unknown",
+          "confidence": "low",
+          "description": "1 heading + 1 image + 1 CTA + 1 paragraph block",
+          "content": {
+            "headingCount": 1,
+            "paragraphCount": 1,
+            "imageCount": 1,
+            "buttonCount": 1,
+            "linkCount": 1,
+            "listCount": 0,
+            "childCount": 1,
+            "hasForm": false,
+            "hasVideo": false
+          },
+          "visualChars": {
+            "colorScheme": "dark",
+            "density": "minimal",
+            "hasBackgroundImage": false,
+            "hasGrid": false,
+            "imagePattern": "large",
+            "structure": "heading + text + 1 CTAs + image"
+          },
+          "selector": "section.section.inverse-section",
+          "bounds": {
+            "x": 0,
+            "y": -138,
+            "width": 1440,
+            "height": 815
+          },
+          "screenshot": "blocks/unknown-4c4f0c36.jpg"
+        }
+      ],
+      "fingerprints": {
+        "urlPattern": "/",
+        "topSectionBounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 375
+        },
+        "topSectionStrategy": "title",
+        "topSectionPlaceholders": [
+          {
+            "type": "text",
+            "x": 24,
+            "y": 0,
+            "width": 146,
+            "height": 18
+          },
+          {
+            "type": "text",
+            "x": 144,
+            "y": 131,
+            "width": 535,
+            "height": 240
+          },
+          {
+            "type": "image",
+            "x": 752,
+            "y": 150,
+            "width": 268,
+            "height": 179
+          },
+          {
+            "type": "image",
+            "x": 1028,
+            "y": 150,
+            "width": 268,
+            "height": 179
+          }
+        ],
+        "topSectionTextElements": [
+          {
+            "tag": "a",
+            "fontSize": 14,
+            "fontWeight": 600,
+            "fontFamily": "instrument sans",
+            "color": "#f0f0f0",
+            "backgroundColor": "#000000",
+            "x": 24,
+            "y": 0,
+            "width": 178,
+            "height": 38,
+            "textLength": 20
+          },
+          {
+            "tag": "h1",
+            "fontSize": 56,
+            "fontWeight": 700,
+            "fontFamily": "syncopate",
+            "color": "#000000",
+            "backgroundColor": "#f0f0f0",
+            "x": 144,
+            "y": 128,
+            "width": 544,
+            "height": 246,
+            "textLength": 36
+          }
+        ],
+        "topSectionCropBottomY": 375,
+        "topSectionTitleRect": {
+          "x": 144,
+          "y": 128,
+          "width": 544,
+          "height": 246,
+          "text": "Fresh looks, bold stories, real life",
+          "fontWeight": 700,
+          "color": "rgb(0, 0, 0)"
+        },
+        "bodyBounds": {
+          "x": 0,
+          "y": 375,
+          "width": 1440,
+          "height": 4841
+        },
+        "bodyStartY": 375,
+        "bodyPlaceholders": [
+          {
+            "type": "image",
+            "x": 752,
+            "y": 375,
+            "width": 268,
+            "height": 141
+          },
+          {
+            "type": "text",
+            "x": 144,
+            "y": 401,
+            "width": 544,
+            "height": 51
+          },
+          {
+            "type": "text",
+            "x": 144,
+            "y": 488,
+            "width": 252,
+            "height": 50
+          },
+          {
+            "type": "image",
+            "x": 144,
+            "y": 794,
+            "width": 564,
+            "height": 376
+          },
+          {
+            "type": "text",
+            "x": 732,
+            "y": 855,
+            "width": 45,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 805,
+            "y": 855,
+            "width": 97,
+            "height": 20
+          },
+          {
+            "type": "image",
+            "x": 785,
+            "y": 860,
+            "width": 12,
+            "height": 12
+          },
+          {
+            "type": "text",
+            "x": 732,
+            "y": 914,
+            "width": 554,
+            "height": 126
+          },
+          {
+            "type": "text",
+            "x": 732,
+            "y": 1059,
+            "width": 108,
+            "height": 22
+          },
+          {
+            "type": "text",
+            "x": 732,
+            "y": 1089,
+            "width": 171,
+            "height": 22
+          },
+          {
+            "type": "text",
+            "x": 349,
+            "y": 1429,
+            "width": 742,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 596,
+            "y": 1485,
+            "width": 249,
+            "height": 22
+          },
+          {
+            "type": "image",
+            "x": 144,
+            "y": 1639,
+            "width": 279,
+            "height": 279
+          },
+          {
+            "type": "image",
+            "x": 435,
+            "y": 1639,
+            "width": 279,
+            "height": 279
+          },
+          {
+            "type": "image",
+            "x": 726,
+            "y": 1639,
+            "width": 279,
+            "height": 279
+          },
+          {
+            "type": "image",
+            "x": 1017,
+            "y": 1639,
+            "width": 279,
+            "height": 279
+          },
+          {
+            "type": "image",
+            "x": 144,
+            "y": 1930,
+            "width": 279,
+            "height": 279
+          },
+          {
+            "type": "image",
+            "x": 435,
+            "y": 1930,
+            "width": 279,
+            "height": 279
+          },
+          {
+            "type": "image",
+            "x": 726,
+            "y": 1930,
+            "width": 279,
+            "height": 279
+          },
+          {
+            "type": "image",
+            "x": 1017,
+            "y": 1930,
+            "width": 279,
+            "height": 279
+          },
+          {
+            "type": "image",
+            "x": 144,
+            "y": 2465,
+            "width": 568,
+            "height": 426
+          },
+          {
+            "type": "text",
+            "x": 728,
+            "y": 2565,
+            "width": 110,
+            "height": 24
+          },
+          {
+            "type": "text",
+            "x": 728,
+            "y": 2595,
+            "width": 165,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 728,
+            "y": 2655,
+            "width": 566,
+            "height": 88
+          },
+          {
+            "type": "image",
+            "x": 161,
+            "y": 2908,
+            "width": 48,
+            "height": 48
+          },
+          {
+            "type": "image",
+            "x": 453,
+            "y": 2908,
+            "width": 48,
+            "height": 48
+          },
+          {
+            "type": "image",
+            "x": 745,
+            "y": 2908,
+            "width": 48,
+            "height": 48
+          },
+          {
+            "type": "image",
+            "x": 1037,
+            "y": 2908,
+            "width": 48,
+            "height": 48
+          },
+          {
+            "type": "text",
+            "x": 217,
+            "y": 2913,
+            "width": 91,
+            "height": 16
+          },
+          {
+            "type": "text",
+            "x": 509,
+            "y": 2913,
+            "width": 84,
+            "height": 16
+          },
+          {
+            "type": "text",
+            "x": 801,
+            "y": 2913,
+            "width": 89,
+            "height": 16
+          },
+          {
+            "type": "text",
+            "x": 1093,
+            "y": 2913,
+            "width": 109,
+            "height": 16
+          },
+          {
+            "type": "text",
+            "x": 217,
+            "y": 2935,
+            "width": 155,
+            "height": 16
+          },
+          {
+            "type": "text",
+            "x": 509,
+            "y": 2935,
+            "width": 147,
+            "height": 16
+          },
+          {
+            "type": "text",
+            "x": 801,
+            "y": 2935,
+            "width": 96,
+            "height": 16
+          },
+          {
+            "type": "text",
+            "x": 1093,
+            "y": 2935,
+            "width": 141,
+            "height": 16
+          },
+          {
+            "type": "text",
+            "x": 483,
+            "y": 3232,
+            "width": 474,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 620,
+            "y": 3288,
+            "width": 201,
+            "height": 22
+          },
+          {
+            "type": "image",
+            "x": 145,
+            "y": 3379,
+            "width": 274,
+            "height": 171
+          },
+          {
+            "type": "image",
+            "x": 437,
+            "y": 3379,
+            "width": 274,
+            "height": 171
+          },
+          {
+            "type": "image",
+            "x": 729,
+            "y": 3379,
+            "width": 274,
+            "height": 171
+          },
+          {
+            "type": "image",
+            "x": 1021,
+            "y": 3379,
+            "width": 274,
+            "height": 171
+          },
+          {
+            "type": "text",
+            "x": 169,
+            "y": 3574,
+            "width": 178,
+            "height": 27
+          },
+          {
+            "type": "text",
+            "x": 461,
+            "y": 3574,
+            "width": 169,
+            "height": 27
+          },
+          {
+            "type": "text",
+            "x": 753,
+            "y": 3574,
+            "width": 150,
+            "height": 27
+          },
+          {
+            "type": "text",
+            "x": 1045,
+            "y": 3574,
+            "width": 165,
+            "height": 27
+          },
+          {
+            "type": "text",
+            "x": 169,
+            "y": 3613,
+            "width": 179,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 461,
+            "y": 3613,
+            "width": 199,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 753,
+            "y": 3613,
+            "width": 212,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 1045,
+            "y": 3613,
+            "width": 203,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 144,
+            "y": 3937,
+            "width": 467,
+            "height": 126
+          },
+          {
+            "type": "text",
+            "x": 785,
+            "y": 3962,
+            "width": 280,
+            "height": 22
+          },
+          {
+            "type": "image",
+            "x": 1243,
+            "y": 3964,
+            "width": 20,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 785,
+            "y": 4015,
+            "width": 457,
+            "height": 47
+          },
+          {
+            "type": "text",
+            "x": 785,
+            "y": 4049,
+            "width": 266,
+            "height": 22
+          },
+          {
+            "type": "image",
+            "x": 1243,
+            "y": 4051,
+            "width": 20,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 144,
+            "y": 4085,
+            "width": 237,
+            "height": 22
+          },
+          {
+            "type": "text",
+            "x": 785,
+            "y": 4102,
+            "width": 427,
+            "height": 47
+          },
+          {
+            "type": "text",
+            "x": 785,
+            "y": 4136,
+            "width": 312,
+            "height": 22
+          },
+          {
+            "type": "image",
+            "x": 1243,
+            "y": 4138,
+            "width": 20,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 785,
+            "y": 4189,
+            "width": 459,
+            "height": 47
+          },
+          {
+            "type": "text",
+            "x": 785,
+            "y": 4223,
+            "width": 273,
+            "height": 22
+          },
+          {
+            "type": "image",
+            "x": 1243,
+            "y": 4225,
+            "width": 20,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 785,
+            "y": 4276,
+            "width": 409,
+            "height": 47
+          },
+          {
+            "type": "image",
+            "x": 144,
+            "y": 4530,
+            "width": 1152,
+            "height": 559
+          },
+          {
+            "type": "text",
+            "x": 208,
+            "y": 4597,
+            "width": 535,
+            "height": 240
+          },
+          {
+            "type": "text",
+            "x": 208,
+            "y": 4859,
+            "width": 539,
+            "height": 80
+          },
+          {
+            "type": "text",
+            "x": 208,
+            "y": 4974,
+            "width": 120,
+            "height": 50
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://wknd-trendsetters.site/blog",
+      "blocks": [
+        {
+          "id": "hero-398435e",
+          "type": "hero",
+          "confidence": "high",
+          "description": "1 heading + 1 image + 2 CTAs + 1 paragraph block",
+          "content": {
+            "headingCount": 1,
+            "paragraphCount": 1,
+            "imageCount": 1,
+            "buttonCount": 2,
+            "linkCount": 2,
+            "listCount": 0,
+            "childCount": 1,
+            "hasForm": false,
+            "hasVideo": false
+          },
+          "visualChars": {
+            "colorScheme": "light",
+            "density": "minimal",
+            "hasBackgroundImage": false,
+            "hasGrid": false,
+            "imagePattern": "large",
+            "structure": "heading + text + 2 CTAs + image"
+          },
+          "selector": "header.section.secondary-section",
+          "bounds": {
+            "x": 0,
+            "y": 83,
+            "width": 1440,
+            "height": 634
+          },
+          "screenshot": "blocks/hero-398435e.jpg"
+        },
+        {
+          "id": "unknown-37f927fd",
+          "type": "unknown",
+          "confidence": "low",
+          "description": "1 heading + 1 image + 1 CTA + 1 paragraph block",
+          "content": {
+            "headingCount": 1,
+            "paragraphCount": 1,
+            "imageCount": 1,
+            "buttonCount": 1,
+            "linkCount": 1,
+            "listCount": 0,
+            "childCount": 1,
+            "hasForm": false,
+            "hasVideo": false
+          },
+          "visualChars": {
+            "colorScheme": "dark",
+            "density": "minimal",
+            "hasBackgroundImage": false,
+            "hasGrid": false,
+            "imagePattern": "large",
+            "structure": "heading + text + 1 CTAs + image"
+          },
+          "selector": "#main-content > section:nth-child(2)",
+          "bounds": {
+            "x": 0,
+            "y": 717,
+            "width": 1440,
+            "height": 632
+          },
+          "screenshot": "blocks/unknown-37f927fd.jpg"
+        },
+        {
+          "id": "unknown-2bbb305a",
+          "type": "unknown",
+          "confidence": "low",
+          "description": "7 headings + 6 images + 1 paragraph block",
+          "content": {
+            "headingCount": 7,
+            "paragraphCount": 1,
+            "imageCount": 6,
+            "buttonCount": 0,
+            "linkCount": 6,
+            "listCount": 0,
+            "childCount": 2,
+            "hasForm": false,
+            "hasVideo": false
+          },
+          "visualChars": {
+            "colorScheme": "dark",
+            "density": "minimal",
+            "hasBackgroundImage": false,
+            "hasGrid": false,
+            "imagePattern": "large",
+            "structure": "heading + text + 6 images"
+          },
+          "selector": "#articles > div:nth-child(1)",
+          "bounds": {
+            "x": 120,
+            "y": 1477,
+            "width": 1200,
+            "height": 824
+          },
+          "screenshot": "blocks/unknown-2bbb305a.jpg"
+        },
+        {
+          "id": "unknown-5ca9e7cc",
+          "type": "unknown",
+          "confidence": "low",
+          "description": "1 heading + 1 CTA + 1 paragraph block",
+          "content": {
+            "headingCount": 1,
+            "paragraphCount": 1,
+            "imageCount": 0,
+            "buttonCount": 1,
+            "linkCount": 1,
+            "listCount": 0,
+            "childCount": 1,
+            "hasForm": false,
+            "hasVideo": false
+          },
+          "visualChars": {
+            "colorScheme": "light",
+            "density": "minimal",
+            "hasBackgroundImage": false,
+            "hasGrid": false,
+            "imagePattern": "noimg",
+            "structure": "heading + text + 1 CTAs"
+          },
+          "selector": "section.section.accent-section",
+          "bounds": {
+            "x": 0,
+            "y": 2429,
+            "width": 1440,
+            "height": 515
+          },
+          "screenshot": "blocks/unknown-5ca9e7cc.jpg"
+        }
+      ],
+      "fingerprints": {
+        "urlPattern": "/blog",
+        "topSectionBounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 401
+        },
+        "topSectionStrategy": "title",
+        "topSectionPlaceholders": [
+          {
+            "type": "text",
+            "x": 24,
+            "y": 0,
+            "width": 146,
+            "height": 18
+          },
+          {
+            "type": "text",
+            "x": 144,
+            "y": 131,
+            "width": 576,
+            "height": 178
+          },
+          {
+            "type": "image",
+            "x": 784,
+            "y": 233,
+            "width": 252,
+            "height": 168
+          },
+          {
+            "type": "text",
+            "x": 144,
+            "y": 340,
+            "width": 555,
+            "height": 61
+          }
+        ],
+        "topSectionTextElements": [
+          {
+            "tag": "a",
+            "fontSize": 14,
+            "fontWeight": 600,
+            "fontFamily": "instrument sans",
+            "color": "#f0f0f0",
+            "backgroundColor": "#000000",
+            "x": 24,
+            "y": 0,
+            "width": 178,
+            "height": 38,
+            "textLength": 20
+          },
+          {
+            "tag": "h1",
+            "fontSize": 56,
+            "fontWeight": 700,
+            "fontFamily": "syncopate",
+            "color": "#000000",
+            "backgroundColor": "#f0f0f0",
+            "x": 144,
+            "y": 128,
+            "width": 576,
+            "height": 185,
+            "textLength": 22
+          }
+        ],
+        "topSectionCropBottomY": 313,
+        "topSectionTitleRect": {
+          "x": 144,
+          "y": 128,
+          "width": 576,
+          "height": 185,
+          "text": "WKND Trendsetters Blog",
+          "fontWeight": 700,
+          "color": "rgb(0, 0, 0)"
+        },
+        "bodyBounds": {
+          "x": 0,
+          "y": 401,
+          "width": 1440,
+          "height": 2459
+        },
+        "bodyStartY": 401,
+        "bodyPlaceholders": [
+          {
+            "type": "text",
+            "x": 144,
+            "y": 455,
+            "width": 265,
+            "height": 50
+          },
+          {
+            "type": "image",
+            "x": 144,
+            "y": 761,
+            "width": 564,
+            "height": 376
+          },
+          {
+            "type": "text",
+            "x": 732,
+            "y": 784,
+            "width": 219,
+            "height": 27
+          },
+          {
+            "type": "text",
+            "x": 732,
+            "y": 830,
+            "width": 524,
+            "height": 126
+          },
+          {
+            "type": "text",
+            "x": 732,
+            "y": 978,
+            "width": 549,
+            "height": 51
+          },
+          {
+            "type": "text",
+            "x": 732,
+            "y": 1065,
+            "width": 190,
+            "height": 50
+          },
+          {
+            "type": "text",
+            "x": 483,
+            "y": 1396,
+            "width": 474,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 620,
+            "y": 1452,
+            "width": 201,
+            "height": 22
+          },
+          {
+            "type": "image",
+            "x": 145,
+            "y": 1543,
+            "width": 274,
+            "height": 171
+          },
+          {
+            "type": "image",
+            "x": 437,
+            "y": 1543,
+            "width": 274,
+            "height": 171
+          },
+          {
+            "type": "image",
+            "x": 729,
+            "y": 1543,
+            "width": 274,
+            "height": 171
+          },
+          {
+            "type": "image",
+            "x": 1021,
+            "y": 1543,
+            "width": 274,
+            "height": 171
+          },
+          {
+            "type": "text",
+            "x": 169,
+            "y": 1738,
+            "width": 226,
+            "height": 46
+          },
+          {
+            "type": "text",
+            "x": 461,
+            "y": 1738,
+            "width": 226,
+            "height": 27
+          },
+          {
+            "type": "text",
+            "x": 753,
+            "y": 1738,
+            "width": 214,
+            "height": 27
+          },
+          {
+            "type": "text",
+            "x": 1045,
+            "y": 1738,
+            "width": 195,
+            "height": 27
+          },
+          {
+            "type": "text",
+            "x": 461,
+            "y": 1777,
+            "width": 179,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 753,
+            "y": 1777,
+            "width": 199,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 1045,
+            "y": 1777,
+            "width": 212,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 169,
+            "y": 1796,
+            "width": 193,
+            "height": 77
+          },
+          {
+            "type": "image",
+            "x": 145,
+            "y": 1917,
+            "width": 274,
+            "height": 171
+          },
+          {
+            "type": "image",
+            "x": 437,
+            "y": 1917,
+            "width": 274,
+            "height": 171
+          },
+          {
+            "type": "text",
+            "x": 169,
+            "y": 2113,
+            "width": 210,
+            "height": 27
+          },
+          {
+            "type": "text",
+            "x": 461,
+            "y": 2113,
+            "width": 220,
+            "height": 27
+          },
+          {
+            "type": "text",
+            "x": 169,
+            "y": 2152,
+            "width": 203,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 461,
+            "y": 2152,
+            "width": 182,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 443,
+            "y": 2476,
+            "width": 554,
+            "height": 126
+          },
+          {
+            "type": "text",
+            "x": 526,
+            "y": 2624,
+            "width": 389,
+            "height": 22
+          },
+          {
+            "type": "text",
+            "x": 659,
+            "y": 2682,
+            "width": 122,
+            "height": 50
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://wknd-trendsetters.site/blog/ace-pro-court-polo",
+      "blocks": [
+        {
+          "id": "hero-37f927de",
+          "type": "hero",
+          "confidence": "high",
+          "description": "1 heading + 1 image block",
+          "content": {
+            "headingCount": 1,
+            "paragraphCount": 0,
+            "imageCount": 1,
+            "buttonCount": 0,
+            "linkCount": 2,
+            "listCount": 0,
+            "childCount": 1,
+            "hasForm": false,
+            "hasVideo": false
+          },
+          "visualChars": {
+            "colorScheme": "dark",
+            "density": "minimal",
+            "hasBackgroundImage": false,
+            "hasGrid": false,
+            "imagePattern": "large",
+            "structure": "heading + image"
+          },
+          "selector": "#main-content > section:nth-child(1)",
+          "bounds": {
+            "x": 0,
+            "y": 83,
+            "width": 1440,
+            "height": 632
+          },
+          "screenshot": "blocks/hero-37f927de.jpg"
+        },
+        {
+          "id": "unknown-67b7af31",
+          "type": "unknown",
+          "confidence": "low",
+          "description": "1 image block",
+          "content": {
+            "headingCount": 0,
+            "paragraphCount": 0,
+            "imageCount": 1,
+            "buttonCount": 0,
+            "linkCount": 0,
+            "listCount": 0,
+            "childCount": 1,
+            "hasForm": false,
+            "hasVideo": false
+          },
+          "visualChars": {
+            "colorScheme": "dark",
+            "density": "minimal",
+            "hasBackgroundImage": false,
+            "hasGrid": false,
+            "imagePattern": "large",
+            "structure": "image"
+          },
+          "selector": "div.blog-content > p:nth-child(13)",
+          "bounds": {
+            "x": 360,
+            "y": 1843,
+            "width": 720,
+            "height": 392
+          },
+          "screenshot": "blocks/unknown-67b7af31.jpg"
+        },
+        {
+          "id": "unknown-67b7ab13",
+          "type": "unknown",
+          "confidence": "low",
+          "description": "1 image block",
+          "content": {
+            "headingCount": 0,
+            "paragraphCount": 0,
+            "imageCount": 1,
+            "buttonCount": 0,
+            "linkCount": 0,
+            "listCount": 0,
+            "childCount": 1,
+            "hasForm": false,
+            "hasVideo": false
+          },
+          "visualChars": {
+            "colorScheme": "dark",
+            "density": "minimal",
+            "hasBackgroundImage": false,
+            "hasGrid": false,
+            "imagePattern": "large",
+            "structure": "image"
+          },
+          "selector": "div.blog-content > p:nth-child(26)",
+          "bounds": {
+            "x": 360,
+            "y": 3367,
+            "width": 720,
+            "height": 392
+          },
+          "screenshot": "blocks/unknown-67b7ab13.jpg"
+        }
+      ],
+      "fingerprints": {
+        "urlPattern": "/blog/ace-pro-court-polo",
+        "topSectionBounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 504
+        },
+        "topSectionStrategy": "title",
+        "topSectionPlaceholders": [
+          {
+            "type": "text",
+            "x": 24,
+            "y": 0,
+            "width": 146,
+            "height": 18
+          },
+          {
+            "type": "image",
+            "x": 144,
+            "y": 128,
+            "width": 564,
+            "height": 376
+          },
+          {
+            "type": "text",
+            "x": 732,
+            "y": 163,
+            "width": 45,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 805,
+            "y": 163,
+            "width": 34,
+            "height": 20
+          },
+          {
+            "type": "image",
+            "x": 785,
+            "y": 168,
+            "width": 12,
+            "height": 12
+          },
+          {
+            "type": "text",
+            "x": 732,
+            "y": 222,
+            "width": 562,
+            "height": 126
+          },
+          {
+            "type": "text",
+            "x": 752,
+            "y": 370,
+            "width": 88,
+            "height": 18
+          },
+          {
+            "type": "text",
+            "x": 732,
+            "y": 400,
+            "width": 118,
+            "height": 18
+          },
+          {
+            "type": "text",
+            "x": 862,
+            "y": 400,
+            "width": 70,
+            "height": 18
+          },
+          {
+            "type": "text",
+            "x": 744,
+            "y": 442,
+            "width": 99,
+            "height": 15
+          }
+        ],
+        "topSectionTextElements": [
+          {
+            "tag": "a",
+            "fontSize": 14,
+            "fontWeight": 600,
+            "fontFamily": "instrument sans",
+            "color": "#f0f0f0",
+            "backgroundColor": "#000000",
+            "x": 24,
+            "y": 0,
+            "width": 178,
+            "height": 38,
+            "textLength": 20
+          },
+          {
+            "tag": "a",
+            "fontSize": 16,
+            "fontWeight": 500,
+            "fontFamily": "instrument sans",
+            "color": "#000000",
+            "backgroundColor": "#f0f0f0",
+            "x": 732,
+            "y": 165,
+            "width": 45,
+            "height": 26,
+            "textLength": 4
+          },
+          {
+            "tag": "a",
+            "fontSize": 16,
+            "fontWeight": 500,
+            "fontFamily": "instrument sans",
+            "color": "#606060",
+            "backgroundColor": "#f0f0f0",
+            "x": 805,
+            "y": 165,
+            "width": 34,
+            "height": 26,
+            "textLength": 4
+          },
+          {
+            "tag": "h1",
+            "fontSize": 40,
+            "fontWeight": 700,
+            "fontFamily": "syncopate",
+            "color": "#000000",
+            "backgroundColor": "#f0f0f0",
+            "x": 732,
+            "y": 223,
+            "width": 564,
+            "height": 132,
+            "textLength": 43
+          }
+        ],
+        "topSectionCropBottomY": 355,
+        "topSectionTitleRect": {
+          "x": 732,
+          "y": 223,
+          "width": 564,
+          "height": 132,
+          "text": "Court cool, street ready — the Ace Pro polo",
+          "fontWeight": 700,
+          "color": "rgb(0, 0, 0)"
+        },
+        "bodyBounds": {
+          "x": 0,
+          "y": 504,
+          "width": 1440,
+          "height": 3546
+        },
+        "bodyStartY": 504,
+        "bodyPlaceholders": [
+          {
+            "type": "text",
+            "x": 360,
+            "y": 675,
+            "width": 659,
+            "height": 82
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 779,
+            "width": 717,
+            "height": 74
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 881,
+            "width": 697,
+            "height": 47
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 975,
+            "width": 570,
+            "height": 82
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 1079,
+            "width": 689,
+            "height": 47
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 1153,
+            "width": 710,
+            "height": 47
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 1227,
+            "width": 679,
+            "height": 47
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 1301,
+            "width": 681,
+            "height": 47
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 1375,
+            "width": 691,
+            "height": 47
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 1469,
+            "width": 702,
+            "height": 82
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 1573,
+            "width": 719,
+            "height": 47
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 1647,
+            "width": 705,
+            "height": 74
+          },
+          {
+            "type": "image",
+            "x": 360,
+            "y": 1758,
+            "width": 720,
+            "height": 392
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 2184,
+            "width": 513,
+            "height": 31
+          },
+          {
+            "type": "text",
+            "x": 384,
+            "y": 2231,
+            "width": 415,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 384,
+            "y": 2265,
+            "width": 484,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 384,
+            "y": 2299,
+            "width": 491,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 384,
+            "y": 2333,
+            "width": 513,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 2400,
+            "width": 530,
+            "height": 82
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 2504,
+            "width": 566,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 2551,
+            "width": 691,
+            "height": 47
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 2625,
+            "width": 666,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 2672,
+            "width": 720,
+            "height": 47
+          },
+          {
+            "type": "text",
+            "x": 388,
+            "y": 2758,
+            "width": 681,
+            "height": 47
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 2852,
+            "width": 711,
+            "height": 82
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 2956,
+            "width": 615,
+            "height": 20
+          },
+          {
+            "type": "table",
+            "x": 360,
+            "y": 3000,
+            "width": 408,
+            "height": 168
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 3171,
+            "width": 702,
+            "height": 74
+          },
+          {
+            "type": "image",
+            "x": 360,
+            "y": 3282,
+            "width": 720,
+            "height": 392
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 3717,
+            "width": 328,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 3777,
+            "width": 713,
+            "height": 47
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 3851,
+            "width": 702,
+            "height": 47
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://wknd-trendsetters.site/blog/fashion-blog-post",
+      "blocks": [
+        {
+          "id": "hero-37f927de",
+          "type": "hero",
+          "confidence": "high",
+          "description": "1 heading + 1 image block",
+          "content": {
+            "headingCount": 1,
+            "paragraphCount": 0,
+            "imageCount": 1,
+            "buttonCount": 0,
+            "linkCount": 2,
+            "listCount": 0,
+            "childCount": 1,
+            "hasForm": false,
+            "hasVideo": false
+          },
+          "visualChars": {
+            "colorScheme": "dark",
+            "density": "minimal",
+            "hasBackgroundImage": false,
+            "hasGrid": false,
+            "imagePattern": "large",
+            "structure": "heading + image"
+          },
+          "selector": "#main-content > section:nth-child(1)",
+          "bounds": {
+            "x": 0,
+            "y": 83,
+            "width": 1440,
+            "height": 632
+          },
+          "screenshot": "blocks/hero-37f927de.jpg"
+        }
+      ],
+      "fingerprints": {
+        "urlPattern": "/blog/fashion-blog-post",
+        "topSectionBounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 504
+        },
+        "topSectionStrategy": "title",
+        "topSectionPlaceholders": [
+          {
+            "type": "text",
+            "x": 24,
+            "y": 0,
+            "width": 146,
+            "height": 18
+          },
+          {
+            "type": "image",
+            "x": 144,
+            "y": 128,
+            "width": 564,
+            "height": 376
+          },
+          {
+            "type": "text",
+            "x": 732,
+            "y": 207,
+            "width": 45,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 805,
+            "y": 207,
+            "width": 34,
+            "height": 20
+          },
+          {
+            "type": "image",
+            "x": 785,
+            "y": 212,
+            "width": 12,
+            "height": 12
+          },
+          {
+            "type": "text",
+            "x": 732,
+            "y": 266,
+            "width": 528,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 752,
+            "y": 326,
+            "width": 88,
+            "height": 18
+          },
+          {
+            "type": "text",
+            "x": 732,
+            "y": 356,
+            "width": 83,
+            "height": 18
+          },
+          {
+            "type": "text",
+            "x": 827,
+            "y": 356,
+            "width": 70,
+            "height": 18
+          },
+          {
+            "type": "text",
+            "x": 744,
+            "y": 398,
+            "width": 91,
+            "height": 15
+          }
+        ],
+        "topSectionTextElements": [
+          {
+            "tag": "a",
+            "fontSize": 14,
+            "fontWeight": 600,
+            "fontFamily": "instrument sans",
+            "color": "#f0f0f0",
+            "backgroundColor": "#000000",
+            "x": 24,
+            "y": 0,
+            "width": 178,
+            "height": 38,
+            "textLength": 20
+          },
+          {
+            "tag": "a",
+            "fontSize": 16,
+            "fontWeight": 500,
+            "fontFamily": "instrument sans",
+            "color": "#000000",
+            "backgroundColor": "#f0f0f0",
+            "x": 732,
+            "y": 209,
+            "width": 45,
+            "height": 26,
+            "textLength": 4
+          },
+          {
+            "tag": "a",
+            "fontSize": 16,
+            "fontWeight": 500,
+            "fontFamily": "instrument sans",
+            "color": "#606060",
+            "backgroundColor": "#f0f0f0",
+            "x": 805,
+            "y": 209,
+            "width": 34,
+            "height": 26,
+            "textLength": 4
+          },
+          {
+            "tag": "h1",
+            "fontSize": 40,
+            "fontWeight": 700,
+            "fontFamily": "syncopate",
+            "color": "#000000",
+            "backgroundColor": "#f0f0f0",
+            "x": 732,
+            "y": 267,
+            "width": 564,
+            "height": 44,
+            "textLength": 17
+          }
+        ],
+        "topSectionCropBottomY": 311,
+        "topSectionTitleRect": {
+          "x": 732,
+          "y": 267,
+          "width": 564,
+          "height": 44,
+          "text": "Game on, style up",
+          "fontWeight": 700,
+          "color": "rgb(0, 0, 0)"
+        },
+        "bodyBounds": {
+          "x": 0,
+          "y": 504,
+          "width": 1440,
+          "height": 1557
+        },
+        "bodyStartY": 504,
+        "bodyPlaceholders": [
+          {
+            "type": "text",
+            "x": 360,
+            "y": 675,
+            "width": 677,
+            "height": 82
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 779,
+            "width": 702,
+            "height": 47
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 873,
+            "width": 481,
+            "height": 82
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 977,
+            "width": 720,
+            "height": 47
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 1062,
+            "width": 657,
+            "height": 31
+          },
+          {
+            "type": "text",
+            "x": 384,
+            "y": 1109,
+            "width": 383,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 384,
+            "y": 1143,
+            "width": 259,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 384,
+            "y": 1177,
+            "width": 306,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 384,
+            "y": 1211,
+            "width": 379,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 384,
+            "y": 1245,
+            "width": 276,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 1312,
+            "width": 488,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 1372,
+            "width": 716,
+            "height": 74
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 1494,
+            "width": 543,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 1554,
+            "width": 714,
+            "height": 74
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 1676,
+            "width": 670,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 1736,
+            "width": 699,
+            "height": 74
+          },
+          {
+            "type": "text",
+            "x": 388,
+            "y": 1850,
+            "width": 657,
+            "height": 47
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://wknd-trendsetters.site/blog/fashion-trends-young-culture",
+      "blocks": [
+        {
+          "id": "hero-37f927de",
+          "type": "hero",
+          "confidence": "high",
+          "description": "1 heading + 1 image block",
+          "content": {
+            "headingCount": 1,
+            "paragraphCount": 0,
+            "imageCount": 1,
+            "buttonCount": 0,
+            "linkCount": 2,
+            "listCount": 0,
+            "childCount": 1,
+            "hasForm": false,
+            "hasVideo": false
+          },
+          "visualChars": {
+            "colorScheme": "dark",
+            "density": "minimal",
+            "hasBackgroundImage": false,
+            "hasGrid": false,
+            "imagePattern": "large",
+            "structure": "heading + image"
+          },
+          "selector": "#main-content > section:nth-child(1)",
+          "bounds": {
+            "x": 0,
+            "y": 83,
+            "width": 1440,
+            "height": 632
+          },
+          "screenshot": "blocks/hero-37f927de.jpg"
+        }
+      ],
+      "fingerprints": {
+        "urlPattern": "/blog/fashion-trends-young-culture",
+        "topSectionBounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 504
+        },
+        "topSectionStrategy": "title",
+        "topSectionPlaceholders": [
+          {
+            "type": "text",
+            "x": 24,
+            "y": 0,
+            "width": 146,
+            "height": 18
+          },
+          {
+            "type": "image",
+            "x": 144,
+            "y": 128,
+            "width": 564,
+            "height": 376
+          },
+          {
+            "type": "text",
+            "x": 732,
+            "y": 185,
+            "width": 45,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 805,
+            "y": 185,
+            "width": 34,
+            "height": 20
+          },
+          {
+            "type": "image",
+            "x": 785,
+            "y": 190,
+            "width": 12,
+            "height": 12
+          },
+          {
+            "type": "text",
+            "x": 732,
+            "y": 244,
+            "width": 433,
+            "height": 82
+          },
+          {
+            "type": "text",
+            "x": 752,
+            "y": 348,
+            "width": 88,
+            "height": 18
+          },
+          {
+            "type": "text",
+            "x": 732,
+            "y": 378,
+            "width": 90,
+            "height": 18
+          },
+          {
+            "type": "text",
+            "x": 834,
+            "y": 378,
+            "width": 69,
+            "height": 18
+          },
+          {
+            "type": "text",
+            "x": 744,
+            "y": 420,
+            "width": 88,
+            "height": 15
+          }
+        ],
+        "topSectionTextElements": [
+          {
+            "tag": "a",
+            "fontSize": 14,
+            "fontWeight": 600,
+            "fontFamily": "instrument sans",
+            "color": "#f0f0f0",
+            "backgroundColor": "#000000",
+            "x": 24,
+            "y": 0,
+            "width": 178,
+            "height": 38,
+            "textLength": 20
+          },
+          {
+            "tag": "a",
+            "fontSize": 16,
+            "fontWeight": 500,
+            "fontFamily": "instrument sans",
+            "color": "#000000",
+            "backgroundColor": "#f0f0f0",
+            "x": 732,
+            "y": 187,
+            "width": 45,
+            "height": 26,
+            "textLength": 4
+          },
+          {
+            "tag": "a",
+            "fontSize": 16,
+            "fontWeight": 500,
+            "fontFamily": "instrument sans",
+            "color": "#606060",
+            "backgroundColor": "#f0f0f0",
+            "x": 805,
+            "y": 187,
+            "width": 34,
+            "height": 26,
+            "textLength": 4
+          },
+          {
+            "tag": "h1",
+            "fontSize": 40,
+            "fontWeight": 700,
+            "fontFamily": "syncopate",
+            "color": "#000000",
+            "backgroundColor": "#f0f0f0",
+            "x": 732,
+            "y": 245,
+            "width": 564,
+            "height": 88,
+            "textLength": 24
+          }
+        ],
+        "topSectionCropBottomY": 333,
+        "topSectionTitleRect": {
+          "x": 732,
+          "y": 245,
+          "width": 564,
+          "height": 88,
+          "text": "Sunkissed and effortless",
+          "fontWeight": 700,
+          "color": "rgb(0, 0, 0)"
+        },
+        "bodyBounds": {
+          "x": 0,
+          "y": 504,
+          "width": 1440,
+          "height": 1315
+        },
+        "bodyStartY": 504,
+        "bodyPlaceholders": [
+          {
+            "type": "text",
+            "x": 360,
+            "y": 675,
+            "width": 663,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 735,
+            "width": 679,
+            "height": 74
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 857,
+            "width": 568,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 917,
+            "width": 711,
+            "height": 47
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 1002,
+            "width": 577,
+            "height": 31
+          },
+          {
+            "type": "text",
+            "x": 384,
+            "y": 1049,
+            "width": 355,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 384,
+            "y": 1083,
+            "width": 308,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 384,
+            "y": 1117,
+            "width": 257,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 384,
+            "y": 1151,
+            "width": 294,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 384,
+            "y": 1185,
+            "width": 353,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 1252,
+            "width": 668,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 1312,
+            "width": 707,
+            "height": 74
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 1434,
+            "width": 431,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 1494,
+            "width": 704,
+            "height": 74
+          },
+          {
+            "type": "text",
+            "x": 388,
+            "y": 1608,
+            "width": 684,
+            "height": 47
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://wknd-trendsetters.site/blog/fashion-trends-young-style",
+      "blocks": [
+        {
+          "id": "hero-37f927de",
+          "type": "hero",
+          "confidence": "high",
+          "description": "1 heading + 1 image block",
+          "content": {
+            "headingCount": 1,
+            "paragraphCount": 0,
+            "imageCount": 1,
+            "buttonCount": 0,
+            "linkCount": 2,
+            "listCount": 0,
+            "childCount": 1,
+            "hasForm": false,
+            "hasVideo": false
+          },
+          "visualChars": {
+            "colorScheme": "dark",
+            "density": "minimal",
+            "hasBackgroundImage": false,
+            "hasGrid": false,
+            "imagePattern": "large",
+            "structure": "heading + image"
+          },
+          "selector": "#main-content > section:nth-child(1)",
+          "bounds": {
+            "x": 0,
+            "y": 83,
+            "width": 1440,
+            "height": 632
+          },
+          "screenshot": "blocks/hero-37f927de.jpg"
+        }
+      ],
+      "fingerprints": {
+        "urlPattern": "/blog/fashion-trends-young-style",
+        "topSectionBounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 504
+        },
+        "topSectionStrategy": "title",
+        "topSectionPlaceholders": [
+          {
+            "type": "text",
+            "x": 24,
+            "y": 0,
+            "width": 146,
+            "height": 18
+          },
+          {
+            "type": "image",
+            "x": 144,
+            "y": 128,
+            "width": 564,
+            "height": 376
+          },
+          {
+            "type": "text",
+            "x": 732,
+            "y": 185,
+            "width": 45,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 805,
+            "y": 185,
+            "width": 34,
+            "height": 20
+          },
+          {
+            "type": "image",
+            "x": 785,
+            "y": 190,
+            "width": 12,
+            "height": 12
+          },
+          {
+            "type": "text",
+            "x": 732,
+            "y": 244,
+            "width": 448,
+            "height": 82
+          },
+          {
+            "type": "text",
+            "x": 752,
+            "y": 348,
+            "width": 88,
+            "height": 18
+          },
+          {
+            "type": "text",
+            "x": 732,
+            "y": 378,
+            "width": 84,
+            "height": 18
+          },
+          {
+            "type": "text",
+            "x": 828,
+            "y": 378,
+            "width": 70,
+            "height": 18
+          },
+          {
+            "type": "text",
+            "x": 744,
+            "y": 420,
+            "width": 75,
+            "height": 15
+          }
+        ],
+        "topSectionTextElements": [
+          {
+            "tag": "a",
+            "fontSize": 14,
+            "fontWeight": 600,
+            "fontFamily": "instrument sans",
+            "color": "#f0f0f0",
+            "backgroundColor": "#000000",
+            "x": 24,
+            "y": 0,
+            "width": 178,
+            "height": 38,
+            "textLength": 20
+          },
+          {
+            "tag": "a",
+            "fontSize": 16,
+            "fontWeight": 500,
+            "fontFamily": "instrument sans",
+            "color": "#000000",
+            "backgroundColor": "#f0f0f0",
+            "x": 732,
+            "y": 187,
+            "width": 45,
+            "height": 26,
+            "textLength": 4
+          },
+          {
+            "tag": "a",
+            "fontSize": 16,
+            "fontWeight": 500,
+            "fontFamily": "instrument sans",
+            "color": "#606060",
+            "backgroundColor": "#f0f0f0",
+            "x": 805,
+            "y": 187,
+            "width": 34,
+            "height": 26,
+            "textLength": 4
+          },
+          {
+            "tag": "h1",
+            "fontSize": 40,
+            "fontWeight": 700,
+            "fontFamily": "syncopate",
+            "color": "#000000",
+            "backgroundColor": "#f0f0f0",
+            "x": 732,
+            "y": 245,
+            "width": 564,
+            "height": 88,
+            "textLength": 19
+          }
+        ],
+        "topSectionCropBottomY": 333,
+        "topSectionTitleRect": {
+          "x": 732,
+          "y": 245,
+          "width": 564,
+          "height": 88,
+          "text": "Party fits that pop",
+          "fontWeight": 700,
+          "color": "rgb(0, 0, 0)"
+        },
+        "bodyBounds": {
+          "x": 0,
+          "y": 504,
+          "width": 1440,
+          "height": 1602
+        },
+        "bodyStartY": 504,
+        "bodyPlaceholders": [
+          {
+            "type": "text",
+            "x": 360,
+            "y": 675,
+            "width": 608,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 735,
+            "width": 706,
+            "height": 74
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 857,
+            "width": 603,
+            "height": 82
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 961,
+            "width": 705,
+            "height": 47
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 1046,
+            "width": 509,
+            "height": 31
+          },
+          {
+            "type": "text",
+            "x": 384,
+            "y": 1093,
+            "width": 260,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 384,
+            "y": 1127,
+            "width": 344,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 384,
+            "y": 1161,
+            "width": 277,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 384,
+            "y": 1195,
+            "width": 293,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 384,
+            "y": 1229,
+            "width": 233,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 1296,
+            "width": 524,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 1356,
+            "width": 710,
+            "height": 74
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 1478,
+            "width": 691,
+            "height": 82
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 1582,
+            "width": 684,
+            "height": 74
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 1704,
+            "width": 665,
+            "height": 82
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 1808,
+            "width": 716,
+            "height": 74
+          },
+          {
+            "type": "text",
+            "x": 388,
+            "y": 1922,
+            "width": 643,
+            "height": 20
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://wknd-trendsetters.site/blog/flip-flop-summer-style",
+      "blocks": [
+        {
+          "id": "hero-37f927de",
+          "type": "hero",
+          "confidence": "high",
+          "description": "1 heading + 1 image block",
+          "content": {
+            "headingCount": 1,
+            "paragraphCount": 0,
+            "imageCount": 1,
+            "buttonCount": 0,
+            "linkCount": 2,
+            "listCount": 0,
+            "childCount": 1,
+            "hasForm": false,
+            "hasVideo": false
+          },
+          "visualChars": {
+            "colorScheme": "dark",
+            "density": "minimal",
+            "hasBackgroundImage": false,
+            "hasGrid": false,
+            "imagePattern": "large",
+            "structure": "heading + image"
+          },
+          "selector": "#main-content > section:nth-child(1)",
+          "bounds": {
+            "x": 0,
+            "y": 83,
+            "width": 1440,
+            "height": 632
+          },
+          "screenshot": "blocks/hero-37f927de.jpg"
+        },
+        {
+          "id": "unknown-67b7af50",
+          "type": "unknown",
+          "confidence": "low",
+          "description": "1 image block",
+          "content": {
+            "headingCount": 0,
+            "paragraphCount": 0,
+            "imageCount": 1,
+            "buttonCount": 0,
+            "linkCount": 0,
+            "listCount": 0,
+            "childCount": 1,
+            "hasForm": false,
+            "hasVideo": false
+          },
+          "visualChars": {
+            "colorScheme": "dark",
+            "density": "minimal",
+            "hasBackgroundImage": false,
+            "hasGrid": false,
+            "imagePattern": "large",
+            "structure": "image"
+          },
+          "selector": "div.blog-content > p:nth-child(12)",
+          "bounds": {
+            "x": 360,
+            "y": 1809,
+            "width": 720,
+            "height": 392
+          },
+          "screenshot": "blocks/unknown-67b7af50.jpg"
+        },
+        {
+          "id": "unknown-67b7ab32",
+          "type": "unknown",
+          "confidence": "low",
+          "description": "1 image block",
+          "content": {
+            "headingCount": 0,
+            "paragraphCount": 0,
+            "imageCount": 1,
+            "buttonCount": 0,
+            "linkCount": 0,
+            "listCount": 0,
+            "childCount": 1,
+            "hasForm": false,
+            "hasVideo": false
+          },
+          "visualChars": {
+            "colorScheme": "dark",
+            "density": "minimal",
+            "hasBackgroundImage": false,
+            "hasGrid": false,
+            "imagePattern": "large",
+            "structure": "image"
+          },
+          "selector": "div.blog-content > p:nth-child(25)",
+          "bounds": {
+            "x": 360,
+            "y": 3079,
+            "width": 720,
+            "height": 392
+          },
+          "screenshot": "blocks/unknown-67b7ab32.jpg"
+        }
+      ],
+      "fingerprints": {
+        "urlPattern": "/blog/flip-flop-summer-style",
+        "topSectionBounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 504
+        },
+        "topSectionStrategy": "title",
+        "topSectionPlaceholders": [
+          {
+            "type": "text",
+            "x": 24,
+            "y": 0,
+            "width": 146,
+            "height": 18
+          },
+          {
+            "type": "image",
+            "x": 144,
+            "y": 128,
+            "width": 564,
+            "height": 376
+          },
+          {
+            "type": "text",
+            "x": 732,
+            "y": 163,
+            "width": 45,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 805,
+            "y": 163,
+            "width": 34,
+            "height": 20
+          },
+          {
+            "type": "image",
+            "x": 785,
+            "y": 168,
+            "width": 12,
+            "height": 12
+          },
+          {
+            "type": "text",
+            "x": 732,
+            "y": 222,
+            "width": 548,
+            "height": 126
+          },
+          {
+            "type": "text",
+            "x": 752,
+            "y": 370,
+            "width": 68,
+            "height": 18
+          },
+          {
+            "type": "text",
+            "x": 732,
+            "y": 400,
+            "width": 119,
+            "height": 18
+          },
+          {
+            "type": "text",
+            "x": 863,
+            "y": 400,
+            "width": 70,
+            "height": 18
+          },
+          {
+            "type": "text",
+            "x": 744,
+            "y": 442,
+            "width": 88,
+            "height": 15
+          }
+        ],
+        "topSectionTextElements": [
+          {
+            "tag": "a",
+            "fontSize": 14,
+            "fontWeight": 600,
+            "fontFamily": "instrument sans",
+            "color": "#f0f0f0",
+            "backgroundColor": "#000000",
+            "x": 24,
+            "y": 0,
+            "width": 178,
+            "height": 38,
+            "textLength": 20
+          },
+          {
+            "tag": "a",
+            "fontSize": 16,
+            "fontWeight": 500,
+            "fontFamily": "instrument sans",
+            "color": "#000000",
+            "backgroundColor": "#f0f0f0",
+            "x": 732,
+            "y": 165,
+            "width": 45,
+            "height": 26,
+            "textLength": 4
+          },
+          {
+            "tag": "a",
+            "fontSize": 16,
+            "fontWeight": 500,
+            "fontFamily": "instrument sans",
+            "color": "#606060",
+            "backgroundColor": "#f0f0f0",
+            "x": 805,
+            "y": 165,
+            "width": 34,
+            "height": 26,
+            "textLength": 4
+          },
+          {
+            "tag": "h1",
+            "fontSize": 40,
+            "fontWeight": 700,
+            "fontFamily": "syncopate",
+            "color": "#000000",
+            "backgroundColor": "#f0f0f0",
+            "x": 732,
+            "y": 223,
+            "width": 564,
+            "height": 132,
+            "textLength": 41
+          }
+        ],
+        "topSectionCropBottomY": 355,
+        "topSectionTitleRect": {
+          "x": 732,
+          "y": 223,
+          "width": 564,
+          "height": 132,
+          "text": "Slide into summer — flip flops that serve",
+          "fontWeight": 700,
+          "color": "rgb(0, 0, 0)"
+        },
+        "bodyBounds": {
+          "x": 0,
+          "y": 504,
+          "width": 1440,
+          "height": 3542
+        },
+        "bodyStartY": 504,
+        "bodyPlaceholders": [
+          {
+            "type": "text",
+            "x": 360,
+            "y": 675,
+            "width": 702,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 735,
+            "width": 670,
+            "height": 47
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 809,
+            "width": 720,
+            "height": 74
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 931,
+            "width": 571,
+            "height": 82
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 1035,
+            "width": 718,
+            "height": 47
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 1109,
+            "width": 692,
+            "height": 74
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 1222,
+            "width": 584,
+            "height": 31
+          },
+          {
+            "type": "text",
+            "x": 384,
+            "y": 1269,
+            "width": 451,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 384,
+            "y": 1303,
+            "width": 416,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 384,
+            "y": 1337,
+            "width": 427,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 384,
+            "y": 1371,
+            "width": 422,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 1438,
+            "width": 581,
+            "height": 82
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 1542,
+            "width": 715,
+            "height": 47
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 1616,
+            "width": 699,
+            "height": 74
+          },
+          {
+            "type": "image",
+            "x": 360,
+            "y": 1727,
+            "width": 720,
+            "height": 392
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 2154,
+            "width": 685,
+            "height": 47
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 2248,
+            "width": 505,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 2308,
+            "width": 573,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 2355,
+            "width": 698,
+            "height": 47
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 2429,
+            "width": 719,
+            "height": 47
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 2503,
+            "width": 653,
+            "height": 47
+          },
+          {
+            "type": "text",
+            "x": 388,
+            "y": 2589,
+            "width": 609,
+            "height": 47
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 2683,
+            "width": 633,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 2743,
+            "width": 539,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 2790,
+            "width": 610,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 2837,
+            "width": 719,
+            "height": 47
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 2911,
+            "width": 712,
+            "height": 47
+          },
+          {
+            "type": "image",
+            "x": 360,
+            "y": 2994,
+            "width": 720,
+            "height": 392
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 3429,
+            "width": 620,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 3489,
+            "width": 704,
+            "height": 74
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 3591,
+            "width": 706,
+            "height": 74
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 3713,
+            "width": 328,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 3773,
+            "width": 687,
+            "height": 47
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 3847,
+            "width": 712,
+            "height": 47
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://wknd-trendsetters.site/blog/latest-trends-young-casual-fashion",
+      "blocks": [
+        {
+          "id": "hero-37f927de",
+          "type": "hero",
+          "confidence": "high",
+          "description": "1 heading + 1 image block",
+          "content": {
+            "headingCount": 1,
+            "paragraphCount": 0,
+            "imageCount": 1,
+            "buttonCount": 0,
+            "linkCount": 2,
+            "listCount": 0,
+            "childCount": 1,
+            "hasForm": false,
+            "hasVideo": false
+          },
+          "visualChars": {
+            "colorScheme": "dark",
+            "density": "minimal",
+            "hasBackgroundImage": false,
+            "hasGrid": false,
+            "imagePattern": "large",
+            "structure": "heading + image"
+          },
+          "selector": "#main-content > section:nth-child(1)",
+          "bounds": {
+            "x": 0,
+            "y": 83,
+            "width": 1440,
+            "height": 632
+          },
+          "screenshot": "blocks/hero-37f927de.jpg"
+        }
+      ],
+      "fingerprints": {
+        "urlPattern": "/blog/latest-trends-young-casual-fashion",
+        "topSectionBounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 504
+        },
+        "topSectionStrategy": "title",
+        "topSectionPlaceholders": [
+          {
+            "type": "text",
+            "x": 24,
+            "y": 0,
+            "width": 146,
+            "height": 18
+          },
+          {
+            "type": "image",
+            "x": 144,
+            "y": 128,
+            "width": 564,
+            "height": 376
+          },
+          {
+            "type": "text",
+            "x": 732,
+            "y": 185,
+            "width": 45,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 805,
+            "y": 185,
+            "width": 34,
+            "height": 20
+          },
+          {
+            "type": "image",
+            "x": 785,
+            "y": 190,
+            "width": 12,
+            "height": 12
+          },
+          {
+            "type": "text",
+            "x": 732,
+            "y": 244,
+            "width": 383,
+            "height": 82
+          },
+          {
+            "type": "text",
+            "x": 752,
+            "y": 348,
+            "width": 88,
+            "height": 18
+          },
+          {
+            "type": "text",
+            "x": 732,
+            "y": 378,
+            "width": 89,
+            "height": 18
+          },
+          {
+            "type": "text",
+            "x": 833,
+            "y": 378,
+            "width": 70,
+            "height": 18
+          },
+          {
+            "type": "text",
+            "x": 744,
+            "y": 420,
+            "width": 99,
+            "height": 15
+          }
+        ],
+        "topSectionTextElements": [
+          {
+            "tag": "a",
+            "fontSize": 14,
+            "fontWeight": 600,
+            "fontFamily": "instrument sans",
+            "color": "#f0f0f0",
+            "backgroundColor": "#000000",
+            "x": 24,
+            "y": 0,
+            "width": 178,
+            "height": 38,
+            "textLength": 20
+          },
+          {
+            "tag": "a",
+            "fontSize": 16,
+            "fontWeight": 500,
+            "fontFamily": "instrument sans",
+            "color": "#000000",
+            "backgroundColor": "#f0f0f0",
+            "x": 732,
+            "y": 187,
+            "width": 45,
+            "height": 26,
+            "textLength": 4
+          },
+          {
+            "tag": "a",
+            "fontSize": 16,
+            "fontWeight": 500,
+            "fontFamily": "instrument sans",
+            "color": "#606060",
+            "backgroundColor": "#f0f0f0",
+            "x": 805,
+            "y": 187,
+            "width": 34,
+            "height": 26,
+            "textLength": 4
+          },
+          {
+            "tag": "h1",
+            "fontSize": 40,
+            "fontWeight": 700,
+            "fontFamily": "syncopate",
+            "color": "#000000",
+            "backgroundColor": "#f0f0f0",
+            "x": 732,
+            "y": 245,
+            "width": 564,
+            "height": 88,
+            "textLength": 23
+          }
+        ],
+        "topSectionCropBottomY": 333,
+        "topSectionTitleRect": {
+          "x": 732,
+          "y": 245,
+          "width": 564,
+          "height": 88,
+          "text": "Tennis style, redefined",
+          "fontWeight": 700,
+          "color": "rgb(0, 0, 0)"
+        },
+        "bodyBounds": {
+          "x": 0,
+          "y": 504,
+          "width": 1440,
+          "height": 1549
+        },
+        "bodyStartY": 504,
+        "bodyPlaceholders": [
+          {
+            "type": "text",
+            "x": 360,
+            "y": 675,
+            "width": 679,
+            "height": 82
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 779,
+            "width": 714,
+            "height": 74
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 901,
+            "width": 465,
+            "height": 82
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 1005,
+            "width": 706,
+            "height": 74
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 1118,
+            "width": 485,
+            "height": 31
+          },
+          {
+            "type": "text",
+            "x": 384,
+            "y": 1165,
+            "width": 345,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 384,
+            "y": 1199,
+            "width": 369,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 384,
+            "y": 1233,
+            "width": 367,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 384,
+            "y": 1267,
+            "width": 333,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 384,
+            "y": 1301,
+            "width": 317,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 1368,
+            "width": 570,
+            "height": 82
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 1472,
+            "width": 696,
+            "height": 47
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 1546,
+            "width": 693,
+            "height": 74
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 1668,
+            "width": 538,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 1728,
+            "width": 706,
+            "height": 74
+          },
+          {
+            "type": "text",
+            "x": 388,
+            "y": 1842,
+            "width": 684,
+            "height": 47
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://wknd-trendsetters.site/blog/street-style-trends",
+      "blocks": [
+        {
+          "id": "hero-37f927de",
+          "type": "hero",
+          "confidence": "high",
+          "description": "1 heading + 1 image block",
+          "content": {
+            "headingCount": 1,
+            "paragraphCount": 0,
+            "imageCount": 1,
+            "buttonCount": 0,
+            "linkCount": 2,
+            "listCount": 0,
+            "childCount": 1,
+            "hasForm": false,
+            "hasVideo": false
+          },
+          "visualChars": {
+            "colorScheme": "dark",
+            "density": "minimal",
+            "hasBackgroundImage": false,
+            "hasGrid": false,
+            "imagePattern": "large",
+            "structure": "heading + image"
+          },
+          "selector": "#main-content > section:nth-child(1)",
+          "bounds": {
+            "x": 0,
+            "y": 83,
+            "width": 1440,
+            "height": 632
+          },
+          "screenshot": "blocks/hero-37f927de.jpg"
+        }
+      ],
+      "fingerprints": {
+        "urlPattern": "/blog/street-style-trends",
+        "topSectionBounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 504
+        },
+        "topSectionStrategy": "title",
+        "topSectionPlaceholders": [
+          {
+            "type": "text",
+            "x": 24,
+            "y": 0,
+            "width": 146,
+            "height": 18
+          },
+          {
+            "type": "image",
+            "x": 144,
+            "y": 128,
+            "width": 564,
+            "height": 376
+          },
+          {
+            "type": "text",
+            "x": 732,
+            "y": 185,
+            "width": 45,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 805,
+            "y": 185,
+            "width": 34,
+            "height": 20
+          },
+          {
+            "type": "image",
+            "x": 785,
+            "y": 190,
+            "width": 12,
+            "height": 12
+          },
+          {
+            "type": "text",
+            "x": 732,
+            "y": 244,
+            "width": 549,
+            "height": 82
+          },
+          {
+            "type": "text",
+            "x": 752,
+            "y": 348,
+            "width": 68,
+            "height": 18
+          },
+          {
+            "type": "text",
+            "x": 732,
+            "y": 378,
+            "width": 84,
+            "height": 18
+          },
+          {
+            "type": "text",
+            "x": 828,
+            "y": 378,
+            "width": 69,
+            "height": 18
+          },
+          {
+            "type": "text",
+            "x": 744,
+            "y": 420,
+            "width": 100,
+            "height": 15
+          }
+        ],
+        "topSectionTextElements": [
+          {
+            "tag": "a",
+            "fontSize": 14,
+            "fontWeight": 600,
+            "fontFamily": "instrument sans",
+            "color": "#f0f0f0",
+            "backgroundColor": "#000000",
+            "x": 24,
+            "y": 0,
+            "width": 178,
+            "height": 38,
+            "textLength": 20
+          },
+          {
+            "tag": "a",
+            "fontSize": 16,
+            "fontWeight": 500,
+            "fontFamily": "instrument sans",
+            "color": "#000000",
+            "backgroundColor": "#f0f0f0",
+            "x": 732,
+            "y": 187,
+            "width": 45,
+            "height": 26,
+            "textLength": 4
+          },
+          {
+            "tag": "a",
+            "fontSize": 16,
+            "fontWeight": 500,
+            "fontFamily": "instrument sans",
+            "color": "#606060",
+            "backgroundColor": "#f0f0f0",
+            "x": 805,
+            "y": 187,
+            "width": 34,
+            "height": 26,
+            "textLength": 4
+          },
+          {
+            "tag": "h1",
+            "fontSize": 40,
+            "fontWeight": 700,
+            "fontFamily": "syncopate",
+            "color": "#000000",
+            "backgroundColor": "#f0f0f0",
+            "x": 732,
+            "y": 245,
+            "width": 564,
+            "height": 88,
+            "textLength": 22
+          }
+        ],
+        "topSectionCropBottomY": 333,
+        "topSectionTitleRect": {
+          "x": 732,
+          "y": 245,
+          "width": 564,
+          "height": 88,
+          "text": "Street style, your way",
+          "fontWeight": 700,
+          "color": "rgb(0, 0, 0)"
+        },
+        "bodyBounds": {
+          "x": 0,
+          "y": 504,
+          "width": 1440,
+          "height": 1620
+        },
+        "bodyStartY": 504,
+        "bodyPlaceholders": [
+          {
+            "type": "text",
+            "x": 360,
+            "y": 675,
+            "width": 604,
+            "height": 82
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 779,
+            "width": 671,
+            "height": 74
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 901,
+            "width": 720,
+            "height": 82
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 1005,
+            "width": 666,
+            "height": 47
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 1090,
+            "width": 609,
+            "height": 66
+          },
+          {
+            "type": "text",
+            "x": 384,
+            "y": 1172,
+            "width": 455,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 384,
+            "y": 1206,
+            "width": 317,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 384,
+            "y": 1240,
+            "width": 255,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 384,
+            "y": 1274,
+            "width": 300,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 384,
+            "y": 1308,
+            "width": 347,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 1375,
+            "width": 490,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 1435,
+            "width": 713,
+            "height": 74
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 1557,
+            "width": 541,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 1617,
+            "width": 692,
+            "height": 74
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 1739,
+            "width": 530,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 360,
+            "y": 1799,
+            "width": 697,
+            "height": 74
+          },
+          {
+            "type": "text",
+            "x": 388,
+            "y": 1913,
+            "width": 684,
+            "height": 47
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://wknd-trendsetters.site/case-studies",
+      "blocks": [
+        {
+          "id": "hero-398435e",
+          "type": "hero",
+          "confidence": "high",
+          "description": "1 heading + 1 CTA + 1 paragraph block",
+          "content": {
+            "headingCount": 1,
+            "paragraphCount": 1,
+            "imageCount": 0,
+            "buttonCount": 1,
+            "linkCount": 1,
+            "listCount": 0,
+            "childCount": 1,
+            "hasForm": false,
+            "hasVideo": false
+          },
+          "visualChars": {
+            "colorScheme": "light",
+            "density": "minimal",
+            "hasBackgroundImage": false,
+            "hasGrid": false,
+            "imagePattern": "noimg",
+            "structure": "heading + text + 1 CTAs"
+          },
+          "selector": "header.section.secondary-section",
+          "bounds": {
+            "x": 0,
+            "y": 83,
+            "width": 1440,
+            "height": 666
+          },
+          "screenshot": "blocks/hero-398435e.jpg"
+        },
+        {
+          "id": "unknown-37f927fd",
+          "type": "unknown",
+          "confidence": "low",
+          "description": "1 heading + 1 image block",
+          "content": {
+            "headingCount": 1,
+            "paragraphCount": 0,
+            "imageCount": 1,
+            "buttonCount": 0,
+            "linkCount": 1,
+            "listCount": 0,
+            "childCount": 1,
+            "hasForm": false,
+            "hasVideo": false
+          },
+          "visualChars": {
+            "colorScheme": "dark",
+            "density": "minimal",
+            "hasBackgroundImage": false,
+            "hasGrid": false,
+            "imagePattern": "large",
+            "structure": "heading + image"
+          },
+          "selector": "#main-content > section:nth-child(2)",
+          "bounds": {
+            "x": 0,
+            "y": 750,
+            "width": 1440,
+            "height": 632
+          },
+          "screenshot": "blocks/unknown-37f927fd.jpg"
+        },
+        {
+          "id": "unknown-2006d580",
+          "type": "unknown",
+          "confidence": "low",
+          "description": "1 heading + 8 images + 1 paragraph block",
+          "content": {
+            "headingCount": 1,
+            "paragraphCount": 1,
+            "imageCount": 8,
+            "buttonCount": 0,
+            "linkCount": 0,
+            "listCount": 0,
+            "childCount": 2,
+            "hasForm": false,
+            "hasVideo": false
+          },
+          "visualChars": {
+            "colorScheme": "dark",
+            "density": "minimal",
+            "hasBackgroundImage": false,
+            "hasGrid": false,
+            "imagePattern": "large",
+            "structure": "heading + text + 8 images"
+          },
+          "selector": "section.section.secondary-section > div:nth-child(1)",
+          "bounds": {
+            "x": 120,
+            "y": 1510,
+            "width": 1200,
+            "height": 783
+          },
+          "screenshot": "blocks/unknown-2006d580.jpg"
+        },
+        {
+          "id": "tabs-415a8900",
+          "type": "tabs",
+          "confidence": "high",
+          "description": "8 images + 4 CTAs block",
+          "content": {
+            "headingCount": 0,
+            "paragraphCount": 4,
+            "imageCount": 8,
+            "buttonCount": 4,
+            "linkCount": 0,
+            "listCount": 0,
+            "childCount": 1,
+            "hasForm": false,
+            "hasVideo": false
+          },
+          "visualChars": {
+            "colorScheme": "dark",
+            "density": "minimal",
+            "hasBackgroundImage": false,
+            "hasGrid": false,
+            "imagePattern": "large",
+            "structure": "text + 4 CTAs + 8 images"
+          },
+          "selector": "#cases",
+          "bounds": {
+            "x": 0,
+            "y": 2421,
+            "width": 1440,
+            "height": 764
+          },
+          "screenshot": "blocks/tabs-415a8900.jpg"
+        },
+        {
+          "id": "unknown-4c4f0c36",
+          "type": "unknown",
+          "confidence": "low",
+          "description": "1 heading + 1 image + 1 CTA + 1 paragraph block",
+          "content": {
+            "headingCount": 1,
+            "paragraphCount": 1,
+            "imageCount": 1,
+            "buttonCount": 1,
+            "linkCount": 1,
+            "listCount": 0,
+            "childCount": 1,
+            "hasForm": false,
+            "hasVideo": false
+          },
+          "visualChars": {
+            "colorScheme": "dark",
+            "density": "minimal",
+            "hasBackgroundImage": false,
+            "hasGrid": false,
+            "imagePattern": "large",
+            "structure": "heading + text + 1 CTAs + image"
+          },
+          "selector": "section.section.inverse-section",
+          "bounds": {
+            "x": 0,
+            "y": 3185,
+            "width": 1440,
+            "height": 786
+          },
+          "screenshot": "blocks/unknown-4c4f0c36.jpg"
+        }
+      ],
+      "fingerprints": {
+        "urlPattern": "/case-studies",
+        "topSectionBounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 375
+        },
+        "topSectionStrategy": "title",
+        "topSectionPlaceholders": [
+          {
+            "type": "text",
+            "x": 24,
+            "y": 0,
+            "width": 146,
+            "height": 18
+          },
+          {
+            "type": "text",
+            "x": 144,
+            "y": 131,
+            "width": 535,
+            "height": 240
+          }
+        ],
+        "topSectionTextElements": [
+          {
+            "tag": "a",
+            "fontSize": 14,
+            "fontWeight": 600,
+            "fontFamily": "instrument sans",
+            "color": "#f0f0f0",
+            "backgroundColor": "#000000",
+            "x": 24,
+            "y": 0,
+            "width": 178,
+            "height": 38,
+            "textLength": 20
+          },
+          {
+            "tag": "h1",
+            "fontSize": 56,
+            "fontWeight": 700,
+            "fontFamily": "syncopate",
+            "color": "#000000",
+            "backgroundColor": "#f0f0f0",
+            "x": 144,
+            "y": 128,
+            "width": 544,
+            "height": 246,
+            "textLength": 36
+          }
+        ],
+        "topSectionCropBottomY": 375,
+        "topSectionTitleRect": {
+          "x": 144,
+          "y": 128,
+          "width": 544,
+          "height": 246,
+          "text": "Fresh looks, bold stories, real life",
+          "fontWeight": 700,
+          "color": "rgb(0, 0, 0)"
+        },
+        "bodyBounds": {
+          "x": 0,
+          "y": 375,
+          "width": 1440,
+          "height": 3512
+        },
+        "bodyStartY": 375,
+        "bodyPlaceholders": [
+          {
+            "type": "text",
+            "x": 144,
+            "y": 401,
+            "width": 544,
+            "height": 51
+          },
+          {
+            "type": "text",
+            "x": 144,
+            "y": 488,
+            "width": 115,
+            "height": 50
+          },
+          {
+            "type": "image",
+            "x": 144,
+            "y": 794,
+            "width": 564,
+            "height": 376
+          },
+          {
+            "type": "text",
+            "x": 732,
+            "y": 855,
+            "width": 45,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 805,
+            "y": 855,
+            "width": 97,
+            "height": 20
+          },
+          {
+            "type": "image",
+            "x": 785,
+            "y": 860,
+            "width": 12,
+            "height": 12
+          },
+          {
+            "type": "text",
+            "x": 732,
+            "y": 914,
+            "width": 554,
+            "height": 126
+          },
+          {
+            "type": "text",
+            "x": 732,
+            "y": 1059,
+            "width": 108,
+            "height": 22
+          },
+          {
+            "type": "text",
+            "x": 732,
+            "y": 1089,
+            "width": 171,
+            "height": 22
+          },
+          {
+            "type": "text",
+            "x": 349,
+            "y": 1429,
+            "width": 742,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 596,
+            "y": 1485,
+            "width": 249,
+            "height": 22
+          },
+          {
+            "type": "image",
+            "x": 144,
+            "y": 1639,
+            "width": 279,
+            "height": 279
+          },
+          {
+            "type": "image",
+            "x": 435,
+            "y": 1639,
+            "width": 279,
+            "height": 279
+          },
+          {
+            "type": "image",
+            "x": 726,
+            "y": 1639,
+            "width": 279,
+            "height": 279
+          },
+          {
+            "type": "image",
+            "x": 1017,
+            "y": 1639,
+            "width": 279,
+            "height": 279
+          },
+          {
+            "type": "image",
+            "x": 144,
+            "y": 1930,
+            "width": 279,
+            "height": 279
+          },
+          {
+            "type": "image",
+            "x": 435,
+            "y": 1930,
+            "width": 279,
+            "height": 279
+          },
+          {
+            "type": "image",
+            "x": 726,
+            "y": 1930,
+            "width": 279,
+            "height": 279
+          },
+          {
+            "type": "image",
+            "x": 1017,
+            "y": 1930,
+            "width": 279,
+            "height": 279
+          },
+          {
+            "type": "image",
+            "x": 144,
+            "y": 2465,
+            "width": 568,
+            "height": 426
+          },
+          {
+            "type": "text",
+            "x": 728,
+            "y": 2565,
+            "width": 110,
+            "height": 24
+          },
+          {
+            "type": "text",
+            "x": 728,
+            "y": 2595,
+            "width": 165,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 728,
+            "y": 2655,
+            "width": 566,
+            "height": 88
+          },
+          {
+            "type": "image",
+            "x": 161,
+            "y": 2908,
+            "width": 48,
+            "height": 48
+          },
+          {
+            "type": "image",
+            "x": 453,
+            "y": 2908,
+            "width": 48,
+            "height": 48
+          },
+          {
+            "type": "image",
+            "x": 745,
+            "y": 2908,
+            "width": 48,
+            "height": 48
+          },
+          {
+            "type": "image",
+            "x": 1037,
+            "y": 2908,
+            "width": 48,
+            "height": 48
+          },
+          {
+            "type": "text",
+            "x": 217,
+            "y": 2913,
+            "width": 91,
+            "height": 16
+          },
+          {
+            "type": "text",
+            "x": 509,
+            "y": 2913,
+            "width": 84,
+            "height": 16
+          },
+          {
+            "type": "text",
+            "x": 801,
+            "y": 2913,
+            "width": 89,
+            "height": 16
+          },
+          {
+            "type": "text",
+            "x": 1093,
+            "y": 2913,
+            "width": 109,
+            "height": 16
+          },
+          {
+            "type": "text",
+            "x": 217,
+            "y": 2935,
+            "width": 155,
+            "height": 16
+          },
+          {
+            "type": "text",
+            "x": 509,
+            "y": 2935,
+            "width": 147,
+            "height": 16
+          },
+          {
+            "type": "text",
+            "x": 801,
+            "y": 2935,
+            "width": 96,
+            "height": 16
+          },
+          {
+            "type": "text",
+            "x": 1093,
+            "y": 2935,
+            "width": 141,
+            "height": 16
+          },
+          {
+            "type": "image",
+            "x": 144,
+            "y": 3229,
+            "width": 1152,
+            "height": 530
+          },
+          {
+            "type": "text",
+            "x": 208,
+            "y": 3296,
+            "width": 535,
+            "height": 240
+          },
+          {
+            "type": "text",
+            "x": 208,
+            "y": 3558,
+            "width": 533,
+            "height": 51
+          },
+          {
+            "type": "text",
+            "x": 208,
+            "y": 3645,
+            "width": 120,
+            "height": 50
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://wknd-trendsetters.site/faq",
+      "blocks": [
+        {
+          "id": "hero-398435e",
+          "type": "hero",
+          "confidence": "high",
+          "description": "1 heading + 1 image + 2 paragraphs block",
+          "content": {
+            "headingCount": 1,
+            "paragraphCount": 2,
+            "imageCount": 1,
+            "buttonCount": 0,
+            "linkCount": 0,
+            "listCount": 0,
+            "childCount": 1,
+            "hasForm": false,
+            "hasVideo": false
+          },
+          "visualChars": {
+            "colorScheme": "light",
+            "density": "minimal",
+            "hasBackgroundImage": false,
+            "hasGrid": false,
+            "imagePattern": "large",
+            "structure": "heading + text + image"
+          },
+          "selector": "header.section.secondary-section",
+          "bounds": {
+            "x": 0,
+            "y": 83,
+            "width": 1440,
+            "height": 664
+          },
+          "screenshot": "blocks/hero-398435e.jpg"
+        },
+        {
+          "id": "accordion-7c333a4e",
+          "type": "accordion",
+          "confidence": "high",
+          "description": "4-item layout block",
+          "content": {
+            "headingCount": 0,
+            "paragraphCount": 4,
+            "imageCount": 0,
+            "buttonCount": 0,
+            "linkCount": 0,
+            "listCount": 0,
+            "childCount": 4,
+            "hasForm": false,
+            "hasVideo": false
+          },
+          "visualChars": {
+            "colorScheme": "dark",
+            "density": "moderate",
+            "hasBackgroundImage": false,
+            "hasGrid": true,
+            "imagePattern": "noimg",
+            "structure": "text"
+          },
+          "selector": "div.faq-list",
+          "bounds": {
+            "x": 360,
+            "y": 875,
+            "width": 720,
+            "height": 339
+          },
+          "screenshot": "blocks/accordion-7c333a4e.jpg"
+        },
+        {
+          "id": "cards-14788aca",
+          "type": "cards",
+          "confidence": "medium",
+          "description": "3 headings + 1 paragraph + 3-item layout block",
+          "content": {
+            "headingCount": 3,
+            "paragraphCount": 1,
+            "imageCount": 0,
+            "buttonCount": 0,
+            "linkCount": 2,
+            "listCount": 0,
+            "childCount": 3,
+            "hasForm": false,
+            "hasVideo": false
+          },
+          "visualChars": {
+            "colorScheme": "dark",
+            "density": "minimal",
+            "hasBackgroundImage": false,
+            "hasGrid": true,
+            "imagePattern": "noimg",
+            "structure": "heading + text"
+          },
+          "itemCount": 3,
+          "selector": "div.contact-items",
+          "bounds": {
+            "x": 752,
+            "y": 1471,
+            "width": 544,
+            "height": 221
+          },
+          "screenshot": "blocks/cards-14788aca.jpg"
+        },
+        {
+          "id": "unknown-5ca9e7cc",
+          "type": "unknown",
+          "confidence": "low",
+          "description": "1 heading + 1 CTA + 1 paragraph block",
+          "content": {
+            "headingCount": 1,
+            "paragraphCount": 1,
+            "imageCount": 0,
+            "buttonCount": 1,
+            "linkCount": 1,
+            "listCount": 0,
+            "childCount": 1,
+            "hasForm": false,
+            "hasVideo": false
+          },
+          "visualChars": {
+            "colorScheme": "light",
+            "density": "minimal",
+            "hasBackgroundImage": false,
+            "hasGrid": false,
+            "imagePattern": "noimg",
+            "structure": "heading + text + 1 CTAs"
+          },
+          "selector": "section.section.accent-section",
+          "bounds": {
+            "x": 0,
+            "y": 1819,
+            "width": 1440,
+            "height": 471
+          },
+          "screenshot": "blocks/unknown-5ca9e7cc.jpg"
+        }
+      ],
+      "fingerprints": {
+        "urlPattern": "/faq",
+        "topSectionBounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 536
+        },
+        "topSectionStrategy": "title",
+        "topSectionPlaceholders": [
+          {
+            "type": "text",
+            "x": 24,
+            "y": 0,
+            "width": 146,
+            "height": 18
+          },
+          {
+            "type": "image",
+            "x": 752,
+            "y": 128,
+            "width": 544,
+            "height": 408
+          },
+          {
+            "type": "text",
+            "x": 144,
+            "y": 152,
+            "width": 466,
+            "height": 240
+          },
+          {
+            "type": "text",
+            "x": 144,
+            "y": 422,
+            "width": 237,
+            "height": 22
+          },
+          {
+            "type": "text",
+            "x": 144,
+            "y": 466,
+            "width": 486,
+            "height": 46
+          }
+        ],
+        "topSectionTextElements": [
+          {
+            "tag": "a",
+            "fontSize": 14,
+            "fontWeight": 600,
+            "fontFamily": "instrument sans",
+            "color": "#f0f0f0",
+            "backgroundColor": "#000000",
+            "x": 24,
+            "y": 0,
+            "width": 178,
+            "height": 38,
+            "textLength": 20
+          },
+          {
+            "tag": "h1",
+            "fontSize": 56,
+            "fontWeight": 700,
+            "fontFamily": "syncopate",
+            "color": "#000000",
+            "backgroundColor": "#f0f0f0",
+            "x": 144,
+            "y": 149,
+            "width": 544,
+            "height": 246,
+            "textLength": 33
+          }
+        ],
+        "topSectionCropBottomY": 396,
+        "topSectionTitleRect": {
+          "x": 144,
+          "y": 149,
+          "width": 544,
+          "height": 246,
+          "text": "Got questions? We've got answers.",
+          "fontWeight": 700,
+          "color": "rgb(0, 0, 0)"
+        },
+        "bodyBounds": {
+          "x": 0,
+          "y": 536,
+          "width": 1440,
+          "height": 1671
+        },
+        "bodyStartY": 536,
+        "bodyPlaceholders": [
+          {
+            "type": "text",
+            "x": 393,
+            "y": 820,
+            "width": 280,
+            "height": 22
+          },
+          {
+            "type": "image",
+            "x": 1027,
+            "y": 822,
+            "width": 20,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 393,
+            "y": 873,
+            "width": 645,
+            "height": 47
+          },
+          {
+            "type": "text",
+            "x": 393,
+            "y": 907,
+            "width": 266,
+            "height": 22
+          },
+          {
+            "type": "image",
+            "x": 1027,
+            "y": 909,
+            "width": 20,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 393,
+            "y": 960,
+            "width": 612,
+            "height": 47
+          },
+          {
+            "type": "text",
+            "x": 393,
+            "y": 994,
+            "width": 312,
+            "height": 22
+          },
+          {
+            "type": "image",
+            "x": 1027,
+            "y": 996,
+            "width": 20,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 393,
+            "y": 1047,
+            "width": 630,
+            "height": 47
+          },
+          {
+            "type": "text",
+            "x": 393,
+            "y": 1081,
+            "width": 273,
+            "height": 22
+          },
+          {
+            "type": "image",
+            "x": 1027,
+            "y": 1083,
+            "width": 20,
+            "height": 20
+          },
+          {
+            "type": "text",
+            "x": 393,
+            "y": 1134,
+            "width": 637,
+            "height": 47
+          },
+          {
+            "type": "text",
+            "x": 752,
+            "y": 1388,
+            "width": 62,
+            "height": 14
+          },
+          {
+            "type": "text",
+            "x": 144,
+            "y": 1391,
+            "width": 420,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 752,
+            "y": 1414,
+            "width": 198,
+            "height": 22
+          },
+          {
+            "type": "text",
+            "x": 144,
+            "y": 1451,
+            "width": 538,
+            "height": 51
+          },
+          {
+            "type": "text",
+            "x": 752,
+            "y": 1472,
+            "width": 71,
+            "height": 14
+          },
+          {
+            "type": "text",
+            "x": 752,
+            "y": 1498,
+            "width": 143,
+            "height": 22
+          },
+          {
+            "type": "text",
+            "x": 752,
+            "y": 1556,
+            "width": 92,
+            "height": 14
+          },
+          {
+            "type": "text",
+            "x": 752,
+            "y": 1582,
+            "width": 176,
+            "height": 22
+          },
+          {
+            "type": "text",
+            "x": 479,
+            "y": 1867,
+            "width": 482,
+            "height": 82
+          },
+          {
+            "type": "text",
+            "x": 569,
+            "y": 1971,
+            "width": 303,
+            "height": 22
+          },
+          {
+            "type": "text",
+            "x": 664,
+            "y": 2029,
+            "width": 112,
+            "height": 50
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://wknd-trendsetters.site/fashion-insights",
+      "blocks": [
+        {
+          "id": "hero-398435e",
+          "type": "hero",
+          "confidence": "high",
+          "description": "1 heading + 1 image + 2 CTAs + 1 paragraph block",
+          "content": {
+            "headingCount": 1,
+            "paragraphCount": 1,
+            "imageCount": 1,
+            "buttonCount": 2,
+            "linkCount": 2,
+            "listCount": 0,
+            "childCount": 1,
+            "hasForm": false,
+            "hasVideo": false
+          },
+          "visualChars": {
+            "colorScheme": "light",
+            "density": "minimal",
+            "hasBackgroundImage": false,
+            "hasGrid": false,
+            "imagePattern": "large",
+            "structure": "heading + text + 2 CTAs + image"
+          },
+          "selector": "header.section.secondary-section",
+          "bounds": {
+            "x": 0,
+            "y": 83,
+            "width": 1440,
+            "height": 634
+          },
+          "screenshot": "blocks/hero-398435e.jpg"
+        },
+        {
+          "id": "unknown-37f927fd",
+          "type": "unknown",
+          "confidence": "low",
+          "description": "1 heading + 1 image + 1 CTA + 1 paragraph block",
+          "content": {
+            "headingCount": 1,
+            "paragraphCount": 1,
+            "imageCount": 1,
+            "buttonCount": 1,
+            "linkCount": 1,
+            "listCount": 0,
+            "childCount": 1,
+            "hasForm": false,
+            "hasVideo": false
+          },
+          "visualChars": {
+            "colorScheme": "dark",
+            "density": "minimal",
+            "hasBackgroundImage": false,
+            "hasGrid": false,
+            "imagePattern": "large",
+            "structure": "heading + text + 1 CTAs + image"
+          },
+          "selector": "#main-content > section:nth-child(2)",
+          "bounds": {
+            "x": 0,
+            "y": 717,
+            "width": 1440,
+            "height": 632
+          },
+          "screenshot": "blocks/unknown-37f927fd.jpg"
+        },
+        {
+          "id": "unknown-3e400a0",
+          "type": "unknown",
+          "confidence": "low",
+          "description": "5 headings + 4 images + 1 paragraph block",
+          "content": {
+            "headingCount": 5,
+            "paragraphCount": 1,
+            "imageCount": 4,
+            "buttonCount": 0,
+            "linkCount": 4,
+            "listCount": 0,
+            "childCount": 1,
+            "hasForm": false,
+            "hasVideo": false
+          },
+          "visualChars": {
+            "colorScheme": "light",
+            "density": "minimal",
+            "hasBackgroundImage": false,
+            "hasGrid": false,
+            "imagePattern": "large",
+            "structure": "heading + text + 4 images"
+          },
+          "selector": "#articles",
+          "bounds": {
+            "x": 0,
+            "y": 1349,
+            "width": 1440,
+            "height": 705
+          },
+          "screenshot": "blocks/unknown-3e400a0.jpg"
+        },
+        {
+          "id": "unknown-6e509461",
+          "type": "unknown",
+          "confidence": "low",
+          "description": "1 heading + 6 images + 1 paragraph block",
+          "content": {
+            "headingCount": 1,
+            "paragraphCount": 1,
+            "imageCount": 6,
+            "buttonCount": 0,
+            "linkCount": 0,
+            "listCount": 0,
+            "childCount": 2,
+            "hasForm": false,
+            "hasVideo": false
+          },
+          "visualChars": {
+            "colorScheme": "dark",
+            "density": "minimal",
+            "hasBackgroundImage": false,
+            "hasGrid": false,
+            "imagePattern": "large",
+            "structure": "heading + text + 6 images"
+          },
+          "selector": "#main-content > section:nth-child(4) > div:nth-child(1)",
+          "bounds": {
+            "x": 120,
+            "y": 2182,
+            "width": 1200,
+            "height": 977
+          },
+          "screenshot": "blocks/unknown-6e509461.jpg"
+        },
+        {
+          "id": "unknown-5ca9e7cc",
+          "type": "unknown",
+          "confidence": "low",
+          "description": "1 heading + 1 CTA + 1 paragraph block",
+          "content": {
+            "headingCount": 1,
+            "paragraphCount": 1,
+            "imageCount": 0,
+            "buttonCount": 1,
+            "linkCount": 1,
+            "listCount": 0,
+            "childCount": 1,
+            "hasForm": false,
+            "hasVideo": false
+          },
+          "visualChars": {
+            "colorScheme": "light",
+            "density": "minimal",
+            "hasBackgroundImage": false,
+            "hasGrid": false,
+            "imagePattern": "noimg",
+            "structure": "heading + text + 1 CTAs"
+          },
+          "selector": "section.section.accent-section",
+          "bounds": {
+            "x": 0,
+            "y": 3287,
+            "width": 1440,
+            "height": 515
+          },
+          "screenshot": "blocks/unknown-5ca9e7cc.jpg"
+        }
+      ],
+      "fingerprints": {
+        "urlPattern": "/fashion-insights",
+        "topSectionBounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 401
+        },
+        "topSectionStrategy": "title",
+        "topSectionPlaceholders": [
+          {
+            "type": "text",
+            "x": 24,
+            "y": 0,
+            "width": 146,
+            "height": 18
+          },
+          {
+            "type": "text",
+            "x": 144,
+            "y": 131,
+            "width": 576,
+            "height": 178
+          },
+          {
+            "type": "image",
+            "x": 784,
+            "y": 233,
+            "width": 252,
+            "height": 168
+          },
+          {
+            "type": "text",
+            "x": 144,
+            "y": 340,
+            "width": 555,
+            "height": 61
+          }
+        ],
+        "topSectionTextElements": [
+          {
+            "tag": "a",
+            "fontSize": 14,
+            "fontWeight": 600,
+            "fontFamily": "instrument sans",
+            "color": "#f0f0f0",
+            "backgroundColor": "#000000",
+            "x": 24,
+            "y": 0,
+            "width": 178,
+            "height": 38,
+            "textLength": 20
+          },
+          {
+            "tag": "h1",
+            "fontSize": 56,
+            "fontWeight": 700,
+            "fontFamily": "syncopate",
+            "color": "#000000",
+            "backgroundColor": "#f0f0f0",
+            "x": 144,
+            "y": 128,
+            "width": 576,
+            "height": 185,
+            "textLength": 22
+          }
+        ],
+        "topSectionCropBottomY": 313,
+        "topSectionTitleRect": {
+          "x": 144,
+          "y": 128,
+          "width": 576,
+          "height": 185,
+          "text": "WKND Trendsetters Blog",
+          "fontWeight": 700,
+          "color": "rgb(0, 0, 0)"
+        },
+        "bodyBounds": {
+          "x": 0,
+          "y": 401,
+          "width": 1440,
+          "height": 3317
+        },
+        "bodyStartY": 401,
+        "bodyPlaceholders": [
+          {
+            "type": "text",
+            "x": 144,
+            "y": 455,
+            "width": 265,
+            "height": 50
+          },
+          {
+            "type": "image",
+            "x": 144,
+            "y": 761,
+            "width": 564,
+            "height": 376
+          },
+          {
+            "type": "text",
+            "x": 732,
+            "y": 806,
+            "width": 97,
+            "height": 27
+          },
+          {
+            "type": "text",
+            "x": 732,
+            "y": 852,
+            "width": 554,
+            "height": 82
+          },
+          {
+            "type": "text",
+            "x": 732,
+            "y": 956,
+            "width": 544,
+            "height": 51
+          },
+          {
+            "type": "text",
+            "x": 732,
+            "y": 1043,
+            "width": 190,
+            "height": 50
+          },
+          {
+            "type": "text",
+            "x": 483,
+            "y": 1396,
+            "width": 474,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 620,
+            "y": 1452,
+            "width": 201,
+            "height": 22
+          },
+          {
+            "type": "image",
+            "x": 145,
+            "y": 1543,
+            "width": 274,
+            "height": 171
+          },
+          {
+            "type": "image",
+            "x": 437,
+            "y": 1543,
+            "width": 274,
+            "height": 171
+          },
+          {
+            "type": "image",
+            "x": 729,
+            "y": 1543,
+            "width": 274,
+            "height": 171
+          },
+          {
+            "type": "image",
+            "x": 1021,
+            "y": 1543,
+            "width": 274,
+            "height": 171
+          },
+          {
+            "type": "text",
+            "x": 169,
+            "y": 1738,
+            "width": 178,
+            "height": 27
+          },
+          {
+            "type": "text",
+            "x": 461,
+            "y": 1738,
+            "width": 169,
+            "height": 27
+          },
+          {
+            "type": "text",
+            "x": 753,
+            "y": 1738,
+            "width": 150,
+            "height": 27
+          },
+          {
+            "type": "text",
+            "x": 1045,
+            "y": 1738,
+            "width": 165,
+            "height": 27
+          },
+          {
+            "type": "text",
+            "x": 169,
+            "y": 1777,
+            "width": 179,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 461,
+            "y": 1777,
+            "width": 199,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 753,
+            "y": 1777,
+            "width": 212,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 1045,
+            "y": 1777,
+            "width": 203,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 349,
+            "y": 2101,
+            "width": 742,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 596,
+            "y": 2157,
+            "width": 249,
+            "height": 22
+          },
+          {
+            "type": "image",
+            "x": 144,
+            "y": 2311,
+            "width": 376,
+            "height": 376
+          },
+          {
+            "type": "image",
+            "x": 532,
+            "y": 2311,
+            "width": 376,
+            "height": 376
+          },
+          {
+            "type": "image",
+            "x": 920,
+            "y": 2311,
+            "width": 376,
+            "height": 376
+          },
+          {
+            "type": "image",
+            "x": 144,
+            "y": 2699,
+            "width": 376,
+            "height": 376
+          },
+          {
+            "type": "image",
+            "x": 532,
+            "y": 2699,
+            "width": 376,
+            "height": 376
+          },
+          {
+            "type": "image",
+            "x": 920,
+            "y": 2699,
+            "width": 376,
+            "height": 376
+          },
+          {
+            "type": "text",
+            "x": 443,
+            "y": 3334,
+            "width": 554,
+            "height": 126
+          },
+          {
+            "type": "text",
+            "x": 526,
+            "y": 3482,
+            "width": 389,
+            "height": 22
+          },
+          {
+            "type": "text",
+            "x": 659,
+            "y": 3540,
+            "width": 122,
+            "height": 50
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://wknd-trendsetters.site/fashion-trends-of-the-season",
+      "blocks": [
+        {
+          "id": "hero-398435e",
+          "type": "hero",
+          "confidence": "high",
+          "description": "1 heading + 3 images + 2 CTAs + 1 paragraph block",
+          "content": {
+            "headingCount": 1,
+            "paragraphCount": 1,
+            "imageCount": 3,
+            "buttonCount": 2,
+            "linkCount": 2,
+            "listCount": 0,
+            "childCount": 1,
+            "hasForm": false,
+            "hasVideo": false
+          },
+          "visualChars": {
+            "colorScheme": "light",
+            "density": "minimal",
+            "hasBackgroundImage": false,
+            "hasGrid": false,
+            "imagePattern": "large",
+            "structure": "heading + text + 2 CTAs + 3 images"
+          },
+          "selector": "header.section.secondary-section",
+          "bounds": {
+            "x": 0,
+            "y": 83,
+            "width": 1440,
+            "height": 757
+          },
+          "screenshot": "blocks/hero-398435e.jpg"
+        },
+        {
+          "id": "unknown-7e24c59",
+          "type": "unknown",
+          "confidence": "low",
+          "description": "2 headings + 1 image + 1 CTA + 2 paragraphs block",
+          "content": {
+            "headingCount": 2,
+            "paragraphCount": 2,
+            "imageCount": 1,
+            "buttonCount": 1,
+            "linkCount": 1,
+            "listCount": 0,
+            "childCount": 1,
+            "hasForm": false,
+            "hasVideo": false
+          },
+          "visualChars": {
+            "colorScheme": "dark",
+            "density": "minimal",
+            "hasBackgroundImage": false,
+            "hasGrid": false,
+            "imagePattern": "large",
+            "structure": "heading + text + 1 CTAs + image"
+          },
+          "selector": "#trends",
+          "bounds": {
+            "x": 0,
+            "y": 840,
+            "width": 1440,
+            "height": 781
+          },
+          "screenshot": "blocks/unknown-7e24c59.jpg"
+        },
+        {
+          "id": "unknown-20351afa",
+          "type": "unknown",
+          "confidence": "low",
+          "description": "4 headings + 3 images + 3 paragraphs block",
+          "content": {
+            "headingCount": 4,
+            "paragraphCount": 3,
+            "imageCount": 3,
+            "buttonCount": 0,
+            "linkCount": 0,
+            "listCount": 0,
+            "childCount": 1,
+            "hasForm": false,
+            "hasVideo": false
+          },
+          "visualChars": {
+            "colorScheme": "light",
+            "density": "minimal",
+            "hasBackgroundImage": false,
+            "hasGrid": false,
+            "imagePattern": "large",
+            "structure": "heading + text + 3 images"
+          },
+          "selector": "section.section.secondary-section",
+          "bounds": {
+            "x": 0,
+            "y": 1621,
+            "width": 1440,
+            "height": 713
+          },
+          "screenshot": "blocks/unknown-20351afa.jpg"
+        },
+        {
+          "id": "unknown-6e509461",
+          "type": "unknown",
+          "confidence": "low",
+          "description": "1 heading + 6 images + 1 paragraph block",
+          "content": {
+            "headingCount": 1,
+            "paragraphCount": 1,
+            "imageCount": 6,
+            "buttonCount": 0,
+            "linkCount": 0,
+            "listCount": 0,
+            "childCount": 2,
+            "hasForm": false,
+            "hasVideo": false
+          },
+          "visualChars": {
+            "colorScheme": "dark",
+            "density": "minimal",
+            "hasBackgroundImage": false,
+            "hasGrid": false,
+            "imagePattern": "large",
+            "structure": "heading + text + 6 images"
+          },
+          "selector": "#main-content > section:nth-child(4) > div:nth-child(1)",
+          "bounds": {
+            "x": 120,
+            "y": 2461,
+            "width": 1200,
+            "height": 977
+          },
+          "screenshot": "blocks/unknown-6e509461.jpg"
+        },
+        {
+          "id": "unknown-5ca9e7cc",
+          "type": "unknown",
+          "confidence": "low",
+          "description": "1 heading + 1 CTA + 1 paragraph block",
+          "content": {
+            "headingCount": 1,
+            "paragraphCount": 1,
+            "imageCount": 0,
+            "buttonCount": 1,
+            "linkCount": 1,
+            "listCount": 0,
+            "childCount": 1,
+            "hasForm": false,
+            "hasVideo": false
+          },
+          "visualChars": {
+            "colorScheme": "light",
+            "density": "minimal",
+            "hasBackgroundImage": false,
+            "hasGrid": false,
+            "imagePattern": "noimg",
+            "structure": "heading + text + 1 CTAs"
+          },
+          "selector": "section.section.accent-section",
+          "bounds": {
+            "x": 0,
+            "y": 3566,
+            "width": 1440,
+            "height": 515
+          },
+          "screenshot": "blocks/unknown-5ca9e7cc.jpg"
+        }
+      ],
+      "fingerprints": {
+        "urlPattern": "/fashion-trends-of-the-season",
+        "topSectionBounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 450
+        },
+        "topSectionStrategy": "title",
+        "topSectionPlaceholders": [
+          {
+            "type": "text",
+            "x": 24,
+            "y": 0,
+            "width": 146,
+            "height": 18
+          },
+          {
+            "type": "text",
+            "x": 144,
+            "y": 131,
+            "width": 495,
+            "height": 301
+          },
+          {
+            "type": "image",
+            "x": 752,
+            "y": 195,
+            "width": 268,
+            "height": 179
+          },
+          {
+            "type": "image",
+            "x": 1028,
+            "y": 195,
+            "width": 268,
+            "height": 179
+          }
+        ],
+        "topSectionTextElements": [
+          {
+            "tag": "a",
+            "fontSize": 14,
+            "fontWeight": 600,
+            "fontFamily": "instrument sans",
+            "color": "#f0f0f0",
+            "backgroundColor": "#000000",
+            "x": 24,
+            "y": 0,
+            "width": 178,
+            "height": 38,
+            "textLength": 20
+          },
+          {
+            "tag": "h1",
+            "fontSize": 56,
+            "fontWeight": 700,
+            "fontFamily": "syncopate",
+            "color": "#000000",
+            "backgroundColor": "#f0f0f0",
+            "x": 144,
+            "y": 128,
+            "width": 544,
+            "height": 308,
+            "textLength": 47
+          }
+        ],
+        "topSectionCropBottomY": 436,
+        "topSectionTitleRect": {
+          "x": 144,
+          "y": 128,
+          "width": 544,
+          "height": 308,
+          "text": "Fresh fits, bold moves — Trends for every vibe.",
+          "fontWeight": 700,
+          "color": "rgb(0, 0, 0)"
+        },
+        "bodyBounds": {
+          "x": 0,
+          "y": 450,
+          "width": 1440,
+          "height": 3857
+        },
+        "bodyStartY": 450,
+        "bodyPlaceholders": [
+          {
+            "type": "image",
+            "x": 752,
+            "y": 450,
+            "width": 268,
+            "height": 111
+          },
+          {
+            "type": "text",
+            "x": 144,
+            "y": 463,
+            "width": 528,
+            "height": 80
+          },
+          {
+            "type": "text",
+            "x": 144,
+            "y": 578,
+            "width": 311,
+            "height": 50
+          },
+          {
+            "type": "text",
+            "x": 534,
+            "y": 887,
+            "width": 372,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 629,
+            "y": 943,
+            "width": 182,
+            "height": 22
+          },
+          {
+            "type": "image",
+            "x": 144,
+            "y": 1033,
+            "width": 564,
+            "height": 376
+          },
+          {
+            "type": "text",
+            "x": 732,
+            "y": 1082,
+            "width": 464,
+            "height": 66
+          },
+          {
+            "type": "text",
+            "x": 732,
+            "y": 1169,
+            "width": 541,
+            "height": 108
+          },
+          {
+            "type": "text",
+            "x": 732,
+            "y": 1313,
+            "width": 242,
+            "height": 50
+          },
+          {
+            "type": "text",
+            "x": 351,
+            "y": 1668,
+            "width": 739,
+            "height": 38
+          },
+          {
+            "type": "image",
+            "x": 144,
+            "y": 1773,
+            "width": 368,
+            "height": 349
+          },
+          {
+            "type": "image",
+            "x": 536,
+            "y": 1773,
+            "width": 368,
+            "height": 452
+          },
+          {
+            "type": "image",
+            "x": 928,
+            "y": 1773,
+            "width": 368,
+            "height": 555
+          },
+          {
+            "type": "text",
+            "x": 144,
+            "y": 2147,
+            "width": 236,
+            "height": 23
+          },
+          {
+            "type": "text",
+            "x": 144,
+            "y": 2182,
+            "width": 364,
+            "height": 40
+          },
+          {
+            "type": "text",
+            "x": 536,
+            "y": 2250,
+            "width": 235,
+            "height": 23
+          },
+          {
+            "type": "text",
+            "x": 536,
+            "y": 2285,
+            "width": 354,
+            "height": 40
+          },
+          {
+            "type": "text",
+            "x": 928,
+            "y": 2353,
+            "width": 181,
+            "height": 23
+          },
+          {
+            "type": "text",
+            "x": 928,
+            "y": 2388,
+            "width": 340,
+            "height": 40
+          },
+          {
+            "type": "text",
+            "x": 349,
+            "y": 2690,
+            "width": 742,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 596,
+            "y": 2746,
+            "width": 249,
+            "height": 22
+          },
+          {
+            "type": "image",
+            "x": 144,
+            "y": 2900,
+            "width": 376,
+            "height": 376
+          },
+          {
+            "type": "image",
+            "x": 532,
+            "y": 2900,
+            "width": 376,
+            "height": 376
+          },
+          {
+            "type": "image",
+            "x": 920,
+            "y": 2900,
+            "width": 376,
+            "height": 376
+          },
+          {
+            "type": "image",
+            "x": 144,
+            "y": 3288,
+            "width": 376,
+            "height": 376
+          },
+          {
+            "type": "image",
+            "x": 532,
+            "y": 3288,
+            "width": 376,
+            "height": 376
+          },
+          {
+            "type": "image",
+            "x": 920,
+            "y": 3288,
+            "width": 376,
+            "height": 376
+          },
+          {
+            "type": "text",
+            "x": 443,
+            "y": 3923,
+            "width": 554,
+            "height": 126
+          },
+          {
+            "type": "text",
+            "x": 517,
+            "y": 4071,
+            "width": 406,
+            "height": 22
+          },
+          {
+            "type": "text",
+            "x": 664,
+            "y": 4129,
+            "width": 112,
+            "height": 50
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://wknd-trendsetters.site/fashion-trends-young-adults",
+      "blocks": [
+        {
+          "id": "hero-398435e",
+          "type": "hero",
+          "confidence": "high",
+          "description": "1 heading + 3 images + 2 CTAs + 1 paragraph block",
+          "content": {
+            "headingCount": 1,
+            "paragraphCount": 1,
+            "imageCount": 3,
+            "buttonCount": 2,
+            "linkCount": 2,
+            "listCount": 0,
+            "childCount": 1,
+            "hasForm": false,
+            "hasVideo": false
+          },
+          "visualChars": {
+            "colorScheme": "light",
+            "density": "minimal",
+            "hasBackgroundImage": false,
+            "hasGrid": false,
+            "imagePattern": "large",
+            "structure": "heading + text + 2 CTAs + 3 images"
+          },
+          "selector": "header.section.secondary-section",
+          "bounds": {
+            "x": 0,
+            "y": 83,
+            "width": 1440,
+            "height": 757
+          },
+          "screenshot": "blocks/hero-398435e.jpg"
+        },
+        {
+          "id": "unknown-37f927fd",
+          "type": "unknown",
+          "confidence": "low",
+          "description": "3 headings + 3 images + 3 paragraphs block",
+          "content": {
+            "headingCount": 3,
+            "paragraphCount": 3,
+            "imageCount": 3,
+            "buttonCount": 0,
+            "linkCount": 0,
+            "listCount": 0,
+            "childCount": 1,
+            "hasForm": false,
+            "hasVideo": false
+          },
+          "visualChars": {
+            "colorScheme": "dark",
+            "density": "minimal",
+            "hasBackgroundImage": false,
+            "hasGrid": false,
+            "imagePattern": "large",
+            "structure": "heading + text + 3 images"
+          },
+          "selector": "#main-content > section:nth-child(2)",
+          "bounds": {
+            "x": 0,
+            "y": 840,
+            "width": 1440,
+            "height": 666
+          },
+          "screenshot": "blocks/unknown-37f927fd.jpg"
+        },
+        {
+          "id": "unknown-7e24c59",
+          "type": "unknown",
+          "confidence": "low",
+          "description": "5 headings + 4 images block",
+          "content": {
+            "headingCount": 5,
+            "paragraphCount": 0,
+            "imageCount": 4,
+            "buttonCount": 0,
+            "linkCount": 4,
+            "listCount": 0,
+            "childCount": 1,
+            "hasForm": false,
+            "hasVideo": false
+          },
+          "visualChars": {
+            "colorScheme": "dark",
+            "density": "minimal",
+            "hasBackgroundImage": false,
+            "hasGrid": false,
+            "imagePattern": "large",
+            "structure": "heading + 4 images"
+          },
+          "selector": "#trends",
+          "bounds": {
+            "x": 0,
+            "y": 1911,
+            "width": 1440,
+            "height": 664
+          },
+          "screenshot": "blocks/unknown-7e24c59.jpg"
+        },
+        {
+          "id": "unknown-37f9285a",
+          "type": "unknown",
+          "confidence": "low",
+          "description": "1 heading + 4 images + 1 paragraph block",
+          "content": {
+            "headingCount": 1,
+            "paragraphCount": 1,
+            "imageCount": 4,
+            "buttonCount": 0,
+            "linkCount": 0,
+            "listCount": 0,
+            "childCount": 1,
+            "hasForm": false,
+            "hasVideo": false
+          },
+          "visualChars": {
+            "colorScheme": "light",
+            "density": "minimal",
+            "hasBackgroundImage": false,
+            "hasGrid": false,
+            "imagePattern": "large",
+            "structure": "heading + text + 4 images"
+          },
+          "selector": "#main-content > section:nth-child(5)",
+          "bounds": {
+            "x": 0,
+            "y": 2575,
+            "width": 1440,
+            "height": 748
+          },
+          "screenshot": "blocks/unknown-37f9285a.jpg"
+        },
+        {
+          "id": "unknown-5ca9e7cc",
+          "type": "unknown",
+          "confidence": "low",
+          "description": "1 heading + 1 CTA + 1 paragraph block",
+          "content": {
+            "headingCount": 1,
+            "paragraphCount": 1,
+            "imageCount": 0,
+            "buttonCount": 1,
+            "linkCount": 1,
+            "listCount": 0,
+            "childCount": 1,
+            "hasForm": false,
+            "hasVideo": false
+          },
+          "visualChars": {
+            "colorScheme": "light",
+            "density": "minimal",
+            "hasBackgroundImage": false,
+            "hasGrid": false,
+            "imagePattern": "noimg",
+            "structure": "heading + text + 1 CTAs"
+          },
+          "selector": "section.section.accent-section",
+          "bounds": {
+            "x": 0,
+            "y": 3323,
+            "width": 1440,
+            "height": 471
+          },
+          "screenshot": "blocks/unknown-5ca9e7cc.jpg"
+        }
+      ],
+      "fingerprints": {
+        "urlPattern": "/fashion-trends-young-adults",
+        "topSectionBounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 450
+        },
+        "topSectionStrategy": "title",
+        "topSectionPlaceholders": [
+          {
+            "type": "text",
+            "x": 24,
+            "y": 0,
+            "width": 146,
+            "height": 18
+          },
+          {
+            "type": "text",
+            "x": 144,
+            "y": 131,
+            "width": 510,
+            "height": 301
+          },
+          {
+            "type": "image",
+            "x": 752,
+            "y": 195,
+            "width": 268,
+            "height": 179
+          },
+          {
+            "type": "image",
+            "x": 1028,
+            "y": 195,
+            "width": 268,
+            "height": 179
+          }
+        ],
+        "topSectionTextElements": [
+          {
+            "tag": "a",
+            "fontSize": 14,
+            "fontWeight": 600,
+            "fontFamily": "instrument sans",
+            "color": "#f0f0f0",
+            "backgroundColor": "#000000",
+            "x": 24,
+            "y": 0,
+            "width": 178,
+            "height": 38,
+            "textLength": 20
+          },
+          {
+            "tag": "h1",
+            "fontSize": 56,
+            "fontWeight": 700,
+            "fontFamily": "syncopate",
+            "color": "#000000",
+            "backgroundColor": "#f0f0f0",
+            "x": 144,
+            "y": 128,
+            "width": 544,
+            "height": 308,
+            "textLength": 47
+          }
+        ],
+        "topSectionCropBottomY": 436,
+        "topSectionTitleRect": {
+          "x": 144,
+          "y": 128,
+          "width": 544,
+          "height": 308,
+          "text": "Fresh fits, bold moves. Style that never sleeps",
+          "fontWeight": 700,
+          "color": "rgb(0, 0, 0)"
+        },
+        "bodyBounds": {
+          "x": 0,
+          "y": 450,
+          "width": 1440,
+          "height": 3736
+        },
+        "bodyStartY": 450,
+        "bodyPlaceholders": [
+          {
+            "type": "image",
+            "x": 752,
+            "y": 450,
+            "width": 268,
+            "height": 111
+          },
+          {
+            "type": "text",
+            "x": 144,
+            "y": 463,
+            "width": 523,
+            "height": 80
+          },
+          {
+            "type": "text",
+            "x": 144,
+            "y": 578,
+            "width": 311,
+            "height": 50
+          },
+          {
+            "type": "image",
+            "x": 144,
+            "y": 884,
+            "width": 341,
+            "height": 410
+          },
+          {
+            "type": "image",
+            "x": 549,
+            "y": 884,
+            "width": 341,
+            "height": 557
+          },
+          {
+            "type": "image",
+            "x": 955,
+            "y": 884,
+            "width": 341,
+            "height": 739
+          },
+          {
+            "type": "text",
+            "x": 144,
+            "y": 1320,
+            "width": 326,
+            "height": 66
+          },
+          {
+            "type": "text",
+            "x": 144,
+            "y": 1398,
+            "width": 337,
+            "height": 40
+          },
+          {
+            "type": "text",
+            "x": 549,
+            "y": 1467,
+            "width": 292,
+            "height": 101
+          },
+          {
+            "type": "text",
+            "x": 549,
+            "y": 1581,
+            "width": 335,
+            "height": 40
+          },
+          {
+            "type": "text",
+            "x": 955,
+            "y": 1649,
+            "width": 321,
+            "height": 66
+          },
+          {
+            "type": "text",
+            "x": 955,
+            "y": 1727,
+            "width": 317,
+            "height": 40
+          },
+          {
+            "type": "text",
+            "x": 326,
+            "y": 2029,
+            "width": 788,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 387,
+            "y": 2085,
+            "width": 666,
+            "height": 22
+          },
+          {
+            "type": "text",
+            "x": 385,
+            "y": 2434,
+            "width": 670,
+            "height": 38
+          },
+          {
+            "type": "image",
+            "x": 145,
+            "y": 2540,
+            "width": 274,
+            "height": 171
+          },
+          {
+            "type": "image",
+            "x": 437,
+            "y": 2540,
+            "width": 274,
+            "height": 171
+          },
+          {
+            "type": "image",
+            "x": 729,
+            "y": 2540,
+            "width": 274,
+            "height": 171
+          },
+          {
+            "type": "image",
+            "x": 1021,
+            "y": 2540,
+            "width": 274,
+            "height": 171
+          },
+          {
+            "type": "text",
+            "x": 169,
+            "y": 2735,
+            "width": 135,
+            "height": 27
+          },
+          {
+            "type": "text",
+            "x": 461,
+            "y": 2735,
+            "width": 137,
+            "height": 27
+          },
+          {
+            "type": "text",
+            "x": 753,
+            "y": 2735,
+            "width": 121,
+            "height": 27
+          },
+          {
+            "type": "text",
+            "x": 1045,
+            "y": 2735,
+            "width": 119,
+            "height": 27
+          },
+          {
+            "type": "text",
+            "x": 169,
+            "y": 2774,
+            "width": 181,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 461,
+            "y": 2774,
+            "width": 210,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 753,
+            "y": 2774,
+            "width": 163,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 1045,
+            "y": 2774,
+            "width": 217,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 349,
+            "y": 3098,
+            "width": 742,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 605,
+            "y": 3154,
+            "width": 230,
+            "height": 22
+          },
+          {
+            "type": "image",
+            "x": 144,
+            "y": 3308,
+            "width": 279,
+            "height": 279
+          },
+          {
+            "type": "image",
+            "x": 435,
+            "y": 3308,
+            "width": 279,
+            "height": 279
+          },
+          {
+            "type": "image",
+            "x": 726,
+            "y": 3308,
+            "width": 279,
+            "height": 279
+          },
+          {
+            "type": "image",
+            "x": 1017,
+            "y": 3308,
+            "width": 279,
+            "height": 279
+          },
+          {
+            "type": "text",
+            "x": 479,
+            "y": 3846,
+            "width": 482,
+            "height": 82
+          },
+          {
+            "type": "text",
+            "x": 619,
+            "y": 3950,
+            "width": 203,
+            "height": 22
+          },
+          {
+            "type": "text",
+            "x": 659,
+            "y": 4008,
+            "width": 122,
+            "height": 50
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://wknd-trendsetters.site/fashion-trends-young-adults-casual-sport",
+      "blocks": [
+        {
+          "id": "hero-398435e",
+          "type": "hero",
+          "confidence": "high",
+          "description": "1 heading + 2 images + 1 CTA + 1 paragraph block",
+          "content": {
+            "headingCount": 1,
+            "paragraphCount": 1,
+            "imageCount": 2,
+            "buttonCount": 1,
+            "linkCount": 1,
+            "listCount": 0,
+            "childCount": 1,
+            "hasForm": false,
+            "hasVideo": false
+          },
+          "visualChars": {
+            "colorScheme": "light",
+            "density": "minimal",
+            "hasBackgroundImage": false,
+            "hasGrid": false,
+            "imagePattern": "large",
+            "structure": "heading + text + 1 CTAs + 2 images"
+          },
+          "selector": "header.section.secondary-section",
+          "bounds": {
+            "x": 0,
+            "y": 83,
+            "width": 1440,
+            "height": 605
+          },
+          "screenshot": "blocks/hero-398435e.jpg"
+        },
+        {
+          "id": "cards-5e07a5f2",
+          "type": "cards",
+          "confidence": "high",
+          "description": "1 heading + 1 image + 1 paragraph block",
+          "content": {
+            "headingCount": 1,
+            "paragraphCount": 1,
+            "imageCount": 1,
+            "buttonCount": 0,
+            "linkCount": 0,
+            "listCount": 0,
+            "childCount": 2,
+            "hasForm": false,
+            "hasVideo": false
+          },
+          "visualChars": {
+            "colorScheme": "dark",
+            "density": "minimal",
+            "hasBackgroundImage": false,
+            "hasGrid": false,
+            "imagePattern": "large",
+            "structure": "heading + text + image"
+          },
+          "itemCount": 2,
+          "selector": "#trends > div:nth-child(1) > div:nth-child(2) > a:nth-child(1)",
+          "bounds": {
+            "x": 144,
+            "y": 965,
+            "width": 276,
+            "height": 432
+          },
+          "screenshot": "blocks/cards-5e07a5f2.jpg"
+        },
+        {
+          "id": "cards-5e07a611",
+          "type": "cards",
+          "confidence": "high",
+          "description": "1 heading + 1 image + 1 paragraph block",
+          "content": {
+            "headingCount": 1,
+            "paragraphCount": 1,
+            "imageCount": 1,
+            "buttonCount": 0,
+            "linkCount": 0,
+            "listCount": 0,
+            "childCount": 2,
+            "hasForm": false,
+            "hasVideo": false
+          },
+          "visualChars": {
+            "colorScheme": "dark",
+            "density": "minimal",
+            "hasBackgroundImage": false,
+            "hasGrid": false,
+            "imagePattern": "large",
+            "structure": "heading + text + image"
+          },
+          "itemCount": 2,
+          "selector": "#trends > div:nth-child(1) > div:nth-child(2) > a:nth-child(2)",
+          "bounds": {
+            "x": 436,
+            "y": 965,
+            "width": 276,
+            "height": 432
+          },
+          "screenshot": "blocks/cards-5e07a611.jpg"
+        },
+        {
+          "id": "cards-5e07a630",
+          "type": "cards",
+          "confidence": "high",
+          "description": "1 heading + 1 image + 1 paragraph block",
+          "content": {
+            "headingCount": 1,
+            "paragraphCount": 1,
+            "imageCount": 1,
+            "buttonCount": 0,
+            "linkCount": 0,
+            "listCount": 0,
+            "childCount": 2,
+            "hasForm": false,
+            "hasVideo": false
+          },
+          "visualChars": {
+            "colorScheme": "dark",
+            "density": "minimal",
+            "hasBackgroundImage": false,
+            "hasGrid": false,
+            "imagePattern": "large",
+            "structure": "heading + text + image"
+          },
+          "itemCount": 2,
+          "selector": "#trends > div:nth-child(1) > div:nth-child(2) > a:nth-child(3)",
+          "bounds": {
+            "x": 728,
+            "y": 965,
+            "width": 276,
+            "height": 432
+          },
+          "screenshot": "blocks/cards-5e07a630.jpg"
+        },
+        {
+          "id": "cards-5e07a64f",
+          "type": "cards",
+          "confidence": "high",
+          "description": "1 heading + 1 image + 1 paragraph block",
+          "content": {
+            "headingCount": 1,
+            "paragraphCount": 1,
+            "imageCount": 1,
+            "buttonCount": 0,
+            "linkCount": 0,
+            "listCount": 0,
+            "childCount": 2,
+            "hasForm": false,
+            "hasVideo": false
+          },
+          "visualChars": {
+            "colorScheme": "dark",
+            "density": "minimal",
+            "hasBackgroundImage": false,
+            "hasGrid": false,
+            "imagePattern": "large",
+            "structure": "heading + text + image"
+          },
+          "itemCount": 2,
+          "selector": "#trends > div:nth-child(1) > div:nth-child(2) > a:nth-child(4)",
+          "bounds": {
+            "x": 1020,
+            "y": 965,
+            "width": 276,
+            "height": 432
+          },
+          "screenshot": "blocks/cards-5e07a64f.jpg"
+        },
+        {
+          "id": "cards-5e07a66e",
+          "type": "cards",
+          "confidence": "high",
+          "description": "1 heading + 1 image + 1 paragraph block",
+          "content": {
+            "headingCount": 1,
+            "paragraphCount": 1,
+            "imageCount": 1,
+            "buttonCount": 0,
+            "linkCount": 0,
+            "listCount": 0,
+            "childCount": 2,
+            "hasForm": false,
+            "hasVideo": false
+          },
+          "visualChars": {
+            "colorScheme": "dark",
+            "density": "minimal",
+            "hasBackgroundImage": false,
+            "hasGrid": false,
+            "imagePattern": "large",
+            "structure": "heading + text + image"
+          },
+          "itemCount": 2,
+          "selector": "#trends > div:nth-child(1) > div:nth-child(2) > a:nth-child(5)",
+          "bounds": {
+            "x": 144,
+            "y": 1413,
+            "width": 276,
+            "height": 409
+          },
+          "screenshot": "blocks/cards-5e07a66e.jpg"
+        },
+        {
+          "id": "cards-5e07a68d",
+          "type": "cards",
+          "confidence": "high",
+          "description": "1 heading + 1 image + 1 paragraph block",
+          "content": {
+            "headingCount": 1,
+            "paragraphCount": 1,
+            "imageCount": 1,
+            "buttonCount": 0,
+            "linkCount": 0,
+            "listCount": 0,
+            "childCount": 2,
+            "hasForm": false,
+            "hasVideo": false
+          },
+          "visualChars": {
+            "colorScheme": "dark",
+            "density": "minimal",
+            "hasBackgroundImage": false,
+            "hasGrid": false,
+            "imagePattern": "large",
+            "structure": "heading + text + image"
+          },
+          "itemCount": 2,
+          "selector": "#trends > div:nth-child(1) > div:nth-child(2) > a:nth-child(6)",
+          "bounds": {
+            "x": 436,
+            "y": 1413,
+            "width": 276,
+            "height": 409
+          },
+          "screenshot": "blocks/cards-5e07a68d.jpg"
+        },
+        {
+          "id": "cards-5e07a6ac",
+          "type": "cards",
+          "confidence": "high",
+          "description": "1 heading + 1 image + 1 paragraph block",
+          "content": {
+            "headingCount": 1,
+            "paragraphCount": 1,
+            "imageCount": 1,
+            "buttonCount": 0,
+            "linkCount": 0,
+            "listCount": 0,
+            "childCount": 2,
+            "hasForm": false,
+            "hasVideo": false
+          },
+          "visualChars": {
+            "colorScheme": "dark",
+            "density": "minimal",
+            "hasBackgroundImage": false,
+            "hasGrid": false,
+            "imagePattern": "large",
+            "structure": "heading + text + image"
+          },
+          "itemCount": 2,
+          "selector": "#trends > div:nth-child(1) > div:nth-child(2) > a:nth-child(7)",
+          "bounds": {
+            "x": 728,
+            "y": 1413,
+            "width": 276,
+            "height": 409
+          },
+          "screenshot": "blocks/cards-5e07a6ac.jpg"
+        },
+        {
+          "id": "cards-5e07a6cb",
+          "type": "cards",
+          "confidence": "high",
+          "description": "1 heading + 1 image + 1 paragraph block",
+          "content": {
+            "headingCount": 1,
+            "paragraphCount": 1,
+            "imageCount": 1,
+            "buttonCount": 0,
+            "linkCount": 0,
+            "listCount": 0,
+            "childCount": 2,
+            "hasForm": false,
+            "hasVideo": false
+          },
+          "visualChars": {
+            "colorScheme": "dark",
+            "density": "minimal",
+            "hasBackgroundImage": false,
+            "hasGrid": false,
+            "imagePattern": "large",
+            "structure": "heading + text + image"
+          },
+          "itemCount": 2,
+          "selector": "#trends > div:nth-child(1) > div:nth-child(2) > a:nth-child(8)",
+          "bounds": {
+            "x": 1020,
+            "y": 1413,
+            "width": 276,
+            "height": 409
+          },
+          "screenshot": "blocks/cards-5e07a6cb.jpg"
+        },
+        {
+          "id": "unknown-20351afa",
+          "type": "unknown",
+          "confidence": "low",
+          "description": "1 heading + 1 image + 1 CTA + 1 paragraph block",
+          "content": {
+            "headingCount": 1,
+            "paragraphCount": 1,
+            "imageCount": 1,
+            "buttonCount": 1,
+            "linkCount": 1,
+            "listCount": 0,
+            "childCount": 1,
+            "hasForm": false,
+            "hasVideo": false
+          },
+          "visualChars": {
+            "colorScheme": "light",
+            "density": "minimal",
+            "hasBackgroundImage": false,
+            "hasGrid": false,
+            "imagePattern": "large",
+            "structure": "heading + text + 1 CTAs + image"
+          },
+          "selector": "section.section.secondary-section",
+          "bounds": {
+            "x": 0,
+            "y": 1950,
+            "width": 1440,
+            "height": 632
+          },
+          "screenshot": "blocks/unknown-20351afa.jpg"
+        },
+        {
+          "id": "unknown-5ca9e7cc",
+          "type": "unknown",
+          "confidence": "low",
+          "description": "1 heading + 1 CTA + 1 paragraph block",
+          "content": {
+            "headingCount": 1,
+            "paragraphCount": 1,
+            "imageCount": 0,
+            "buttonCount": 1,
+            "linkCount": 1,
+            "listCount": 0,
+            "childCount": 1,
+            "hasForm": false,
+            "hasVideo": false
+          },
+          "visualChars": {
+            "colorScheme": "light",
+            "density": "minimal",
+            "hasBackgroundImage": false,
+            "hasGrid": false,
+            "imagePattern": "noimg",
+            "structure": "heading + text + 1 CTAs"
+          },
+          "selector": "section.section.accent-section",
+          "bounds": {
+            "x": 0,
+            "y": 2582,
+            "width": 1440,
+            "height": 471
+          },
+          "screenshot": "blocks/unknown-5ca9e7cc.jpg"
+        }
+      ],
+      "fingerprints": {
+        "urlPattern": "/fashion-trends-young-adults-casual-sport",
+        "topSectionBounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 500
+        },
+        "topSectionStrategy": "title+container",
+        "topSectionPlaceholders": [
+          {
+            "type": "text",
+            "x": 24,
+            "y": 0,
+            "width": 146,
+            "height": 18
+          },
+          {
+            "type": "text",
+            "x": 144,
+            "y": 131,
+            "width": 507,
+            "height": 178
+          },
+          {
+            "type": "image",
+            "x": 752,
+            "y": 213,
+            "width": 268,
+            "height": 179
+          },
+          {
+            "type": "image",
+            "x": 1028,
+            "y": 213,
+            "width": 268,
+            "height": 179
+          },
+          {
+            "type": "text",
+            "x": 144,
+            "y": 340,
+            "width": 511,
+            "height": 51
+          },
+          {
+            "type": "text",
+            "x": 144,
+            "y": 427,
+            "width": 128,
+            "height": 50
+          }
+        ],
+        "topSectionTextElements": [
+          {
+            "tag": "a",
+            "fontSize": 14,
+            "fontWeight": 600,
+            "fontFamily": "instrument sans",
+            "color": "#f0f0f0",
+            "backgroundColor": "#000000",
+            "x": 24,
+            "y": 0,
+            "width": 178,
+            "height": 38,
+            "textLength": 20
+          },
+          {
+            "tag": "h1",
+            "fontSize": 56,
+            "fontWeight": 700,
+            "fontFamily": "syncopate",
+            "color": "#000000",
+            "backgroundColor": "#f0f0f0",
+            "x": 144,
+            "y": 128,
+            "width": 544,
+            "height": 185,
+            "textLength": 31
+          },
+          {
+            "tag": "p",
+            "fontSize": 18,
+            "fontWeight": 400,
+            "fontFamily": "instrument sans",
+            "color": "#000000",
+            "backgroundColor": "#f0f0f0",
+            "x": 144,
+            "y": 337,
+            "width": 544,
+            "height": 58,
+            "textLength": 106
+          },
+          {
+            "tag": "a",
+            "fontSize": 14,
+            "fontWeight": 600,
+            "fontFamily": "instrument sans",
+            "color": "#f0f0f0",
+            "backgroundColor": "#000000",
+            "x": 144,
+            "y": 426,
+            "width": 128,
+            "height": 50,
+            "textLength": 10
+          }
+        ],
+        "topSectionCropBottomY": 477,
+        "topSectionTitleRect": {
+          "x": 144,
+          "y": 128,
+          "width": 544,
+          "height": 185,
+          "text": "Fresh fits, bold moves, all you",
+          "fontWeight": 700,
+          "color": "rgb(0, 0, 0)"
+        },
+        "bodyBounds": {
+          "x": 0,
+          "y": 500,
+          "width": 1440,
+          "height": 2486
+        },
+        "bodyStartY": 500,
+        "bodyPlaceholders": [
+          {
+            "type": "text",
+            "x": 534,
+            "y": 736,
+            "width": 372,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 629,
+            "y": 792,
+            "width": 182,
+            "height": 22
+          },
+          {
+            "type": "image",
+            "x": 145,
+            "y": 883,
+            "width": 274,
+            "height": 206
+          },
+          {
+            "type": "image",
+            "x": 437,
+            "y": 883,
+            "width": 274,
+            "height": 206
+          },
+          {
+            "type": "image",
+            "x": 729,
+            "y": 883,
+            "width": 274,
+            "height": 206
+          },
+          {
+            "type": "image",
+            "x": 1021,
+            "y": 883,
+            "width": 274,
+            "height": 206
+          },
+          {
+            "type": "text",
+            "x": 181,
+            "y": 1119,
+            "width": 56,
+            "height": 15
+          },
+          {
+            "type": "text",
+            "x": 473,
+            "y": 1119,
+            "width": 46,
+            "height": 15
+          },
+          {
+            "type": "text",
+            "x": 765,
+            "y": 1119,
+            "width": 72,
+            "height": 15
+          },
+          {
+            "type": "text",
+            "x": 1057,
+            "y": 1119,
+            "width": 54,
+            "height": 15
+          },
+          {
+            "type": "text",
+            "x": 169,
+            "y": 1159,
+            "width": 181,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 461,
+            "y": 1159,
+            "width": 163,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 753,
+            "y": 1159,
+            "width": 165,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 1045,
+            "y": 1159,
+            "width": 177,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 169,
+            "y": 1209,
+            "width": 220,
+            "height": 85
+          },
+          {
+            "type": "text",
+            "x": 461,
+            "y": 1209,
+            "width": 224,
+            "height": 63
+          },
+          {
+            "type": "text",
+            "x": 753,
+            "y": 1209,
+            "width": 220,
+            "height": 63
+          },
+          {
+            "type": "text",
+            "x": 1045,
+            "y": 1209,
+            "width": 211,
+            "height": 63
+          },
+          {
+            "type": "image",
+            "x": 145,
+            "y": 1339,
+            "width": 274,
+            "height": 206
+          },
+          {
+            "type": "image",
+            "x": 437,
+            "y": 1339,
+            "width": 274,
+            "height": 206
+          },
+          {
+            "type": "image",
+            "x": 729,
+            "y": 1339,
+            "width": 274,
+            "height": 206
+          },
+          {
+            "type": "image",
+            "x": 1021,
+            "y": 1339,
+            "width": 274,
+            "height": 206
+          },
+          {
+            "type": "text",
+            "x": 181,
+            "y": 1575,
+            "width": 47,
+            "height": 15
+          },
+          {
+            "type": "text",
+            "x": 473,
+            "y": 1575,
+            "width": 66,
+            "height": 15
+          },
+          {
+            "type": "text",
+            "x": 765,
+            "y": 1575,
+            "width": 41,
+            "height": 15
+          },
+          {
+            "type": "text",
+            "x": 1057,
+            "y": 1575,
+            "width": 46,
+            "height": 15
+          },
+          {
+            "type": "text",
+            "x": 169,
+            "y": 1615,
+            "width": 188,
+            "height": 18
+          },
+          {
+            "type": "text",
+            "x": 461,
+            "y": 1615,
+            "width": 197,
+            "height": 18
+          },
+          {
+            "type": "text",
+            "x": 753,
+            "y": 1615,
+            "width": 174,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 1045,
+            "y": 1615,
+            "width": 160,
+            "height": 38
+          },
+          {
+            "type": "text",
+            "x": 169,
+            "y": 1645,
+            "width": 225,
+            "height": 63
+          },
+          {
+            "type": "text",
+            "x": 461,
+            "y": 1645,
+            "width": 212,
+            "height": 63
+          },
+          {
+            "type": "text",
+            "x": 753,
+            "y": 1665,
+            "width": 225,
+            "height": 63
+          },
+          {
+            "type": "text",
+            "x": 1045,
+            "y": 1665,
+            "width": 205,
+            "height": 63
+          },
+          {
+            "type": "image",
+            "x": 144,
+            "y": 2011,
+            "width": 564,
+            "height": 376
+          },
+          {
+            "type": "text",
+            "x": 732,
+            "y": 2080,
+            "width": 482,
+            "height": 82
+          },
+          {
+            "type": "text",
+            "x": 732,
+            "y": 2184,
+            "width": 504,
+            "height": 51
+          },
+          {
+            "type": "text",
+            "x": 732,
+            "y": 2271,
+            "width": 167,
+            "height": 50
+          },
+          {
+            "type": "text",
+            "x": 479,
+            "y": 2646,
+            "width": 482,
+            "height": 82
+          },
+          {
+            "type": "text",
+            "x": 541,
+            "y": 2750,
+            "width": 358,
+            "height": 22
+          },
+          {
+            "type": "text",
+            "x": 659,
+            "y": 2808,
+            "width": 122,
+            "height": 50
+          }
+        ]
+      }
+    }
+  ]
+}

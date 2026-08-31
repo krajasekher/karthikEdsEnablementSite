@@ -1,0 +1,47 @@
+{
+  "variantName": "1 heading + 1 image + 1 cta + 1 paragraph block-minimal-dark-withimg",
+  "baseBlock": "unknown",
+  "canonicalModel": "standalone",
+  "version": "1.0.0",
+  "created": "2026-08-31T05:13:30.906Z",
+  "sourceContext": {
+    "originUrl": "https://wknd-trendsetters.site/",
+    "discoveredDuring": "site-scope-analysis"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "dark",
+    "density": "minimal",
+    "hasBackgroundImage": false,
+    "hasGrid": false,
+    "imagePattern": "large",
+    "structure": "heading + text + 1 CTAs + image"
+  },
+  "knownSignatures": [
+    "{\"canonicalModel\":\"standalone\",\"type\":\"unknown\",\"visualChars\":{\"colorScheme\":\"dark\",\"density\":\"minimal\",\"hasBackgroundImage\":false,\"hasGrid\":false,\"imagePattern\":\"large\",\"structure\":\"heading + text + 1 CTAs + image\"}}"
+  ],
+  "usage": {
+    "pagesUsing": [
+      {
+        "url": "https://wknd-trendsetters.site/",
+        "screenshot": ".pages/wknd-trendsetters_site--32ff5b5e/blocks/unknown-4c4f0c36.jpg"
+      },
+      {
+        "url": "https://wknd-trendsetters.site/blog",
+        "screenshot": ".pages/wknd-trendsetters_site_blog--c5abf4d2/blocks/unknown-37f927fd.jpg"
+      },
+      {
+        "url": "https://wknd-trendsetters.site/case-studies",
+        "screenshot": ".pages/wknd-trendsetters_site_case-studies--6e72cf32/blocks/unknown-4c4f0c36.jpg"
+      },
+      {
+        "url": "https://wknd-trendsetters.site/fashion-insights",
+        "screenshot": ".pages/wknd-trendsetters_site_fashion-insights--055129b6/blocks/unknown-37f927fd.jpg"
+      },
+      {
+        "url": "https://wknd-trendsetters.site/fashion-trends-of-the-season",
+        "screenshot": ".pages/wknd-trendsetters_site_fashion-trends-of-the-season--c3986399/blocks/unknown-7e24c59.jpg"
+      }
+    ],
+    "reuseCount": 5
+  }
+}

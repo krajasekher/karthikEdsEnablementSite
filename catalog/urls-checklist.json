@@ -1,0 +1,103 @@
+{
+  "analysis-urls-checklist": {
+    "captured": "2026-08-31T05:11:03.159Z",
+    "totalPages": 15,
+    "statusBreakdown": {
+      "marked": 0,
+      "analyzed": 15,
+      "failed": 0
+    },
+    "pages": {
+      "https://wknd-trendsetters.site/": {
+        "url": "https://wknd-trendsetters.site/",
+        "status": "analyzed",
+        "analyzedAt": "2026-08-31T05:11:15.001Z",
+        "slug": "wknd-trendsetters_site--32ff5b5e"
+      },
+      "https://wknd-trendsetters.site/blog": {
+        "url": "https://wknd-trendsetters.site/blog",
+        "status": "analyzed",
+        "analyzedAt": "2026-08-31T05:11:14.004Z",
+        "slug": "wknd-trendsetters_site_blog--c5abf4d2"
+      },
+      "https://wknd-trendsetters.site/blog/latest-trends-young-casual-fashion": {
+        "url": "https://wknd-trendsetters.site/blog/latest-trends-young-casual-fashion",
+        "status": "analyzed",
+        "analyzedAt": "2026-08-31T05:11:14.816Z",
+        "slug": "wknd-trendsetters_site_blog_latest-trends-young-casual-fashion--68825ee3"
+      },
+      "https://wknd-trendsetters.site/blog/fashion-trends-young-culture": {
+        "url": "https://wknd-trendsetters.site/blog/fashion-trends-young-culture",
+        "status": "analyzed",
+        "analyzedAt": "2026-08-31T05:11:16.441Z",
+        "slug": "wknd-trendsetters_site_blog_fashion-trends-young-culture--df14d5aa"
+      },
+      "https://wknd-trendsetters.site/blog/fashion-trends-young-style": {
+        "url": "https://wknd-trendsetters.site/blog/fashion-trends-young-style",
+        "status": "analyzed",
+        "analyzedAt": "2026-08-31T05:11:17.656Z",
+        "slug": "wknd-trendsetters_site_blog_fashion-trends-young-style--85d6178c"
+      },
+      "https://wknd-trendsetters.site/blog/fashion-blog-post": {
+        "url": "https://wknd-trendsetters.site/blog/fashion-blog-post",
+        "status": "analyzed",
+        "analyzedAt": "2026-08-31T05:11:23.740Z",
+        "slug": "wknd-trendsetters_site_blog_fashion-blog-post--d799affb"
+      },
+      "https://wknd-trendsetters.site/blog/ace-pro-court-polo": {
+        "url": "https://wknd-trendsetters.site/blog/ace-pro-court-polo",
+        "status": "analyzed",
+        "analyzedAt": "2026-08-31T05:11:26.026Z",
+        "slug": "wknd-trendsetters_site_blog_ace-pro-court-polo--f4d90163"
+      },
+      "https://wknd-trendsetters.site/blog/flip-flop-summer-style": {
+        "url": "https://wknd-trendsetters.site/blog/flip-flop-summer-style",
+        "status": "analyzed",
+        "analyzedAt": "2026-08-31T05:11:26.153Z",
+        "slug": "wknd-trendsetters_site_blog_flip-flop-summer-style--2c4ce901"
+      },
+      "https://wknd-trendsetters.site/blog/street-style-trends": {
+        "url": "https://wknd-trendsetters.site/blog/street-style-trends",
+        "status": "analyzed",
+        "analyzedAt": "2026-08-31T05:11:26.361Z",
+        "slug": "wknd-trendsetters_site_blog_street-style-trends--2dba1005"
+      },
+      "https://wknd-trendsetters.site/fashion-trends-young-adults-casual-sport": {
+        "url": "https://wknd-trendsetters.site/fashion-trends-young-adults-casual-sport",
+        "status": "analyzed",
+        "analyzedAt": "2026-08-31T05:11:28.812Z",
+        "slug": "wknd-trendsetters_site_fashion-trends-young-adults-casual-sport--b40dc265"
+      },
+      "https://wknd-trendsetters.site/fashion-trends-young-adults": {
+        "url": "https://wknd-trendsetters.site/fashion-trends-young-adults",
+        "status": "analyzed",
+        "analyzedAt": "2026-08-31T05:11:34.843Z",
+        "slug": "wknd-trendsetters_site_fashion-trends-young-adults--6f041216"
+      },
+      "https://wknd-trendsetters.site/case-studies": {
+        "url": "https://wknd-trendsetters.site/case-studies",
+        "status": "analyzed",
+        "analyzedAt": "2026-08-31T05:11:37.357Z",
+        "slug": "wknd-trendsetters_site_case-studies--6e72cf32"
+      },
+      "https://wknd-trendsetters.site/fashion-trends-of-the-season": {
+        "url": "https://wknd-trendsetters.site/fashion-trends-of-the-season",
+        "status": "analyzed",
+        "analyzedAt": "2026-08-31T05:11:37.515Z",
+        "slug": "wknd-trendsetters_site_fashion-trends-of-the-season--c3986399"
+      },
+      "https://wknd-trendsetters.site/faq": {
+        "url": "https://wknd-trendsetters.site/faq",
+        "status": "analyzed",
+        "analyzedAt": "2026-08-31T05:11:36.599Z",
+        "slug": "wknd-trendsetters_site_faq--5706b7ac"
+      },
+      "https://wknd-trendsetters.site/fashion-insights": {
+        "url": "https://wknd-trendsetters.site/fashion-insights",
+        "status": "analyzed",
+        "analyzedAt": "2026-08-31T05:11:39.697Z",
+        "slug": "wknd-trendsetters_site_fashion-insights--055129b6"
+      }
+    }
+  }
+}

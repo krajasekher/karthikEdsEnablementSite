@@ -1,0 +1,87 @@
+Session: TEMPLATING -> TEMPLATING
+Checklist complete: 15 terminal entries (15 analyzed, 0 failed)
+============================================================
+PAGE TEMPLATE DISCOVERY (Histogram + Signature)
+============================================================
+Config: /backups/krajasekher/karthikEdsEnablementSite/repo/catalog/.catalog-config.json
+Policy
+  merge phase: top-section only (body shape never used in merge gate)
+  family_body_split: True
+  body matcher: column-shape signature, smaller-side fully paired
+
+PHASE 1: Loading Fingerprints
+----------------------------------------
+Loaded 15 page fingerprints
+
+PHASE 2: URL Grouping
+----------------------------------------
+URL grouping: 1 path groups + 8 root singletons
+  Group 1 (blog): 7 pages
+
+PHASE 3: Local Seed Validation And Split (layout partition)
+----------------------------------------
+  Seed group 1 (7p): KEEP
+    reason: all pages share a layout descriptor
+Layout-descriptor partition: 0 splits
+
+PHASE 4: Template Candidate Merging (top-section only)
+----------------------------------------
+Singletons before merge: 8
+
+Starting: 9 total (1 clusters, 8 singletons)
+Top-section merge gate: layout match (text=subsequence, visual=exact coverage bucket, representative-or-mode). Body split runs in Phase 5.
+
+Merging (single-loop HAC)
+  ✓ MERGE: -7 → 1  [sim: 100%]
+      https://wknd-trendsetters.site/fashion-trends-young-adults → https://wknd-trendsetters.site/blog/ace-pro-court-polo
+  ✓ MERGE: -6 → 1  [sim: 100%]
+      https://wknd-trendsetters.site/fashion-trends-of-the-season → https://wknd-trendsetters.site/blog/ace-pro-court-polo
+  ✓ MERGE: -4 → 1  [sim: 100%]
+      https://wknd-trendsetters.site/faq → https://wknd-trendsetters.site/blog/ace-pro-court-polo
+  ✓ MERGE: -1 → 1  [sim: 100%]
+      https://wknd-trendsetters.site/ → https://wknd-trendsetters.site/blog/ace-pro-court-polo
+  ✓ MERGE: -5 → -3  [sim: 100%]
+      https://wknd-trendsetters.site/fashion-insights → https://wknd-trendsetters.site/case-studies
+  ✓ MERGE: -2 → -3  [sim: 100%]
+      https://wknd-trendsetters.site/blog → https://wknd-trendsetters.site/case-studies
+  6 merges total (converged)
+
+==================================================
+MERGE SUMMARY
+==================================================
+Before: 9 clusters
+After:  3 clusters (2 multi-page, 1 singletons)
+Merged: 6 clusters (6 pages reassigned)
+==================================================
+
+
+PHASE 5: Family Body Split
+----------------------------------------
+  Family -8: 1p -> 1 template (pair_matches=0/0)
+  Family -3: 3p -> 1 template (pair_matches=2/2)
+  Family 1: 11p -> 3 templates [7, 3, 1] (pair_matches=8/13)
+
+PHASE 6: Build Template Catalog
+----------------------------------------
+  Template candidate -8: 1p
+  Template candidate -3: 3p
+  Template candidate 1: 7p
+  Template candidate 2: 3p
+  Template candidate 3: 1p
+Built 5 templates
+
+PHASE 7: Saving Results
+----------------------------------------
+Saved: /backups/krajasekher/karthikEdsEnablementSite/repo/catalog/.clusters/pages.templates.json
+Saved: /backups/krajasekher/karthikEdsEnablementSite/repo/catalog/.clusters/pages.templates.grouped.json
+Saved: /backups/krajasekher/karthikEdsEnablementSite/repo/catalog/.clusters/pages.templates.summary.json
+Saved: /backups/krajasekher/karthikEdsEnablementSite/repo/catalog/.template-catalog-scoped.json
+
+PHASE 8: Template Report & Migration Bundle
+----------------------------------------
+  Report stats: 5 templates, 15 pages, 2 singletons, biggest family=7
+  Wrote bundle: /backups/krajasekher/karthikEdsEnablementSite/repo/catalog/template-catalog-report-bundle.zip
+
+Session: AWAITING_NAMING
+
+Template discovery complete: 5 templates, 2 singletons. Ready for naming.
