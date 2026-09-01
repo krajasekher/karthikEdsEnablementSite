@@ -15,6 +15,7 @@
   --background-color: #fff;
   --light-color: #f5f5f5;
   --dark-color: #000;
+  --accent-color: #f4fe8b;
   --text-color: #000;
   --link-color: #666;
   --link-hover-color: #333;
@@ -66,7 +67,7 @@
 
     /* heading sizes — desktop values extracted from source */
     --heading-font-size-xxl: 40px;
-    --heading-font-size-xl: 32px;
+    --heading-font-size-xl: 40px;
     --heading-font-size-l: 18px;
     --heading-font-size-m: 16px;
     --heading-font-size-s: 15px;
@@ -346,4 +347,11 @@ main .section.dark h4,
 main .section.dark h5,
 main .section.dark h6 {
   color: #fff;
+}
+
+/* accent section — bright band (extracted from wknd-trendsetters.site) */
+main .section.accent {
+  background-color: var(--accent-color);
+  margin: 0;
+  padding: var(--section-padding) 0;
 }
