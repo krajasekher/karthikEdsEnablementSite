@@ -50,7 +50,7 @@ const PAGE_TEMPLATE = {
     { name: 'photo-gallery', instances: ['#main-content > section.section.secondary-section:nth-of-type(2) > .container > .grid-layout:last-of-type'] },
     { name: 'tabs-testimonial', instances: ['#main-content > section.section:nth-of-type(3) .tabs-wrapper'] },
     { name: 'cards', instances: ['#main-content > section.section.secondary-section:nth-of-type(4) > .container > .grid-layout:last-of-type'] },
-    { name: 'accordion-faq', instances: ['#main-content > section.section:nth-of-type(5) > .container > .grid-layout'] },
+    { name: 'accordion-faq', instances: ['#main-content > section.section:nth-of-type(5) .faq-list'] },
     { name: 'hero', instances: ['#main-content > section.section.inverse-section > .container'] },
   ],
 };
